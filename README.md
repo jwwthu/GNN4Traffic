@@ -101,7 +101,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Chandra R, Guan T, Panuganti S, et al. <b>Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs[J]</b>. arXiv preprint arXiv:1912.01118, 2019. [Link](https://arxiv.org/abs/1912.01118)
 
-* Zheng C, Fan X, Wang C, et al. <b>Gman: A graph multi-attention network for traffic prediction[J]</b>. arXiv preprint arXiv:1911.08415, 2019. [Link](https://arxiv.org/abs/1911.08415）
+* Zheng C, Fan X, Wang C, et al. <b>Gman: A graph multi-attention network for traffic prediction[J]</b>. arXiv preprint arXiv:1911.08415, 2019. [Link](https://arxiv.org/abs/1911.08415) [Data](https://github.com/zhengchuanpan/GMAN)
 
 * Lu M, Zhang K, Liu H, et al. <b>Graph Hierarchical Convolutional Recurrent Neural Network (GHCRNN) for Vehicle Condition Prediction[J]</b>. arXiv preprint arXiv:1903.06261, 2019. [Link](https://arxiv.org/abs/1903.06261)
 
