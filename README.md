@@ -13,6 +13,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Ge L, Li S, Wang Y, et al. <b>Global Spatial-Temporal Graph Convolutional Network for Urban Traffic Speed Prediction[J]</b>. Applied Sciences, 2020, 10(4): 1509. [Link](https://www.mdpi.com/2076-3417/10/4/1509)
 
+* Ma T, Antoniou C, Toledo T. <b>Hybrid machine learning algorithm and statistical time series model for network-wide traffic forecast[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 111: 352-372. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19303821)
+
 ## Conference
 * Shi H, Yao Q, Guo Q, et al. <b>Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network[C]</b>. ICDE 2020. [Link (not official)](http://www.cse.ust.hk/~qyaoaa/papers/ICDE-2020-MPGCN-long.pdf)
 
@@ -46,8 +48,11 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Jepsen T S, Jensen C S, Nielsen T D. <b>Graph convolutional networks for road networks[C]</b>//Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. 2019: 460-463. [Link](https://dl.acm.org/doi/abs/10.1145/3347146.3359094)
 
-* Wu Z, Pan S, Long G, et al. <b>Graph wavenet for deep spatial-temporal graph modeling[C]</b>. IJCAI, 2019. 
-[Link](https://www.ijcai.org/Proceedings/2019/0264) [Code](https://github.com/nnzhan/Graph-WaveNet)
+* Wu Z, Pan S, Long G, et al. <b>Graph wavenet for deep spatial-temporal graph modeling[C]</b>. //Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI. 2019. [Link](https://www.ijcai.org/Proceedings/2019/0264) [Code](https://github.com/nnzhan/Graph-WaveNet)
+
+* Fang S, Zhang Q, Meng G, et al. <b>Gstnet: Global spatial-temporal network for traffic flow prediction[C]</b>//Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI. 2019: 10-16. [Link](https://www.ijcai.org/Proceedings/2019/0317)
+
+* Kang Z, Xu H, Hu J, et al. <b>Learning Dynamic Graph Embedding for Traffic Flow Forecasting: A Graph Self-Attentive Method[C]</b>//2019 IEEE Intelligent Transportation Systems Conference (ITSC). IEEE, 2019: 2570-2576. [Link](https://ieeexplore.ieee.org/abstract/document/8917213/)
 
 ## Preprint
 * Zhang N, Guan X, Cao J, et al. <b>A Hybrid Traffic Speed Forecasting Approach Integrating Wavelet Transform and Motif-based Graph Convolutional Recurrent Neural Network[J]</b>. arXiv preprint arXiv:1904.06656, 2019. [Link](https://arxiv.org/abs/1904.06656)
@@ -64,8 +69,14 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Cui Z, Lin L, Pu Z, et al. <b>Graph Markov Network for Traffic Forecasting with Missing Data[J]</b>. arXiv preprint arXiv:1912.05457, 2019. [Link](https://arxiv.org/abs/1912.05457)
 
+* Mallick T, Balaprakash P, Rask E, et al. <b>Graph-Partitioning-Based Diffusion Convolution Recurrent Neural Network for Large-Scale Traffic Forecasting[J]</b>. arXiv preprint arXiv:1909.11197, 2019. [Link](https://arxiv.org/abs/1909.11197)
+
+* Shleifer S, McCreery C, Chitters V. <b>Incrementally Improving Graph WaveNet Performance on Traffic Prediction[J]</b>. arXiv preprint arXiv:1912.07390, 2019. [Link](https://arxiv.org/abs/1912.07390)
+
 # 2018
 
 ## Conference
 * Chai D, Wang L, Yang Q. <b>Bike flow prediction with multi-graph convolutional networks[C]</b>//Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. 2018: 397-400. [Link](https://dl.acm.org/doi/abs/10.1145/3274895.3274896)
+
+* Zhang Q, Jin Q, Chang J, et al. <b>Kernel-Weighted Graph Convolutional Network: A Deep Learning Approach for Traffic Forecasting[C]</b>//2018 24th International Conference on Pattern Recognition (ICPR). IEEE, 2018: 1018-1023. [Link](https://ieeexplore.ieee.org/abstract/document/8545106/)
 
