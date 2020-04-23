@@ -15,6 +15,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Ma T, Antoniou C, Toledo T. <b>Hybrid machine learning algorithm and statistical time series model for network-wide traffic forecast[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 111: 352-372. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19303821)
 
+* Cui Z, Ke R, Pu Z, et al. <b>Learning traffic as a graph: A gated graph wavelet recurrent neural network for network-scale traffic prediction[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 115: 102620. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19306448)
+
 ## Conference
 * Shi H, Yao Q, Guo Q, et al. <b>Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network[C]</b>. ICDE 2020. [Link (not official)](http://www.cse.ust.hk/~qyaoaa/papers/ICDE-2020-MPGCN-long.pdf)
 
@@ -53,6 +55,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Fang S, Zhang Q, Meng G, et al. <b>Gstnet: Global spatial-temporal network for traffic flow prediction[C]</b>//Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI. 2019: 10-16. [Link](https://www.ijcai.org/Proceedings/2019/0317)
 
 * Kang Z, Xu H, Hu J, et al. <b>Learning Dynamic Graph Embedding for Traffic Flow Forecasting: A Graph Self-Attentive Method[C]</b>//2019 IEEE Intelligent Transportation Systems Conference (ITSC). IEEE, 2019: 2570-2576. [Link](https://ieeexplore.ieee.org/abstract/document/8917213/)
+
+* Lu Z, Lv W, Xie Z, et al. <b>Leveraging Graph Neural Network with LSTM For Traffic Speed Prediction[C]</b>//2019 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI). IEEE, 2019: 74-81. [Link](https://ieeexplore.ieee.org/abstract/document/9060351)
 
 ## Preprint
 * Zhang N, Guan X, Cao J, et al. <b>A Hybrid Traffic Speed Forecasting Approach Integrating Wavelet Transform and Motif-based Graph Convolutional Recurrent Neural Network[J]</b>. arXiv preprint arXiv:1904.06656, 2019. [Link](https://arxiv.org/abs/1904.06656)
