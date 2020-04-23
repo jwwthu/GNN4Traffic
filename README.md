@@ -5,6 +5,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 ## Journal
 * Bogaerts T, Masegosa A D, Angarita-Zapata J S, et al. <b>A graph CNN-LSTM neural network for short and long-term traffic forecasting based on trajectory data[J].</b> Transportation Research Part C: Emerging Technologies, 2020, 112: 62-77. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19309349)
 
+* Zhang Y, Cheng T, Ren Y, et al. <b>A novel residual graph convolution deep learning model for short-term network-based traffic forecasting[J]</b>. International Journal of Geographical Information Science, 2020, 34(5): 969-995. [Link](https://www.tandfonline.com/doi/abs/10.1080/13658816.2019.1697879)
+
 * Guo K, Hu Y, Qian Z S, et al. <b>An Optimized Temporal-Spatial Gated Graph Convolution Network for Traffic Forecasting[J]</b>. IEEE Intelligent Transportation Systems Magazine, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9055022/)
 
 * Xiao G, Wang R, Zhang C, et al. <b>Demand prediction for a public bike sharing program based on spatio-temporal graph convolutional networks[J]</b>. Multimedia Tools and Applications, 2020: 1-19. [Link](https://link.springer.com/article/10.1007/s11042-020-08803-y)
@@ -41,6 +43,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Wang X, Guan X, Cao J, et al. <b>Forecast Network-Wide Traffic States for Multiple Steps Ahead: A Deep Learning Approach Considering Dynamic Non-Local Spatial Correlation and Non-Stationary Temporal Dependency[J]</b>. arXiv preprint arXiv:2004.02391, 2020. [Link](https://arxiv.org/abs/2004.02391)
 
+* Zhang J, Chen F, Guo Y. <b>Multi-Graph Convolutional Network for Short-Term Passenger Flow Forecasting in Urban Rail Transit[J]</b>. arXiv preprint arXiv:2001.07512, 2020. [Link](https://arxiv.org/abs/2001.07512)
+
 * Chen J, Liu L, Wu H, et al. <b>Physical-Virtual Collaboration Graph Network for Station-Level Metro Ridership Prediction[J]</b>. arXiv preprint arXiv:2001.04889, 2020. [Link](https://arxiv.org/abs/2001.04889)
 
 * Xu M, Dai W, Liu C, et al. <b>Spatial-Temporal Transformer Networks for Traffic Flow Forecasting[J]</b>. arXiv preprint arXiv:2001.02908, 2020. [Link](https://arxiv.org/abs/2001.02908)
@@ -74,11 +78,15 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 ## Conference
 * Li Z, Xiong G, Chen Y, et al. <b>A Hybrid Deep Learning Approach with GCN and LSTM for Traffic Flow Prediction[C]</b>//2019 IEEE Intelligent Transportation Systems Conference (ITSC). IEEE, 2019: 1929-1933. [Link](https://ieeexplore.ieee.org/abstract/document/8916778/)
 
+* Guo J, Song C, Wang H. <b>A Multi-step Traffic Speed Forecasting Model Based on Graph Convolutional LSTM[C]</b>//2019 Chinese Automation Congress (CAC). IEEE, 2019: 2466-2471. [Link](https://ieeexplore.ieee.org/abstract/document/8997248/)
+
 * Guo S, Lin Y, Feng N, et al. <b>Attention based spatial-temporal graph convolutional networks for traffic flow forecasting[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 922-929. [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [Code](https://github.com/guoshnBJTU/ASTGCN-r-pytorch)
 
 * Guo R, Jiang Z, Huang J, et al. <b>BikeNet: Accurate Bike Demand Prediction Using Graph Neural Networks for Station Rebalancing[C]</b>//2019 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI). IEEE, 2019: 686-693. [Link](https://ieeexplore.ieee.org/abstract/document/9060125/)
 
 * Diao Z, Wang X, Zhang D, et al. <b>Dynamic spatial-temporal graph convolutional neural networks for traffic forecasting[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 890-897. [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3877)
+
+* Chen C, Li K, Teo S G, et al. <b>Gated Residual Recurrent Graph Neural Networks for Traffic Prediction[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 485-492. [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3821)
 
 * Zhang Y, Wang S, Chen B, et al. <b>GCGAN: Generative Adversarial Nets with Graph CNN for Network-Scale Traffic Prediction[C]</b>//2019 International Joint Conference on Neural Networks (IJCNN). IEEE, 2019: 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/8852211/)
 
@@ -107,6 +115,10 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 ## Preprint
 * Zhang N, Guan X, Cao J, et al. <b>A Hybrid Traffic Speed Forecasting Approach Integrating Wavelet Transform and Motif-based Graph Convolutional Recurrent Neural Network[J]</b>. arXiv preprint arXiv:1904.06656, 2019. [Link](https://arxiv.org/abs/1904.06656)
 
+* Lee, K., & Rhee, W. (2020). <b>DDP-GCN: Multi-Graph Convolutional Network for Spatiotemporal Traffic Forecasting[J]</b>. arXiv preprint arXiv:1905.12256, 2019. [Link](https://arxiv.org/abs/1905.12256)
+
+* Lee D, Jung S, Cheon Y, et al. <b>Demand Forecasting from Spatiotemporal Data with Graph Networks and Temporal-Guided Embedding[J]</b>. arXiv preprint arXiv:1905.10709, 2019. [Link](https://arxiv.org/abs/1905.10709) [Code](https://github.com/LeeDoYup/TGNet-keras)
+
 * Xiong X, Ozbay K, Jin L, et al. <b>Dynamic Origin-Destination Matrix Prediction with Line Graph Neural Networks and Kalman Filter[J]</b>. arXiv preprint arXiv:1905.00406, 2019. [Link](https://arxiv.org/abs/1905.00406v3) [Code](https://github.com/alzmxx/OD_Prediction)
 
 * Li Y, Moura J M F. <b>Forecaster: A Graph Transformer for Forecasting Spatial and Time-Dependent Data[J]</b>. arXiv preprint arXiv:1909.04019, 2019. [Link](https://arxiv.org/abs/1909.04019)
@@ -115,21 +127,33 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Zheng C, Fan X, Wang C, et al. <b>Gman: A graph multi-attention network for traffic prediction[J]</b>. arXiv preprint arXiv:1911.08415, 2019. [Link](https://arxiv.org/abs/1911.08415) [Code](https://github.com/zhengchuanpan/GMAN)
 
+* Lee K, Rhee W. <b>Graph Convolutional Modules for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1905.12256, 2019. [Link](https://arxiv.org/abs/1905.12256)
+
 * Lu M, Zhang K, Liu H, et al. <b>Graph Hierarchical Convolutional Recurrent Neural Network (GHCRNN) for Vehicle Condition Prediction[J]</b>. arXiv preprint arXiv:1903.06261, 2019. [Link](https://arxiv.org/abs/1903.06261)
 
 * Cui Z, Lin L, Pu Z, et al. <b>Graph Markov Network for Traffic Forecasting with Missing Data[J]</b>. arXiv preprint arXiv:1912.05457, 2019. [Link](https://arxiv.org/abs/1912.05457)
 
 * Mallick T, Balaprakash P, Rask E, et al. <b>Graph-Partitioning-Based Diffusion Convolution Recurrent Neural Network for Large-Scale Traffic Forecasting[J]</b>. arXiv preprint arXiv:1909.11197, 2019. [Link](https://arxiv.org/abs/1909.11197)
 
+* Xie Q, Guo T, Chen Y, et al. <b>" How do urban incidents affect traffic speed?" A Deep Graph Convolutional Network for Incident-driven Traffic Speed Prediction[J]</b>. arXiv preprint arXiv:1912.01242, 2019. [Link](https://arxiv.org/abs/1912.01242)
+
+* Shin Y Y, Yoon Y. <b>Incorporating dynamicity of transportation network with multi-weight traffic graph convolution for traffic forecasting[J]</b>. arXiv preprint arXiv:1909.07105, 2019. [Link](https://arxiv.org/abs/1909.07105)
+
 * Shleifer S, McCreery C, Chitters V. <b>Incrementally Improving Graph WaveNet Performance on Traffic Prediction[J]</b>. arXiv preprint arXiv:1912.07390, 2019. [Link](https://arxiv.org/abs/1912.07390)
 
+* Geng X, Wu X, Zhang L, et al. <b>Multi-modal graph interaction for multi-graph convolution network in urban spatiotemporal forecasting[J]</b>. arXiv preprint arXiv:1905.11395, 2019. [Link](https://arxiv.org/abs/1905.11395)
+
 * Chen W, Chen L, Xie Y, et al. <b>Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1911.12093, 2019. [Link](https://arxiv.org/abs/1911.12093)
+
+* Ke J, Qin X, Yang H, et al. <b>Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network[J]</b>. arXiv preprint arXiv:1910.09103, 2019. [Link](https://arxiv.org/abs/1910.09103)
 
 * Zhang W, Liu H, Liu Y, et al. <b>Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction[J]</b>. arXiv preprint arXiv:1911.10516, 2019. [Link](https://arxiv.org/abs/1911.10516)
 
 * Park C, Lee C, Bahng H, et al. <b>STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1911.13181, 2019. [Link](https://arxiv.org/abs/1911.13181)
 
 * Yu B, Yin H, Zhu Z. <b>ST-UNet: A spatio-temporal U-network for graph-structured time series modeling[J]</b>. arXiv preprint arXiv:1903.05631, 2019. [Link](https://arxiv.org/abs/1903.05631)
+
+* Li Z, Sergin N D, Yan H, et al. <b>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction[J]</b>. arXiv preprint arXiv:1912.05693, 2019. [Link](https://arxiv.org/abs/1912.05693)
 
 # 2018
 
