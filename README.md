@@ -163,6 +163,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 ## Conference
 * Chai D, Wang L, Yang Q. <b>Bike flow prediction with multi-graph convolutional networks[C]</b>//Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. 2018: 397-400. [Link](https://dl.acm.org/doi/abs/10.1145/3274895.3274896)
 
+* Zhang, J., Shi, X., Xie, J., Ma, H., King, I., & Yeung, D. (2018). GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs. UAI. [Link](http://auai.org/uai2018/proceedings/papers/139.pdf) [Code](https://github.com/jennyzhang0215/GaAN)
+
 * Zhang Q, Jin Q, Chang J, et al. <b>Kernel-Weighted Graph Convolutional Network: A Deep Learning Approach for Traffic Forecasting[C]</b>//2018 24th International Conference on Pattern Recognition (ICPR). IEEE, 2018: 1018-1023. [Link](https://ieeexplore.ieee.org/abstract/document/8545106/)
 
 * Yu B, Yin H, Zhu Z. <b>Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting[C]</b>//Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI. 2018. [Link](https://www.ijcai.org/Proceedings/2018/0505) [Code1](https://github.com/VeritasYin/STGCN_IJCAI-18) [Code2](https://github.com/Davidham3/STGCN)
