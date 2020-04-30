@@ -183,3 +183,5 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Yu B, Yin H, Zhu Z. <b>Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting[C]</b>//Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI. 2018. [Link](https://www.ijcai.org/Proceedings/2018/0505) [Code1](https://github.com/VeritasYin/STGCN_IJCAI-18) [Code2](https://github.com/Davidham3/STGCN)
 
+## Preprint
+* Wang M, Lai B, Jin Z, et al. <b>Dynamic spatio-temporal graph-based cnns for traffic prediction[J]</b>. arXiv preprint arXiv:1812.02019, 2018. [Link](https://arxiv.org/abs/1812.02019)
