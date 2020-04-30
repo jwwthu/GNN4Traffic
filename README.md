@@ -181,6 +181,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Wang B, Luo X, Zhang F, et al. <b>Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data[C]</b>. MiLeTS’18, London, United Kingdom, 2018. [Link](https://milets18.github.io/papers/milets18_paper_6.pdf)
 
+* Li J, Peng H, Liu L, et al. <b>Graph CNNs for urban traffic passenger flows prediction[C]</b>//2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI). IEEE, 2018: 29-36. [Link](https://ieeexplore.ieee.org/abstract/document/8560019/) [Code](https://github.com/RingBDStack/GCNN-In-Traffic)
+
 * Zhang Q, Jin Q, Chang J, et al. <b>Kernel-Weighted Graph Convolutional Network: A Deep Learning Approach for Traffic Forecasting[C]</b>//2018 24th International Conference on Pattern Recognition (ICPR). IEEE, 2018: 1018-1023. [Link](https://ieeexplore.ieee.org/abstract/document/8545106/)
 
 * Yu B, Yin H, Zhu Z. <b>Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting[C]</b>//Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI. 2018. [Link](https://www.ijcai.org/Proceedings/2018/0505) [Code1](https://github.com/VeritasYin/STGCN_IJCAI-18) [Code2](https://github.com/Davidham3/STGCN)
