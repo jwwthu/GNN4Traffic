@@ -185,3 +185,5 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 ## Preprint
 * Wang M, Lai B, Jin Z, et al. <b>Dynamic spatio-temporal graph-based cnns for traffic prediction[J]</b>. arXiv preprint arXiv:1812.02019, 2018. [Link](https://arxiv.org/abs/1812.02019)
+
+* Wang X, Chen C, Min Y, et al. <b>Efficient metropolitan traffic prediction based on graph recurrent neural network[J]</b>. arXiv preprint arXiv:1811.00740, 2018. [Link](https://arxiv.org/abs/1811.00740)
