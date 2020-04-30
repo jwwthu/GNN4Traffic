@@ -34,6 +34,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Song C, Lin Y, Guo S, et al. <b>Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf) [Code1](https://github.com/Davidham3/STSGCN) [Code2](https://github.com/mcdragon/STSGCN)
 
+* Zhang Q, Chang J, Meng G, et al. <b>Spatio-Temporal Graph Structure Learning for Traffic Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf)
+
 * Suining He and Kang G. Shin. 2020. <b>Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems</b>. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 88–98. [Link](https://dl.acm.org/doi/10.1145/3366423.3380097)
 
 * Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, and Jian Yu. 2020. <b>Traffic Flow Prediction via Spatial Temporal Graph Neural Network</b>. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 1082–1092. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380186)
