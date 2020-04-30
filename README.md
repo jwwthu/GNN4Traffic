@@ -26,6 +26,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Peng H, Wang H, Du B, et al. <b>Spatial temporal incidence dynamic graph neural networks for traffic flow forecasting[J]</b>. Information Sciences, 2020, 521: 277-290. [Link](https://www.sciencedirect.com/science/article/pii/S0020025520300451) [Code](https://github.com/RingBDStack/GCNN-In-Traffic)
 
 ## Conference
+* He S, Shin K G. <b>Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration[C]</b>//Proceedings of The Web Conference 2020. 2020: 133-143. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380101)
+
 * Shi H, Yao Q, Guo Q, et al. <b>Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network[C]</b>. ICDE 2020. [Link (not official)](http://www.cse.ust.hk/~qyaoaa/papers/ICDE-2020-MPGCN-long.pdf)
 
 * Jilin Hu, Bin Yang, Chenjuan Guo, Christian S. Jensen, and Hui Xiong. <b>Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks</b>. ICDE 2020. <b>Full text not available yet.</b>
