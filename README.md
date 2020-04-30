@@ -175,9 +175,11 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 ## Conference
 * Chai D, Wang L, Yang Q. <b>Bike flow prediction with multi-graph convolutional networks[C]</b>//Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. 2018: 397-400. [Link](https://dl.acm.org/doi/abs/10.1145/3274895.3274896)
 
-* Zhang, J., Shi, X., Xie, J., Ma, H., King, I., & Yeung, D. (2018). GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs. UAI. [Link](http://auai.org/uai2018/proceedings/papers/139.pdf) [Code](https://github.com/jennyzhang0215/GaAN)
+* Zhang, J., Shi, X., Xie, J., Ma, H., King, I., & Yeung, D. (2018). <b>GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs</b>. UAI. [Link](http://auai.org/uai2018/proceedings/papers/139.pdf) [Code](https://github.com/jennyzhang0215/GaAN)
 
-* Wang B, Luo X, Zhang F, et al. Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data[C]. MiLeTS’18, London, United Kingdom, 2018. [Link](https://milets18.github.io/papers/milets18_paper_6.pdf)
+* Wu T, Chen F, Wan Y. <b>Graph Attention LSTM Network: A New Model for Traffic Flow Forecasting[C]</b>//2018 5th International Conference on Information Science and Control Engineering (ICISCE). IEEE, 2018: 241-245. [Code](https://ieeexplore.ieee.org/document/8612556)
+
+* Wang B, Luo X, Zhang F, et al. <b>Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data[C]</b>. MiLeTS’18, London, United Kingdom, 2018. [Link](https://milets18.github.io/papers/milets18_paper_6.pdf)
 
 * Zhang Q, Jin Q, Chang J, et al. <b>Kernel-Weighted Graph Convolutional Network: A Deep Learning Approach for Traffic Forecasting[C]</b>//2018 24th International Conference on Pattern Recognition (ICPR). IEEE, 2018: 1018-1023. [Link](https://ieeexplore.ieee.org/abstract/document/8545106/)
 
