@@ -15,6 +15,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Ge L, Li S, Wang Y, et al. <b>Global Spatial-Temporal Graph Convolutional Network for Urban Traffic Speed Prediction[J]</b>. Applied Sciences, 2020, 10(4): 1509. [Link](https://www.mdpi.com/2076-3417/10/4/1509)
 
+* Xu Y, Li D. <b>Incorporating graph attention and recurrent architectures for city-wide taxi demand prediction[J]</b>. ISPRS International Journal of Geo-Information, 2019, 8(9): 414. [Link](https://www.mdpi.com/2220-9964/8/9/414)
+
 * Cui Z, Ke R, Pu Z, et al. <b>Learning traffic as a graph: A gated graph wavelet recurrent neural network for network-scale traffic prediction[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 115: 102620. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19306448)
 
 * Lu Z, Lv W, Cao Y, et al. <b>LSTM Variants Meet Graph Neural Networks for Road Speed Prediction[J]</b>. Neurocomputing, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0925231220303775)
@@ -117,6 +119,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Bai L, Yao L, Kanhere S S, et al. <b>STG2Seq: Spatial-Temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting[C]</b>//Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI. 2019: 1981-1987. [Link](https://www.ijcai.org/Proceedings/2019/0274)
 
 * Ge L, Li H, Liu J, et al. <b>Temporal Graph Convolutional Networks for Traffic Speed Prediction Considering External Factors[C]</b>//2019 20th IEEE International Conference on Mobile Data Management (MDM). IEEE, 2019: 234-242. [Link](https://ieeexplore.ieee.org/abstract/document/8788749/)
+
+* Ren Y, Xie K. <b>Transfer Knowledge Between Sub-regions for Traffic Prediction Using Deep Learning Method[C]</b>//International Conference on Intelligent Data Engineering and Automated Learning. Springer, Cham, 2019: 208-219. [Link](https://link.springer.com/chapter/10.1007/978-3-030-33607-3_23)
 
 ## Preprint
 * Yu B, Li M, Zhang J, et al. <b>3d graph convolutional networks with temporal graphs: A spatial information free framework for traffic forecasting[J]</b>. arXiv preprint arXiv:1903.00919, 2019. [Link](https://arxiv.org/abs/1903.00919)
