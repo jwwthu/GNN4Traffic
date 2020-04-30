@@ -41,6 +41,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, and Jian Yu. 2020. <b>Traffic Flow Prediction via Spatial Temporal Graph Neural Network</b>. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 1082–1092. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380186)
 
 ## Preprint
+* Sun Y, Wang Y, Fu K, et al. <b>Constructing Geographic and Long-term Temporal Graph for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2004.10958, 2020. [Link](https://arxiv.org/abs/2004.10958)
+
 * Jia C, Wu B, Zhang X P. <b>Dynamic Spatiotemporal Graph Neural Network with Tensor Network[J]</b>. arXiv preprint arXiv:2003.08729, 2020. [Link](https://arxiv.org/abs/2003.08729)
 
 * Wang X, Guan X, Cao J, et al. <b>Forecast Network-Wide Traffic States for Multiple Steps Ahead: A Deep Learning Approach Considering Dynamic Non-Local Spatial Correlation and Non-Stationary Temporal Dependency[J]</b>. arXiv preprint arXiv:2004.02391, 2020. [Link](https://arxiv.org/abs/2004.02391)
@@ -117,6 +119,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Ge L, Li H, Liu J, et al. <b>Temporal Graph Convolutional Networks for Traffic Speed Prediction Considering External Factors[C]</b>//2019 20th IEEE International Conference on Mobile Data Management (MDM). IEEE, 2019: 234-242. [Link](https://ieeexplore.ieee.org/abstract/document/8788749/)
 
 ## Preprint
+* Yu B, Li M, Zhang J, et al. <b>3d graph convolutional networks with temporal graphs: A spatial information free framework for traffic forecasting[J]</b>. arXiv preprint arXiv:1903.00919, 2019. [Link](https://arxiv.org/abs/1903.00919)
+
 * Zhang N, Guan X, Cao J, et al. <b>A Hybrid Traffic Speed Forecasting Approach Integrating Wavelet Transform and Motif-based Graph Convolutional Recurrent Neural Network[J]</b>. arXiv preprint arXiv:1904.06656, 2019. [Link](https://arxiv.org/abs/1904.06656)
 
 * Lee, K., & Rhee, W. (2020). <b>DDP-GCN: Multi-Graph Convolutional Network for Spatiotemporal Traffic Forecasting[J]</b>. arXiv preprint arXiv:1905.12256, 2019. [Link](https://arxiv.org/abs/1905.12256)
