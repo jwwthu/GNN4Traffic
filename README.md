@@ -15,8 +15,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Ge L, Li S, Wang Y, et al. <b>Global Spatial-Temporal Graph Convolutional Network for Urban Traffic Speed Prediction[J]</b>. Applied Sciences, 2020, 10(4): 1509. [Link](https://www.mdpi.com/2076-3417/10/4/1509)
 
-* Xu Y, Li D. <b>Incorporating graph attention and recurrent architectures for city-wide taxi demand prediction[J]</b>. ISPRS International Journal of Geo-Information, 2019, 8(9): 414. [Link](https://www.mdpi.com/2220-9964/8/9/414)
-
 * Cui Z, Ke R, Pu Z, et al. <b>Learning traffic as a graph: A gated graph wavelet recurrent neural network for network-scale traffic prediction[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 115: 102620. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19306448)
 
 * Lu Z, Lv W, Cao Y, et al. <b>LSTM Variants Meet Graph Neural Networks for Road Speed Prediction[J]</b>. Neurocomputing, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0925231220303775)
@@ -66,6 +64,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Wei L, Yu Z, Jin Z, et al. <b>Dual Graph for Traffic Forecasting[J]</b>. IEEE Access, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8928590/)
 
 * San Kim T, Lee W K, Sohn S Y. <b>Graph convolutional network approach applied to predict hourly bike-sharing demands considering spatial, temporal, and global effects[J]</b>. PloS one, 2019, 14(9). [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220782)
+
+* Xu Y, Li D. <b>Incorporating graph attention and recurrent architectures for city-wide taxi demand prediction[J]</b>. ISPRS International Journal of Geo-Information, 2019, 8(9): 414. [Link](https://www.mdpi.com/2220-9964/8/9/414)
 
 * Zhu H, Luo Y, Liu Q, et al. <b>Multistep Flow Prediction on Car-Sharing Systems: A Multi-Graph Convolutional Neural Network with Attention Mechanism[J]</b>. International Journal of Software Engineering and Knowledge Engineering, 2019, 29(11n12): 1727-1740. [Link](https://www.worldscientific.com/doi/abs/10.1142/S0218194019400187)
 
