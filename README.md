@@ -34,7 +34,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Shi H, Yao Q, Guo Q, et al. <b>Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network[C]</b>. ICDE 2020. [Link (not official)](http://www.cse.ust.hk/~qyaoaa/papers/ICDE-2020-MPGCN-long.pdf)
 
-* Jilin Hu, Bin Yang, Chenjuan Guo, Christian S. Jensen, and Hui Xiong. <b>Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks</b>. ICDE 2020. <b>Full text not available yet.</b>
+* Jilin Hu, Bin Yang, Chenjuan Guo, Christian S. Jensen, and Hui Xiong. <b>Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks</b>. ICDE 2020. [Link](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b417/290300b417.pdf) [Code](https://github.com/hujilin1229/od-pred)
 
 * Zhou Z, Wang Y, Xie X, et al. <b>RiskOracle: A Minute-level Citywide Traffic Accident Forecasting Framework[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouZ.1664.pdf)
 
