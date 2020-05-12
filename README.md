@@ -135,6 +135,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Lee, K., & Rhee, W. (2020). <b>DDP-GCN: Multi-Graph Convolutional Network for Spatiotemporal Traffic Forecasting[J]</b>. arXiv preprint arXiv:1905.12256, 2019. [Link](https://arxiv.org/abs/1905.12256)
 
+* Zhang J, Chen F, Zhu Y, et al. <b>Deep-learning Architecture for Short-term Passenger Flow Forecasting in Urban Rail Transit[J]</b>. arXiv preprint arXiv:1912.12563, 2019. [Link](https://arxiv.org/abs/1912.12563) 
+
 * Lee D, Jung S, Cheon Y, et al. <b>Demand Forecasting from Spatiotemporal Data with Graph Networks and Temporal-Guided Embedding[J]</b>. arXiv preprint arXiv:1905.10709, 2019. [Link](https://arxiv.org/abs/1905.10709) [Code](https://github.com/LeeDoYup/TGNet-keras)
 
 * Xiong X, Ozbay K, Jin L, et al. <b>Dynamic Origin-Destination Matrix Prediction with Line Graph Neural Networks and Kalman Filter[J]</b>. arXiv preprint arXiv:1905.00406, 2019. [Link](https://arxiv.org/abs/1905.00406v3) [Code](https://github.com/alzmxx/OD_Prediction)
