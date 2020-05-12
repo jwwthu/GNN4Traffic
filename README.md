@@ -183,7 +183,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Lin L, He Z, Peeta S. <b>Predicting station-level hourly demand in a large-scale bike-sharing network: A graph convolutional neural network approach[J]</b>. Transportation Research Part C: Emerging Technologies, 2018, 97: 258-276. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X18300974)
 
 ## Conference
-* Chai D, Wang L, Yang Q. <b>Bike flow prediction with multi-graph convolutional networks[C]</b>//Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. 2018: 397-400. [Link](https://dl.acm.org/doi/abs/10.1145/3274895.3274896)
+* Chai D, Wang L, Yang Q. <b>Bike flow prediction with multi-graph convolutional networks[C]</b>//Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. 2018: 397-400. [Link](https://dl.acm.org/doi/abs/10.1145/3274895.3274896) [Code](https://github.com/Di-Chai/GraphCNN-Bike)
 
 * Zhang, J., Shi, X., Xie, J., Ma, H., King, I., & Yeung, D. (2018). <b>GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs</b>. UAI. [Link](http://auai.org/uai2018/proceedings/papers/139.pdf) [Code](https://github.com/jennyzhang0215/GaAN)
 
