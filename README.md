@@ -57,7 +57,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Zhang J, Chen F, Guo Y. <b>Multi-Graph Convolutional Network for Short-Term Passenger Flow Forecasting in Urban Rail Transit[J]</b>. arXiv preprint arXiv:2001.07512, 2020. [Link](https://arxiv.org/abs/2001.07512)
 
-* Chen J, Liu L, Wu H, et al. <b>Physical-Virtual Collaboration Graph Network for Station-Level Metro Ridership Prediction[J]</b>. arXiv preprint arXiv:2001.04889, 2020. [Link](https://arxiv.org/abs/2001.04889)
+* Chen J, Liu L, Wu H, et al. <b>Physical-Virtual Collaboration Graph Network for Station-Level Metro Ridership Prediction[J]</b>. arXiv preprint arXiv:2001.04889, 2020. [Link](https://arxiv.org/abs/2001.04889) [Code with data](https://github.com/ivechan/PVCGN)
 
 * Xu M, Dai W, Liu C, et al. <b>Spatial-Temporal Transformer Networks for Traffic Flow Forecasting[J]</b>. arXiv preprint arXiv:2001.02908, 2020. [Link](https://arxiv.org/abs/2001.02908)
 
