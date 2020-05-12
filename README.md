@@ -25,9 +25,11 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Zhou F, Yang Q, Zhang K, et al. <b>Reinforced Spatio-Temporal Attentive Graph Neural Networks for Traffic Forecasting[J]</b>. IEEE Internet of Things Journal, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9003261/)
 
+* Fukuda S, Uchida H, Fujii H, et al. <b>Short-term Prediction of Traffic Flow under Incident Conditions using Graph Convolutional RNN and Traffic Simulation[J]</b>. IET Intelligent Transport Systems, 2020. [Link](https://digital-library.theiet.org/content/journals/10.1049/iet-its.2019.0778)
+
 * Peng H, Wang H, Du B, et al. <b>Spatial temporal incidence dynamic graph neural networks for traffic flow forecasting[J]</b>. Information Sciences, 2020, 521: 277-290. [Link](https://www.sciencedirect.com/science/article/pii/S0020025520300451) [Code](https://github.com/RingBDStack/GCNN-In-Traffic)
 
-* Zhao B, Gao X, Liu J, et al. Spatiotemporal Data Fusion in Graph Convolutional Networks for Traffic Prediction[J]. IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/document/9076005)
+* Zhao B, Gao X, Liu J, et al. <b>Spatiotemporal Data Fusion in Graph Convolutional Networks for Traffic Prediction[J]</b>. IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/document/9076005)
 
 ## Conference
 * He S, Shin K G. <b>Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration[C]</b>//Proceedings of The Web Conference 2020. 2020: 133-143. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380101)
