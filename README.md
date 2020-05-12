@@ -94,7 +94,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Guo J, Song C, Wang H. <b>A Multi-step Traffic Speed Forecasting Model Based on Graph Convolutional LSTM[C]</b>//2019 Chinese Automation Congress (CAC). IEEE, 2019: 2466-2471. [Link](https://ieeexplore.ieee.org/abstract/document/8997248/)
 
-* Guo S, Lin Y, Feng N, et al. <b>Attention based spatial-temporal graph convolutional networks for traffic flow forecasting[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 922-929. [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [Code](https://github.com/guoshnBJTU/ASTGCN-r-pytorch)
+* Guo S, Lin Y, Feng N, et al. <b>Attention based spatial-temporal graph convolutional networks for traffic flow forecasting[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 922-929. [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [Code-gluon](https://github.com/wanhuaiyu/ASTGCN) [Code-pytorch](https://github.com/wanhuaiyu/ASTGCN-r-pytorch) [Code1](https://github.com/guoshnBJTU/ASTGCN-r-pytorch)
 
 * Guo R, Jiang Z, Huang J, et al. <b>BikeNet: Accurate Bike Demand Prediction Using Graph Neural Networks for Station Rebalancing[C]</b>//2019 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI). IEEE, 2019: 686-693. [Link](https://ieeexplore.ieee.org/abstract/document/9060125/)
 
