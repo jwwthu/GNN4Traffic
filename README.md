@@ -11,7 +11,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Xiao G, Wang R, Zhang C, et al. <b>Demand prediction for a public bike sharing program based on spatio-temporal graph convolutional networks[J]</b>. Multimedia Tools and Applications, 2020: 1-19. [Link](https://link.springer.com/article/10.1007/s11042-020-08803-y)
 
-* Wang H W, Peng Z R, Wang D, et al. Evaluation and prediction of transportation resilience under extreme weather events: A diffusion graph convolutional approach[J]. Transportation Research Part C: Emerging Technologies, 2020, 115: 102619. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19305868) [Code](https://github.com/Charles117/resilience_shenzhen)
+* Wang H W, Peng Z R, Wang D, et al. <b>Evaluation and prediction of transportation resilience under extreme weather events: A diffusion graph convolutional approach[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 115: 102619. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19305868) [Code](https://github.com/Charles117/resilience_shenzhen)
 
 * Yu B, Lee Y, Sohn K. <b>Forecasting road traffic speeds by considering area-wide spatio-temporal dependencies based on a graph convolutional neural network (GCN)[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 114: 189-204. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19312434)
 
