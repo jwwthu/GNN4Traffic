@@ -106,7 +106,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Cirstea R G, Guo C, Yang B. Graph Attention Recurrent Neural Networks for Correlated Time Series Forecasting[C]. MiLeTS’19, Anchorage, Alaska, USA, 2019. [Link](https://milets19.github.io/papers/milets19_paper_8.pdf)
 
-* Jepsen T S, Jensen C S, Nielsen T D. <b>Graph convolutional networks for road networks[C]</b>//Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. 2019: 460-463. [Link](https://dl.acm.org/doi/abs/10.1145/3347146.3359094)
+* Jepsen T S, Jensen C S, Nielsen T D. <b>Graph convolutional networks for road networks[C]</b>//Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. 2019: 460-463. [Link](https://dl.acm.org/doi/abs/10.1145/3347146.3359094) [Code](https://github.com/TobiasSkovgaardJepsen/relational-fusion-networks)
 
 * Wu Z, Pan S, Long G, et al. <b>Graph wavenet for deep spatial-temporal graph modeling[C]</b>. //Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI. 2019. [Link](https://www.ijcai.org/Proceedings/2019/0264) [Code](https://github.com/nnzhan/Graph-WaveNet)
 
