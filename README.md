@@ -161,7 +161,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Shin Y Y, Yoon Y. <b>Incorporating dynamicity of transportation network with multi-weight traffic graph convolution for traffic forecasting[J]</b>. arXiv preprint arXiv:1909.07105, 2019. [Link](https://arxiv.org/abs/1909.07105)
 
-* Shleifer S, McCreery C, Chitters V. <b>Incrementally Improving Graph WaveNet Performance on Traffic Prediction[J]</b>. arXiv preprint arXiv:1912.07390, 2019. [Link](https://arxiv.org/abs/1912.07390)
+* Shleifer S, McCreery C, Chitters V. <b>Incrementally Improving Graph WaveNet Performance on Traffic Prediction[J]</b>. arXiv preprint arXiv:1912.07390, 2019. [Link](https://arxiv.org/abs/1912.07390) [Code](https://github.com/sshleifer/Graph-WaveNet)
 
 * Geng X, Wu X, Zhang L, et al. <b>Multi-modal graph interaction for multi-graph convolution network in urban spatiotemporal forecasting[J]</b>. arXiv preprint arXiv:1905.11395, 2019. [Link](https://arxiv.org/abs/1905.11395)
 
