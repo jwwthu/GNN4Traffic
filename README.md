@@ -61,7 +61,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Xu M, Dai W, Liu C, et al. <b>Spatial-Temporal Transformer Networks for Traffic Flow Forecasting[J]</b>. arXiv preprint arXiv:2001.02908, 2020. [Link](https://arxiv.org/abs/2001.02908)
 
-* Mallick T, Balaprakash P, Rask E, et al. <b>Transfer Learning with Graph Neural Networks for Short-Term Highway Traffic Forecasting[J]</b>. arXiv preprint arXiv:2004.08038, 2020. [Link](https://arxiv.org/abs/2004.08038)
+* Mallick T, Balaprakash P, Rask E, et al. <b>Transfer Learning with Graph Neural Networks for Short-Term Highway Traffic Forecasting[J]</b>. arXiv preprint arXiv:2004.08038, 2020. [Link](https://arxiv.org/abs/2004.08038) [Code](https://github.com/tanwimallick/TL-DCRNN)
 
 # 2019
 
