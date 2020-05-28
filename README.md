@@ -9,6 +9,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Guo K, Hu Y, Qian Z S, et al. <b>An Optimized Temporal-Spatial Gated Graph Convolution Network for Traffic Forecasting[J]</b>. IEEE Intelligent Transportation Systems Magazine, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9055022/)
 
+* Luo M, Du B, Klemmer K, et al. <b>D3P: Data-driven Demand Prediction for Fast Expanding Electric Vehicle Sharing Systems[J]</b>. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2020, 4(1): 1-21. [Link](https://dl.acm.org/doi/abs/10.1145/3381005)
+
 * Xiao G, Wang R, Zhang C, et al. <b>Demand prediction for a public bike sharing program based on spatio-temporal graph convolutional networks[J]</b>. Multimedia Tools and Applications, 2020: 1-19. [Link](https://link.springer.com/article/10.1007/s11042-020-08803-y)
 
 * Wang H W, Peng Z R, Wang D, et al. <b>Evaluation and prediction of transportation resilience under extreme weather events: A diffusion graph convolutional approach[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 115: 102619. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19305868) [Code](https://github.com/Charles117/resilience_shenzhen)
@@ -32,6 +34,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Peng H, Wang H, Du B, et al. <b>Spatial temporal incidence dynamic graph neural networks for traffic flow forecasting[J]</b>. Information Sciences, 2020, 521: 277-290. [Link](https://www.sciencedirect.com/science/article/pii/S0020025520300451) [Code](https://github.com/RingBDStack/GCNN-In-Traffic)
 
 * Zhao B, Gao X, Liu J, et al. <b>Spatiotemporal Data Fusion in Graph Convolutional Networks for Traffic Prediction[J]</b>. IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/document/9076005)
+
+* Du B, Hu X, Sun L, et al. <b>Traffic Demand Prediction Based on Dynamic Transition Convolutional Neural Network[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/8968739/)
 
 ## Conference
 * Wu Z, Pan S, Long G, et al. <b>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks[C]</b>.//Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [Link](https://arxiv.org/abs/2005.11650) [Code](https://github.com/nnzhan/MTGNN)
@@ -160,6 +164,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Zhang J, Chen F, Zhu Y, et al. <b>Deep-learning Architecture for Short-term Passenger Flow Forecasting in Urban Rail Transit[J]</b>. arXiv preprint arXiv:1912.12563, 2019. [Link](https://arxiv.org/abs/1912.12563) 
 
 * Lee D, Jung S, Cheon Y, et al. <b>Demand Forecasting from Spatiotemporal Data with Graph Networks and Temporal-Guided Embedding[J]</b>. arXiv preprint arXiv:1905.10709, 2019. [Link](https://arxiv.org/abs/1905.10709) [Code](https://github.com/LeeDoYup/TGNet-keras)
+
+* Luo M, Wen H, Luo Y, et al. <b>Dynamic Demand Prediction for Expanding Electric Vehicle Sharing Systems: A Graph Sequence Learning Approach[J]</b>. arXiv preprint arXiv:1903.04051, 2019. [Link](https://arxiv.org/abs/1903.04051)
 
 * Xiong X, Ozbay K, Jin L, et al. <b>Dynamic Origin-Destination Matrix Prediction with Line Graph Neural Networks and Kalman Filter[J]</b>. arXiv preprint arXiv:1905.00406, 2019. [Link](https://arxiv.org/abs/1905.00406v3) [Code](https://github.com/alzmxx/OD_Prediction)
 
