@@ -134,6 +134,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Ge L, Li H, Liu J, et al. <b>Temporal Graph Convolutional Networks for Traffic Speed Prediction Considering External Factors[C]</b>//2019 20th IEEE International Conference on Mobile Data Management (MDM). IEEE, 2019: 234-242. [Link](https://ieeexplore.ieee.org/abstract/document/8788749/)
 
+* Ge L, Li H, Liu J, et al. <b>Traffic Speed Prediction with Missing Data Based on TGCN[C]</b>//2019 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI). IEEE, 2019: 522-529. [Link](https://ieeexplore.ieee.org/abstract/document/9060248)
+
 * Ren Y, Xie K. <b>Transfer Knowledge Between Sub-regions for Traffic Prediction Using Deep Learning Method[C]</b>//International Conference on Intelligent Data Engineering and Automated Learning. Springer, Cham, 2019: 208-219. [Link](https://link.springer.com/chapter/10.1007/978-3-030-33607-3_23)
 
 ## Preprint
