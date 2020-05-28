@@ -23,6 +23,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Guo K, Hu Y, Qian Z, et al. <b>Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/8959420/)
 
+* Mohanty S, Pozdnukhov A, Cassidy M. <b>Region-wide congestion prediction and control using deep learning[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 116: 102624. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19313488)
+
 * Zhou F, Yang Q, Zhang K, et al. <b>Reinforced Spatio-Temporal Attentive Graph Neural Networks for Traffic Forecasting[J]</b>. IEEE Internet of Things Journal, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9003261/)
 
 * Fukuda S, Uchida H, Fujii H, et al. <b>Short-term Prediction of Traffic Flow under Incident Conditions using Graph Convolutional RNN and Traffic Simulation[J]</b>. IET Intelligent Transport Systems, 2020. [Link](https://digital-library.theiet.org/content/journals/10.1049/iet-its.2019.0778)
@@ -82,6 +84,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Xu Y, Li D. <b>Incorporating graph attention and recurrent architectures for city-wide taxi demand prediction[J]</b>. ISPRS International Journal of Geo-Information, 2019, 8(9): 414. [Link](https://www.mdpi.com/2220-9964/8/9/414)
 
 * Zhu H, Luo Y, Liu Q, et al. <b>Multistep Flow Prediction on Car-Sharing Systems: A Multi-Graph Convolutional Neural Network with Attention Mechanism[J]</b>. International Journal of Software Engineering and Knowledge Engineering, 2019, 29(11n12): 1727-1740. [Link](https://www.worldscientific.com/doi/abs/10.1142/S0218194019400187)
+
+* Zhang Z, Li M, Lin X, et al. <b>Multistep speed prediction on traffic networks: A deep learning approach considering spatio-temporal dependencies[J]</b>. Transportation research part C: emerging technologies, 2019, 105: 297-322. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X18315389)
 
 * Han Y, Wang S, Ren Y, et al. <b>Predicting station-level short-term passenger flow in a citywide metro network using spatiotemporal graph convolutional neural networks[J]</b>. ISPRS International Journal of Geo-Information, 2019, 8(6): 243. [Link](https://www.mdpi.com/2220-9964/8/6/243)
 
