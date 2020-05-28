@@ -78,6 +78,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 # 2019
 
 ## Journal
+* Yang S, Ma W, Pi X, et al. <b>A deep learning approach to real-time parking occupancy prediction in transportation networks incorporating multiple spatio-temporal data sources[J]</b>. Transportation Research Part C: Emerging Technologies, 2019, 107: 248-265. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X18313780)
 
 * Zhang Y, Cheng T, Ren Y. <b>A graph deep learning method for short‐term traffic forecasting on large road networks[J]</b>. Computer‐Aided Civil and Infrastructure Engineering, 2019, 34(10): 877-896. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12450)
 
