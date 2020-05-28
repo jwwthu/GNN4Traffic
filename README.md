@@ -85,6 +85,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Han Y, Wang S, Ren Y, et al. <b>Predicting station-level short-term passenger flow in a citywide metro network using spatiotemporal graph convolutional neural networks[J]</b>. ISPRS International Journal of Geo-Information, 2019, 8(6): 243. [Link](https://www.mdpi.com/2220-9964/8/6/243)
 
+* Yu J J Q, Gu J. <b>Real-time traffic speed estimation with graph convolutional generative autoencoder[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2019, 20(10): 3940-3951. [Link](https://ieeexplore.ieee.org/abstract/document/8697151/)
+
 * Xu D, Dai H, Wang Y, et al. <b>Road traffic state prediction based on a graph embedding recurrent neural network under the SCATS[J]</b>. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2019, 29(10): 103125. [Link](https://aip.scitation.org/doi/abs/10.1063/1.5117180%40cha.2020.MACL2020.issue-1)
 
 * Xie Z, Lv W, Huang S, et al. <b>Sequential graph neural network for urban road traffic speed prediction[J]</b>. IEEE Access, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8708297/)
