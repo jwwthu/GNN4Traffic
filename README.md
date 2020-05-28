@@ -124,6 +124,12 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Lu Z, Lv W, Xie Z, et al. <b>Leveraging Graph Neural Network with LSTM For Traffic Speed Prediction[C]</b>//2019 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI). IEEE, 2019: 74-81. [Link](https://ieeexplore.ieee.org/abstract/document/9060351)
 
+* Zhang T, Jin J, Yang H, et al. <b>Link speed prediction for signalized urban traffic network using a hybrid deep learning approach[C]</b>//2019 IEEE Intelligent Transportation Systems Conference (ITSC). IEEE, 2019: 2195-2200. [Link](https://ieeexplore.ieee.org/abstract/document/8917509/)
+
+* Wright M A, Ehlers S F G, Horowitz R. <b>Neural-Attention-Based Deep Learning Architectures for Modeling Traffic Dynamics on Lane Graphs[C]</b>//2019 IEEE Intelligent Transportation Systems Conference (ITSC). IEEE, 2019: 3898-3905. [Link](https://ieeexplore.ieee.org/abstract/document/8917174/) [Code](https://github.com/mawright/trafficgraphnn)
+
+* James J Q. <b>Online Traffic Speed Estimation for Urban Road Networks with Few Data: A Transfer Learning Approach[C]</b>//2019 IEEE Intelligent Transportation Systems Conference (ITSC). IEEE, 2019: 4024-4029. [Link](https://ieeexplore.ieee.org/abstract/document/8917502/)
+
 * Wang Y, Yin H, Chen H, et al. <b>Origin-destination matrix prediction via graph convolution: a new perspective of passenger demand modeling[C]</b>//Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2019: 1227-1235. [Link](https://dl.acm.org/doi/abs/10.1145/3292500.3330877)
 
 * Hasanzadeh A, Liu X, Duffield N, et al. <b>Piecewise Stationary Modeling of Random Processes Over Graphs With an Application to Traffic Prediction[C]</b>//2019 IEEE International Conference on Big Data (Big Data). IEEE, 2019: 3779-3788. [Link](https://ieeexplore.ieee.org/abstract/document/9005965/)
@@ -211,3 +217,5 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Wang M, Lai B, Jin Z, et al. <b>Dynamic spatio-temporal graph-based cnns for traffic prediction[J]</b>. arXiv preprint arXiv:1812.02019, 2018. [Link](https://arxiv.org/abs/1812.02019)
 
 * Wang X, Chen C, Min Y, et al. <b>Efficient metropolitan traffic prediction based on graph recurrent neural network[J]</b>. arXiv preprint arXiv:1811.00740, 2018. [Link](https://arxiv.org/abs/1811.00740) [Code](https://github.com/xxArbiter/grnn)
+
+* Hu J, Guo C, Yang B, et al. <b>Recurrent Multi-Graph Neural Networks for Travel Cost Prediction[J]</b>. arXiv preprint arXiv:1811.05157, 2018. [Link](https://arxiv.org/abs/1811.05157)
