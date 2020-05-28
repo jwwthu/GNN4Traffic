@@ -34,6 +34,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 ## Conference
 * He S, Shin K G. <b>Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration[C]</b>//Proceedings of The Web Conference 2020. 2020: 133-143. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380101)
 
+* Zheng C, Fan X, Wang C, et al. <b>Gman: A graph multi-attention network for traffic prediction[C].//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhengZ.2220.pdf) [Code](https://github.com/zhengchuanpan/GMAN)
+
 * Shi H, Yao Q, Guo Q, et al. <b>Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network[C]</b>. ICDE 2020. [Link (not official)](http://www.cse.ust.hk/~qyaoaa/papers/ICDE-2020-MPGCN-long.pdf)
 
 * Jilin Hu, Bin Yang, Chenjuan Guo, Christian S. Jensen, and Hui Xiong. <b>Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks</b>. ICDE 2020. [Link](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b417/290300b417.pdf) [Code](https://github.com/hujilin1229/od-pred)
@@ -146,8 +148,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Li Y, Moura J M F. <b>Forecaster: A Graph Transformer for Forecasting Spatial and Time-Dependent Data[J]</b>. arXiv preprint arXiv:1909.04019, 2019. [Link](https://arxiv.org/abs/1909.04019)
 
 * Chandra R, Guan T, Panuganti S, et al. <b>Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs[J]</b>. arXiv preprint arXiv:1912.01118, 2019. [Link](https://arxiv.org/abs/1912.01118)
-
-* Zheng C, Fan X, Wang C, et al. <b>Gman: A graph multi-attention network for traffic prediction[J]</b>. arXiv preprint arXiv:1911.08415, 2019. [Link](https://arxiv.org/abs/1911.08415) [Code](https://github.com/zhengchuanpan/GMAN)
 
 * Lee K, Rhee W. <b>Graph Convolutional Modules for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1905.12256, 2019. [Link](https://arxiv.org/abs/1905.12256)
 
