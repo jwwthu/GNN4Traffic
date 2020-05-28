@@ -175,6 +175,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Ke J, Qin X, Yang H, et al. <b>Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network[J]</b>. arXiv preprint arXiv:1910.09103, 2019. [Link](https://arxiv.org/abs/1910.09103)
 
+* Zhou X, Shen Y, Huang L. <b>Revisiting Flow Information for Traffic Prediction[J]</b>. arXiv preprint arXiv:1906.00560, 2019. [Link](https://arxiv.org/abs/1906.00560)
+
 * Zhang W, Liu H, Liu Y, et al. <b>Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction[J]</b>. arXiv preprint arXiv:1911.10516, 2019. [Link](https://arxiv.org/abs/1911.10516)
 
 * Park C, Lee C, Bahng H, et al. <b>STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1911.13181, 2019. [Link](https://arxiv.org/abs/1911.13181)
