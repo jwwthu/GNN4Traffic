@@ -23,7 +23,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Guo K, Hu Y, Qian Z, et al. <b>Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/8959420/)
 
-* Mohanty S, Pozdnukhov A, Cassidy M. <b>Region-wide congestion prediction and control using deep learning[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 116: 102624. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19313488)
+* Mohanty S, Pozdnukhov A, Cassidy M. <b>Region-wide congestion prediction and control using deep learning[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 116: 102624. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19313488) [Code](https://github.com/sudatta0993/Dynamic-Congestion-Prediction)
 
 * Zhou F, Yang Q, Zhang K, et al. <b>Reinforced Spatio-Temporal Attentive Graph Neural Networks for Traffic Forecasting[J]</b>. IEEE Internet of Things Journal, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9003261/)
 
