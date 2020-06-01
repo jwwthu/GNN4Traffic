@@ -7,6 +7,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Zhang Y, Cheng T, Ren Y, et al. <b>A novel residual graph convolution deep learning model for short-term network-based traffic forecasting[J]</b>. International Journal of Geographical Information Science, 2020, 34(5): 969-995. [Link](https://www.tandfonline.com/doi/abs/10.1080/13658816.2019.1697879)
 
+* Azzedine Boukerche, Jiahao Wang, A Performance Modeling and Analysis of a Novel Vehicular Traffic Flow Prediction System Using a Hybrid Machine Learning-Based Model, Ad Hoc Networks, 2020. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1570870520301803)
+
 * Guo K, Hu Y, Qian Z S, et al. <b>An Optimized Temporal-Spatial Gated Graph Convolution Network for Traffic Forecasting[J]</b>. IEEE Intelligent Transportation Systems Magazine, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9055022/)
 
 * Luo M, Du B, Klemmer K, et al. <b>D3P: Data-driven Demand Prediction for Fast Expanding Electric Vehicle Sharing Systems[J]</b>. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2020, 4(1): 1-21. [Link](https://dl.acm.org/doi/abs/10.1145/3381005)
