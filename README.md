@@ -19,6 +19,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Wang H W, Peng Z R, Wang D, et al. <b>Evaluation and prediction of transportation resilience under extreme weather events: A diffusion graph convolutional approach[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 115: 102619. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19305868) [Code](https://github.com/Charles117/resilience_shenzhen)
 
+* Zhou Q, Gu J J, Ling C, et al. <b>Exploiting Multiple Correlations Among Urban Regions for Crowd Flow Prediction[J]</b>. Journal of Computer Science and Technology, 2020, 35: 338-352. [Link](https://link.springer.com/article/10.1007%2Fs11390-020-9970-y)
+
 * Yu B, Lee Y, Sohn K. <b>Forecasting road traffic speeds by considering area-wide spatio-temporal dependencies based on a graph convolutional neural network (GCN)[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 114: 189-204. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19312434)
 
 * Ge L, Li S, Wang Y, et al. <b>Global Spatial-Temporal Graph Convolutional Network for Urban Traffic Speed Prediction[J]</b>. Applied Sciences, 2020, 10(4): 1509. [Link](https://www.mdpi.com/2076-3417/10/4/1509)
@@ -82,6 +84,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Zhang J, Chen F, Guo Y. <b>Multi-Graph Convolutional Network for Short-Term Passenger Flow Forecasting in Urban Rail Transit[J]</b>. arXiv preprint arXiv:2001.07512, 2020. [Link](https://arxiv.org/abs/2001.07512)
 
 * Chen J, Liu L, Wu H, et al. <b>Physical-Virtual Collaboration Graph Network for Station-Level Metro Ridership Prediction[J]</b>. arXiv preprint arXiv:2001.04889, 2020. [Link](https://arxiv.org/abs/2001.04889) [Code with data](https://github.com/ivechan/PVCGN)
+
+* Pian W, Wu Y. <b>Spatial-Temporal Dynamic Graph Attention Networks for Ride-hailing Demand Prediction[J]</b>. arXiv preprint arXiv:2006.05905, 2020. [Link](https://arxiv.org/abs/2006.05905)
 
 * Xu M, Dai W, Liu C, et al. <b>Spatial-Temporal Transformer Networks for Traffic Flow Forecasting[J]</b>. arXiv preprint arXiv:2001.02908, 2020. [Link](https://arxiv.org/abs/2001.02908)
 
