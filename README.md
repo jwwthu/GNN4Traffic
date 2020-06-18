@@ -43,6 +43,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Du B, Hu X, Sun L, et al. <b>Traffic Demand Prediction Based on Dynamic Transition Convolutional Neural Network[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/8968739/)
 
+* Cai L, Janowicz K, Mai G, et al. <b>Traffic transformer: Capturing the continuity and periodicity of time series for traffic forecasting[J]</b>. Transactions in GIS. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12644)
+
 ## Conference
 * Wu Z, Pan S, Long G, et al. <b>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks[C]</b>.//Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [Link](https://arxiv.org/abs/2005.11650) [Code](https://github.com/nnzhan/MTGNN)
 
