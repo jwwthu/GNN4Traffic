@@ -5,6 +5,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 ## Journal
 * Bogaerts T, Masegosa A D, Angarita-Zapata J S, et al. <b>A graph CNN-LSTM neural network for short and long-term traffic forecasting based on trajectory data[J].</b> Transportation Research Part C: Emerging Technologies, 2020, 112: 62-77. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19309349)
 
+* Qin K, Xu Y, Kang C, et al. <b>A graph convolutional network model for evaluating potential congestion spots based on local urban built environments[J]</b>. Transactions in GIS. [Link](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12641)
+
 * Zhang Y, Cheng T, Ren Y, et al. <b>A novel residual graph convolution deep learning model for short-term network-based traffic forecasting[J]</b>. International Journal of Geographical Information Science, 2020, 34(5): 969-995. [Link](https://www.tandfonline.com/doi/abs/10.1080/13658816.2019.1697879)
 
 * Azzedine Boukerche, Jiahao Wang, <b>A Performance Modeling and Analysis of a Novel Vehicular Traffic Flow Prediction System Using a Hybrid Machine Learning-Based Model</b>, Ad Hoc Networks, 2020. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1570870520301803)
