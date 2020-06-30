@@ -25,6 +25,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Yu B, Lee Y, Sohn K. <b>Forecasting road traffic speeds by considering area-wide spatio-temporal dependencies based on a graph convolutional neural network (GCN)[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 114: 189-204. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19312434)
 
+* Xu D, Wei C, Peng P, et al. <b>GE-GAN: A novel deep learning framework for road traffic state estimation[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 117: 102635. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19312409)
+
 * Ge L, Li S, Wang Y, et al. <b>Global Spatial-Temporal Graph Convolutional Network for Urban Traffic Speed Prediction[J]</b>. Applied Sciences, 2020, 10(4): 1509. [Link](https://www.mdpi.com/2076-3417/10/4/1509)
 
 * Davis N, Raina G, Jagannathan K. <b>Grids versus graphs: Partitioning space for improved taxi demand-supply forecasts[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9099450/) [Code](https://github.com/NDavisK/Grids-versus-Graphs)
@@ -52,6 +54,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Du B, Hu X, Sun L, et al. <b>Traffic Demand Prediction Based on Dynamic Transition Convolutional Neural Network[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/8968739/)
 
 * Cai L, Janowicz K, Mai G, et al. <b>Traffic transformer: Capturing the continuity and periodicity of time series for traffic forecasting[J]</b>. Transactions in GIS. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12644)
+
+* Jin G, Cui Y, Zeng L, et al. <b>Urban ride-hailing demand prediction with multiple spatio-temporal information fusion network[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 117: 102665. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X20305805)
 
 ## Conference
 * Wu Z, Pan S, Long G, et al. <b>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks[C]</b>.//Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [Link](https://arxiv.org/abs/2005.11650) [Code](https://github.com/nnzhan/MTGNN)
