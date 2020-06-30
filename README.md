@@ -17,6 +17,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Xiao G, Wang R, Zhang C, et al. <b>Demand prediction for a public bike sharing program based on spatio-temporal graph convolutional networks[J]</b>. Multimedia Tools and Applications, 2020: 1-19. [Link](https://link.springer.com/article/10.1007/s11042-020-08803-y)
 
+* Xiong X, Ozbay K, Jin L, et al. <b>Dynamic Origin–Destination Matrix Prediction with Line Graph Neural Networks and Kalman Filter[J]</b>. Transportation Research Record, 2020: 0361198120919399. [Link](https://journals.sagepub.com/doi/abs/10.1177/0361198120919399) [Code](https://github.com/alzmxx/OD_Prediction)
+
 * Wang H W, Peng Z R, Wang D, et al. <b>Evaluation and prediction of transportation resilience under extreme weather events: A diffusion graph convolutional approach[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 115: 102619. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19305868) [Code](https://github.com/Charles117/resilience_shenzhen)
 
 * Zhou Q, Gu J J, Ling C, et al. <b>Exploiting Multiple Correlations Among Urban Regions for Crowd Flow Prediction[J]</b>. Journal of Computer Science and Technology, 2020, 35: 338-352. [Link](https://link.springer.com/article/10.1007%2Fs11390-020-9970-y)
@@ -188,8 +190,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Lee D, Jung S, Cheon Y, et al. <b>Demand Forecasting from Spatiotemporal Data with Graph Networks and Temporal-Guided Embedding[J]</b>. arXiv preprint arXiv:1905.10709, 2019. [Link](https://arxiv.org/abs/1905.10709) [Code](https://github.com/LeeDoYup/TGNet-keras)
 
 * Luo M, Wen H, Luo Y, et al. <b>Dynamic Demand Prediction for Expanding Electric Vehicle Sharing Systems: A Graph Sequence Learning Approach[J]</b>. arXiv preprint arXiv:1903.04051, 2019. [Link](https://arxiv.org/abs/1903.04051)
-
-* Xiong X, Ozbay K, Jin L, et al. <b>Dynamic Origin-Destination Matrix Prediction with Line Graph Neural Networks and Kalman Filter[J]</b>. arXiv preprint arXiv:1905.00406, 2019. [Link](https://arxiv.org/abs/1905.00406v3) [Code](https://github.com/alzmxx/OD_Prediction)
 
 * Li Y, Moura J M F. <b>Forecaster: A Graph Transformer for Forecasting Spatial and Time-Dependent Data[J]</b>. arXiv preprint arXiv:1909.04019, 2019. [Link](https://arxiv.org/abs/1909.04019)
 
