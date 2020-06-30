@@ -80,6 +80,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Zhou Z, Wang Y, Xie X, et al. <b>RiskOracle: A Minute-level Citywide Traffic Accident Forecasting Framework[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouZ.1664.pdf) [Code](https://github.com/zzyy0929/AAAI2020-RiskOracle/)
 
+* Zhang W, Liu H, Liu Y, et al. <b>Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/5471) [Code](https://github.com/Vvrep/SHARE-parking_availability_prediction-Pytorch)
+
 * Song C, Lin Y, Guo S, et al. <b>Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf) [Author's Code](https://github.com/wanhuaiyu/STSGCN) [Code1](https://github.com/Davidham3/STSGCN) [Code2](https://github.com/mcdragon/STSGCN)
 
 * Zhang Q, Chang J, Meng G, et al. <b>Spatio-Temporal Graph Structure Learning for Traffic Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf)
@@ -224,8 +226,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Ke J, Qin X, Yang H, et al. <b>Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network[J]</b>. arXiv preprint arXiv:1910.09103, 2019. [Link](https://arxiv.org/abs/1910.09103)
 
 * Zhou X, Shen Y, Huang L. <b>Revisiting Flow Information for Traffic Prediction[J]</b>. arXiv preprint arXiv:1906.00560, 2019. [Link](https://arxiv.org/abs/1906.00560)
-
-* Zhang W, Liu H, Liu Y, et al. <b>Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction[J]</b>. arXiv preprint arXiv:1911.10516, 2019. [Link](https://arxiv.org/abs/1911.10516)
 
 * Park C, Lee C, Bahng H, et al. <b>STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1911.13181, 2019. [Link](https://arxiv.org/abs/1911.13181)
 
