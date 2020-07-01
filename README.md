@@ -72,6 +72,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Yeghikyan G, Opolka F L, Nanni M, et al. <b>Learning Mobility Flows from Urban Features with Spatial Interaction Models and Neural Networks[C]</b>//2020 IEEE International Conference on Smart Computing (SMARTCOMP). IEEE, 2020. [Link](https://arxiv.org/abs/2004.11924) [Code](https://github.com/FelixOpolka/Mobility-Flows-Neural-Networks)
 
+* Chen W, Chen L, Xie Y, et al. <b>Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://aaai.org/ojs/index.php/AAAI/article/view/5758)
+
 * Wu M, Zhu C, Chen L. <b>Multi-Task Spatial-Temporal Graph Attention Network for Taxi Demand Prediction[C]</b>//Proceedings of the 2020 5th International Conference on Mathematics and Artificial Intelligence. 2020: 224-228. [Link](https://dl.acm.org/doi/abs/10.1145/3395260.3395266)
 
 * Shi H, Yao Q, Guo Q, et al. <b>Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network[C]</b>. ICDE 2020. [Link (not official)](http://www.cse.ust.hk/~qyaoaa/papers/ICDE-2020-MPGCN-long.pdf)
@@ -220,8 +222,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Shleifer S, McCreery C, Chitters V. <b>Incrementally Improving Graph WaveNet Performance on Traffic Prediction[J]</b>. arXiv preprint arXiv:1912.07390, 2019. [Link](https://arxiv.org/abs/1912.07390) [Code](https://github.com/sshleifer/Graph-WaveNet)
 
 * Geng X, Wu X, Zhang L, et al. <b>Multi-modal graph interaction for multi-graph convolution network in urban spatiotemporal forecasting[J]</b>. arXiv preprint arXiv:1905.11395, 2019. [Link](https://arxiv.org/abs/1905.11395)
-
-* Chen W, Chen L, Xie Y, et al. <b>Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1911.12093, 2019. [Link](https://arxiv.org/abs/1911.12093)
 
 * Ke J, Qin X, Yang H, et al. <b>Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network[J]</b>. arXiv preprint arXiv:1910.09103, 2019. [Link](https://arxiv.org/abs/1910.09103)
 
