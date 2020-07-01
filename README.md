@@ -80,6 +80,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Jilin Hu, Bin Yang, Chenjuan Guo, Christian S. Jensen, and Hui Xiong. <b>Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks</b>. ICDE 2020. [Link](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b417/290300b417.pdf) [Code](https://github.com/hujilin1229/od-pred)
 
+* Yang F, Chen L, Zhou F, et al. <b>Relational State-Space Model for Stochastic Multi-Object Systems[C]</b>//International Conference on Learning Representations. 2020. [Link](https://openreview.net/forum?id=B1lGU64tDr) [Code](https://github.com/fanyang01/relational-ssm)
+
 * Zhou Z, Wang Y, Xie X, et al. <b>RiskOracle: A Minute-level Citywide Traffic Accident Forecasting Framework[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouZ.1664.pdf) [Code](https://github.com/zzyy0929/AAAI2020-RiskOracle/)
 
 * Zhang W, Liu H, Liu Y, et al. <b>Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/5471) [Code](https://github.com/Vvrep/SHARE-parking_availability_prediction-Pytorch)
