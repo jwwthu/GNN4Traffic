@@ -66,6 +66,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * He S, Shin K G. <b>Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration[C]</b>//Proceedings of The Web Conference 2020. 2020: 133-143. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380101)
 
+* Li Y, Moura J M F. <b>Forecaster: A Graph Transformer for Forecasting Spatial and Time-Dependent Data[C]</b>//Proceedings of the Twenty-fourth European Conference on Artificial Intelligence. 2020. [Link](https://arxiv.org/abs/1909.04019)
+
 * Zheng C, Fan X, Wang C, et al. <b>Gman: A graph multi-attention network for traffic prediction[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhengZ.2220.pdf) [Code](https://github.com/zhengchuanpan/GMAN)
 
 * Dai R, Xu S, Gu Q, et al. <b>Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data[C]</b>.//Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [Link](https://arxiv.org/abs/2006.12715)
@@ -89,6 +91,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Song C, Lin Y, Guo S, et al. <b>Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf) [Author's Code](https://github.com/wanhuaiyu/STSGCN) [Code1](https://github.com/Davidham3/STSGCN) [Code2](https://github.com/mcdragon/STSGCN)
 
 * Zhang Q, Chang J, Meng G, et al. <b>Spatio-Temporal Graph Structure Learning for Traffic Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf)
+
+* Li Z, Sergin N D, Yan H, et al. <b>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://arxiv.org/abs/1912.05693)
 
 * Suining He and Kang G. Shin. 2020. <b>Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems</b>. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 88–98. [Link](https://dl.acm.org/doi/10.1145/3366423.3380097)
 
@@ -207,8 +211,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Luo M, Wen H, Luo Y, et al. <b>Dynamic Demand Prediction for Expanding Electric Vehicle Sharing Systems: A Graph Sequence Learning Approach[J]</b>. arXiv preprint arXiv:1903.04051, 2019. [Link](https://arxiv.org/abs/1903.04051)
 
-* Li Y, Moura J M F. <b>Forecaster: A Graph Transformer for Forecasting Spatial and Time-Dependent Data[J]</b>. arXiv preprint arXiv:1909.04019, 2019. [Link](https://arxiv.org/abs/1909.04019)
-
 * Chandra R, Guan T, Panuganti S, et al. <b>Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs[J]</b>. arXiv preprint arXiv:1912.01118, 2019. [Link](https://arxiv.org/abs/1912.01118)
 
 * Lee K, Rhee W. <b>Graph Convolutional Modules for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1905.12256, 2019. [Link](https://arxiv.org/abs/1905.12256)
@@ -234,8 +236,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Park C, Lee C, Bahng H, et al. <b>STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1911.13181, 2019. [Link](https://arxiv.org/abs/1911.13181)
 
 * Yu B, Yin H, Zhu Z. <b>ST-UNet: A spatio-temporal U-network for graph-structured time series modeling[J]</b>. arXiv preprint arXiv:1903.05631, 2019. [Link](https://arxiv.org/abs/1903.05631)
-
-* Li Z, Sergin N D, Yan H, et al. <b>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction[J]</b>. arXiv preprint arXiv:1912.05693, 2019. [Link](https://arxiv.org/abs/1912.05693)
 
 # 2018
 
