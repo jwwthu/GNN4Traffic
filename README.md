@@ -31,6 +31,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Zhang T, Guo G. <b>Graph Attention LSTM: A Spatio-Temperal Approach for Traffic Flow Forecasting[J]</b>. IEEE Intelligent Transportation Systems Magazine, 2020. [Link](https://ieeexplore.ieee.org/document/9108267)
 
+* Cui Z, Lin L, Pu Z, et al. <b>Graph Markov Network for Traffic Forecasting with Missing Data[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 117: 102671. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X20305866)
+
 * Davis N, Raina G, Jagannathan K. <b>Grids versus graphs: Partitioning space for improved taxi demand-supply forecasts[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9099450/) [Code](https://github.com/NDavisK/Grids-versus-Graphs)
 
 * Cui Z, Ke R, Pu Z, et al. <b>Learning traffic as a graph: A gated graph wavelet recurrent neural network for network-scale traffic prediction[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 115: 102620. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19306448)
@@ -216,8 +218,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Lee K, Rhee W. <b>Graph Convolutional Modules for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1905.12256, 2019. [Link](https://arxiv.org/abs/1905.12256)
 
 * Lu M, Zhang K, Liu H, et al. <b>Graph Hierarchical Convolutional Recurrent Neural Network (GHCRNN) for Vehicle Condition Prediction[J]</b>. arXiv preprint arXiv:1903.06261, 2019. [Link](https://arxiv.org/abs/1903.06261)
-
-* Cui Z, Lin L, Pu Z, et al. <b>Graph Markov Network for Traffic Forecasting with Missing Data[J]</b>. arXiv preprint arXiv:1912.05457, 2019. [Link](https://arxiv.org/abs/1912.05457)
 
 * Mallick T, Balaprakash P, Rask E, et al. <b>Graph-Partitioning-Based Diffusion Convolution Recurrent Neural Network for Large-Scale Traffic Forecasting[J]</b>. arXiv preprint arXiv:1909.11197, 2019. [Link](https://arxiv.org/abs/1909.11197)
 
