@@ -147,7 +147,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Zhao L, Song Y, Zhang C, et al. <b>T-gcn: A temporal graph convolutional network for traffic prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8809901/) [Code](https://github.com/lehaifeng/T-GCN)
 
-* Cui Z, Henrickson K, Ke R, et al. <b>Traffic graph convolutional recurrent neural network: A deep learning framework for network-scale traffic learning and forecasting[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8917706/)
+* Cui Z, Henrickson K, Ke R, et al. <b>Traffic graph convolutional recurrent neural network: A deep learning framework for network-scale traffic learning and forecasting[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8917706/) [Code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)
 
 ## Conference
 * Li Z, Xiong G, Chen Y, et al. <b>A Hybrid Deep Learning Approach with GCN and LSTM for Traffic Flow Prediction[C]</b>//2019 IEEE Intelligent Transportation Systems Conference (ITSC). IEEE, 2019: 1929-1933. [Link](https://ieeexplore.ieee.org/abstract/document/8916778/)
