@@ -35,6 +35,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Davis N, Raina G, Jagannathan K. <b>Grids versus graphs: Partitioning space for improved taxi demand-supply forecasts[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9099450/) [Code](https://github.com/NDavisK/Grids-versus-Graphs)
 
+* Chen Z, Zhao B, Wang Y, et al. <b>Multitask Learning and GCN-Based Taxi Demand Prediction for a Traffic Road Network[J]</b>. Sensors, 2020, 20(13): 3776. [Link](https://www.mdpi.com/1424-8220/20/13/3776)
+
 * Cui Z, Ke R, Pu Z, et al. <b>Learning traffic as a graph: A gated graph wavelet recurrent neural network for network-scale traffic prediction[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 115: 102620. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19306448)
 
 * Lu Z, Lv W, Cao Y, et al. <b>LSTM Variants Meet Graph Neural Networks for Road Speed Prediction[J]</b>. Neurocomputing, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0925231220303775)
