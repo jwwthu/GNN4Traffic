@@ -109,6 +109,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, and Jian Yu. 2020. <b>Traffic Flow Prediction via Spatial Temporal Graph Neural Network</b>. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 1082–1092. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380186)
 
 ## Preprint
+* Bai L, Yao L, Li C, et al. <b>Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2007.02842, 2020. [Link](https://arxiv.org/abs/2007.02842) [Code](https://github.com/LeiBAI/AGCRN)
 
 * Zhu J, Song Y, Zhao L, et al. <b>A3T-GCN: Attention Temporal Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2006.11583v1, 2020. [Link](https://arxiv.org/abs/2006.11583v1) [Code](https://github.com/lehaifeng/T-GCN/tree/master/A3T)
 
