@@ -57,6 +57,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Peng H, Wang H, Du B, et al. <b>Spatial temporal incidence dynamic graph neural networks for traffic flow forecasting[J]</b>. Information Sciences, 2020, 521: 277-290. [Link](https://www.sciencedirect.com/science/article/pii/S0020025520300451) [Code](https://github.com/RingBDStack/GCNN-In-Traffic)
 
+* Pan Z, Zhang W, Liang Y, et al. <b>Spatio-Temporal Meta Learning for Urban Traffic Prediction[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9096591/)
+
 * Zhao B, Gao X, Liu J, et al. <b>Spatiotemporal Data Fusion in Graph Convolutional Networks for Traffic Prediction[J]</b>. IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/document/9076005)
 
 * Lv M, Hong Z, Chen L, et al. <b>Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9098104/)
