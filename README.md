@@ -98,6 +98,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Zhang W, Liu H, Liu Y, et al. <b>Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/5471) [Code](https://github.com/Vvrep/SHARE-parking_availability_prediction-Pytorch)
 
+* Li A, Axhausen K W. <b>Short-term Traffic Demand Prediction using Graph Convolutional Neural Networks[J]</b>. AGILE: GIScience Series, 2020, 1: 1-14. [Link](https://agile-giss.copernicus.org/articles/1/12/2020/agile-giss-1-12-2020.html)
+
 * Song C, Lin Y, Guo S, et al. <b>Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf) [Author's Code](https://github.com/wanhuaiyu/STSGCN) [Code1](https://github.com/Davidham3/STSGCN) [Code2](https://github.com/mcdragon/STSGCN)
 
 * Zhang Q, Chang J, Meng G, et al. <b>Spatio-Temporal Graph Structure Learning for Traffic Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf)
