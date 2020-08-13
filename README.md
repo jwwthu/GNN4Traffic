@@ -96,6 +96,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Wu M, Zhu C, Chen L. <b>Multi-Task Spatial-Temporal Graph Attention Network for Taxi Demand Prediction[C]</b>//Proceedings of the 2020 5th International Conference on Mathematics and Artificial Intelligence. 2020: 224-228. [Link](https://dl.acm.org/doi/abs/10.1145/3395260.3395266)
 
+* Yang C, Zhou Z, Wen H, et al. <b>MSTNN: A Graph Learning Based Method for the Origin-Destination Traffic Prediction[C]</b>//ICC 2020-2020 IEEE International Conference on Communications (ICC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9149277/)
+
 * Shi H, Yao Q, Guo Q, et al. <b>Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network[C]</b>. ICDE 2020. [Link (not official)](http://www.cse.ust.hk/~qyaoaa/papers/ICDE-2020-MPGCN-long.pdf)
 
 * Jilin Hu, Bin Yang, Chenjuan Guo, Christian S. Jensen, and Hui Xiong. <b>Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks</b>. ICDE 2020. [Link](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b417/290300b417.pdf) [Code](https://github.com/hujilin1229/od-pred)
