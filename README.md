@@ -88,6 +88,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Zheng C, Fan X, Wang C, et al. <b>Gman: A graph multi-attention network for traffic prediction[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhengZ.2220.pdf) [Code](https://github.com/zhengchuanpan/GMAN)
 
+* Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Kung Fu, Zheng Wang, Xiaohu Qie, and Jieping Ye. 2020. <b>HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.</b> In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20). Association for Computing Machinery, New York, NY, USA, 2444–2454. [Link](https://dl.acm.org/doi/10.1145/3394486.3403294) [Code](https://github.com/didi/heteta)
+
 * Dai R, Xu S, Gu Q, et al. <b>Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data[C]</b>.//Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [Link](https://dl.acm.org/doi/10.1145/3394486.3403358)
 
 * Yeghikyan G, Opolka F L, Nanni M, et al. <b>Learning Mobility Flows from Urban Features with Spatial Interaction Models and Neural Networks[C]</b>//2020 IEEE International Conference on Smart Computing (SMARTCOMP). IEEE, 2020. [Link](https://arxiv.org/abs/2004.11924) [Code](https://github.com/FelixOpolka/Mobility-Flows-Neural-Networks)
