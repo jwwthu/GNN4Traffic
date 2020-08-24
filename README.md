@@ -23,6 +23,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Zhou Q, Gu J J, Ling C, et al. <b>Exploiting Multiple Correlations Among Urban Regions for Crowd Flow Prediction[J]</b>. Journal of Computer Science and Technology, 2020, 35: 338-352. [Link](https://link.springer.com/article/10.1007%2Fs11390-020-9970-y)
 
+* Wang X, Guan X, Cao J, et al. <b>Forecast Network-Wide Traffic States for Multiple Steps Ahead: A Deep Learning Approach Considering Dynamic Non-Local Spatial Correlation and Non-Stationary Temporal Dependency[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 119. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X20306756)
+
 * Yu B, Lee Y, Sohn K. <b>Forecasting road traffic speeds by considering area-wide spatio-temporal dependencies based on a graph convolutional neural network (GCN)[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 114: 189-204. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19312434)
 
 * Xu D, Wei C, Peng P, et al. <b>GE-GAN: A novel deep learning framework for road traffic state estimation[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 117: 102635. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19312409)
@@ -142,8 +144,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Jia C, Wu B, Zhang X P. <b>Dynamic Spatiotemporal Graph Neural Network with Tensor Network[J]</b>. arXiv preprint arXiv:2003.08729, 2020. [Link](https://arxiv.org/abs/2003.08729)
 
 * Oreshkin B N, Amini A, Coyle L, et al. <b>FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting[J]</b>. arXiv preprint arXiv:2007.15531, 2020. [Link](https://arxiv.org/abs/2007.15531v1)
-
-* Wang X, Guan X, Cao J, et al. <b>Forecast Network-Wide Traffic States for Multiple Steps Ahead: A Deep Learning Approach Considering Dynamic Non-Local Spatial Correlation and Non-Stationary Temporal Dependency[J]</b>. arXiv preprint arXiv:2004.02391, 2020. [Link](https://arxiv.org/abs/2004.02391)
 
 * Chen J, Liu L, Wu H, et al. <b>Physical-Virtual Collaboration Graph Network for Station-Level Metro Ridership Prediction[J]</b>. arXiv preprint arXiv:2001.04889, 2020. [Link](https://arxiv.org/abs/2001.04889) [Code with data](https://github.com/ivechan/PVCGN)
 
