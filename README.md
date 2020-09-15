@@ -17,6 +17,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Luo M, Du B, Klemmer K, et al. <b>D3P: Data-driven Demand Prediction for Fast Expanding Electric Vehicle Sharing Systems[J]</b>. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2020, 4(1): 1-21. [Link](https://dl.acm.org/doi/abs/10.1145/3381005)
 
+* Zhang J, Chen F, Cui Z, et al. <b>Deep Learning Architecture for Short-Term Passenger Flow Forecasting in Urban Rail Transit[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9136910/) [Code](https://github.com/JinleiZhangBJTU/ResNet-LSTM-GCN)
+
 * Xiao G, Wang R, Zhang C, et al. <b>Demand prediction for a public bike sharing program based on spatio-temporal graph convolutional networks[J]</b>. Multimedia Tools and Applications, 2020: 1-19. [Link](https://link.springer.com/article/10.1007/s11042-020-08803-y)
 
 * Xiong X, Ozbay K, Jin L, et al. <b>Dynamic Origin–Destination Matrix Prediction with Line Graph Neural Networks and Kalman Filter[J]</b>. Transportation Research Record, 2020: 0361198120919399. [Link](https://journals.sagepub.com/doi/abs/10.1177/0361198120919399) [Code](https://github.com/alzmxx/OD_Prediction)
@@ -245,8 +247,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Zhang N, Guan X, Cao J, et al. <b>A Hybrid Traffic Speed Forecasting Approach Integrating Wavelet Transform and Motif-based Graph Convolutional Recurrent Neural Network[J]</b>. arXiv preprint arXiv:1904.06656, 2019. [Link](https://arxiv.org/abs/1904.06656)
 
 * Lee, K., & Rhee, W. (2020). <b>DDP-GCN: Multi-Graph Convolutional Network for Spatiotemporal Traffic Forecasting[J]</b>. arXiv preprint arXiv:1905.12256, 2019. [Link](https://arxiv.org/abs/1905.12256)
-
-* Zhang J, Chen F, Zhu Y, et al. <b>Deep-learning Architecture for Short-term Passenger Flow Forecasting in Urban Rail Transit[J]</b>. arXiv preprint arXiv:1912.12563, 2019. [Link](https://arxiv.org/abs/1912.12563) 
 
 * Lee D, Jung S, Cheon Y, et al. <b>Demand Forecasting from Spatiotemporal Data with Graph Networks and Temporal-Guided Embedding[J]</b>. arXiv preprint arXiv:1905.10709, 2019. [Link](https://arxiv.org/abs/1905.10709) [Code](https://github.com/LeeDoYup/TGNet-keras)
 
