@@ -88,6 +88,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Xiaomin Fang, Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, and Haifeng Wang. 2020. <b>ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps.</b> In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20). Association for Computing Machinery, New York, NY, USA, 2697–2705. [Link](https://dl.acm.org/doi/10.1145/3394486.3403320)
 
+* Xie Q, Guo T, Chen Y, et al. <b>Deep Graph Convolutional Networks for Incident-Driven Traffic Speed Prediction[C]</b>//Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). 2020. [Link](https://raw.githubusercontent.com/chenyang03/chenyang03.github.io/master/papers/2020-GCN-Traffic-CIKM20.pdf)
+
 * He S, Shin K G. <b>Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration[C]</b>//Proceedings of The Web Conference 2020. 2020: 133-143. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380101)
 
 * Li Y, Moura J M F. <b>Forecaster: A Graph Transformer for Forecasting Spatial and Time-Dependent Data[C]</b>//Proceedings of the Twenty-fourth European Conference on Artificial Intelligence. 2020. [Link](https://arxiv.org/abs/1909.04019)
@@ -129,6 +131,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Song C, Lin Y, Guo S, et al. <b>Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf) [Author's Code](https://github.com/wanhuaiyu/STSGCN) [Code1](https://github.com/Davidham3/STSGCN) [Code2](https://github.com/mcdragon/STSGCN)
 
 * Zhang Q, Chang J, Meng G, et al. <b>Spatio-Temporal Graph Structure Learning for Traffic Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf)
+
+* Park C, Lee C, Bahng H, et al. <b>ST-GRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting[C]</b>//Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). 2020. [Link](https://arxiv.org/abs/1911.13181)
 
 * Li Z, Sergin N D, Yan H, et al. <b>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://arxiv.org/abs/1912.05693)
 
@@ -229,7 +233,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Yoshida A, Yatsushiro Y, Hata N, et al. <b>Practical End-to-End Repositioning Algorithm for Managing Bike-Sharing System[C]</b>//2019 IEEE International Conference on Big Data (Big Data). IEEE, 2019: 1251-1258. [Link](https://ieeexplore.ieee.org/abstract/document/9005986/)
 
-* Bai L, Yao L, Kanhere S S, et al. <b>Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction[C]</b>//Proceedings of the 28th ACM International Conference on Information and Knowledge Management. 2019: 2293-2296. [Link](https://dl.acm.org/doi/abs/10.1145/3357384.3358097)
+* Bai L, Yao L, Kanhere S S, et al. <b>Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction[C]</b>//Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM). 2019: 2293-2296. [Link](https://dl.acm.org/doi/abs/10.1145/3357384.3358097)
 
 * Geng X, Li Y, Wang L, et al. <b>Spatiotemporal multi-graph convolution network for ride-hailing demand forecasting[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 3656-3663. [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/4247)
 
@@ -271,8 +275,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Ke J, Qin X, Yang H, et al. <b>Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network[J]</b>. arXiv preprint arXiv:1910.09103, 2019. [Link](https://arxiv.org/abs/1910.09103)
 
 * Zhou X, Shen Y, Huang L. <b>Revisiting Flow Information for Traffic Prediction[J]</b>. arXiv preprint arXiv:1906.00560, 2019. [Link](https://arxiv.org/abs/1906.00560)
-
-* Park C, Lee C, Bahng H, et al. <b>STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1911.13181, 2019. [Link](https://arxiv.org/abs/1911.13181)
 
 * Yu B, Yin H, Zhu Z. <b>ST-UNet: A spatio-temporal U-network for graph-structured time series modeling[J]</b>. arXiv preprint arXiv:1903.05631, 2019. [Link](https://arxiv.org/abs/1903.05631)
 
