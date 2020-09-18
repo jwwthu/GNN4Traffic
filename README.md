@@ -134,6 +134,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Park C, Lee C, Bahng H, et al. <b>ST-GRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting[C]</b>//Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). 2020. [Link](https://arxiv.org/abs/1911.13181)
 
+* Ruiqiang Liu, Shuai Zhao, Bo Cheng, et al. <b>ST-MFM: A Spatiotemporal Multi-Modal Fusion Model for Urban Anomalies Prediction[C]</b>//Proceedings of the Twenty-fourth European Conference on Artificial Intelligence. 2020. [Link](http://ebooks.iospress.nl/volumearticle/55105) [Code](https://github.com/fsgdrq/STMFM) (Still empty on 2020/9/18)
+
 * Li Z, Sergin N D, Yan H, et al. <b>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://arxiv.org/abs/1912.05693)
 
 * Suining He and Kang G. Shin. 2020. <b>Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems</b>. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 88–98. [Link](https://dl.acm.org/doi/10.1145/3366423.3380097)
