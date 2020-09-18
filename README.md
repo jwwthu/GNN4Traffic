@@ -235,6 +235,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Yoshida A, Yatsushiro Y, Hata N, et al. <b>Practical End-to-End Repositioning Algorithm for Managing Bike-Sharing System[C]</b>//2019 IEEE International Conference on Big Data (Big Data). IEEE, 2019: 1251-1258. [Link](https://ieeexplore.ieee.org/abstract/document/9005986/)
 
+* Opolka F L, Solomon A, Cangea C, et al. <b>Spatio-temporal deep graph infomax[C]</b>. Representation Learning on Graphs and Manifolds, ICLR 2019 Workshop. [Link](https://arxiv.org/abs/1904.06316)
+
 * Bai L, Yao L, Kanhere S S, et al. <b>Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction[C]</b>//Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM). 2019: 2293-2296. [Link](https://dl.acm.org/doi/abs/10.1145/3357384.3358097)
 
 * Geng X, Li Y, Wang L, et al. <b>Spatiotemporal multi-graph convolution network for ride-hailing demand forecasting[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 3656-3663. [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/4247)
