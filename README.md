@@ -258,8 +258,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Luo M, Wen H, Luo Y, et al. <b>Dynamic Demand Prediction for Expanding Electric Vehicle Sharing Systems: A Graph Sequence Learning Approach[J]</b>. arXiv preprint arXiv:1903.04051, 2019. [Link](https://arxiv.org/abs/1903.04051)
 
-* Chandra R, Guan T, Panuganti S, et al. <b>Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs[J]</b>. arXiv preprint arXiv:1912.01118, 2019. [Link](https://arxiv.org/abs/1912.01118)
-
 * Lee K, Rhee W. <b>Graph Convolutional Modules for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1905.12256, 2019. [Link](https://arxiv.org/abs/1905.12256)
 
 * Lu M, Zhang K, Liu H, et al. <b>Graph Hierarchical Convolutional Recurrent Neural Network (GHCRNN) for Vehicle Condition Prediction[J]</b>. arXiv preprint arXiv:1903.06261, 2019. [Link](https://arxiv.org/abs/1903.06261)
