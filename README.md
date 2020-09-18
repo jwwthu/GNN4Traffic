@@ -126,7 +126,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Li A, Axhausen K W. <b>Short-term Traffic Demand Prediction using Graph Convolutional Neural Networks[C]</b>. AGILE: GIScience Series, 2020, 1: 1-14. [Link](https://agile-giss.copernicus.org/articles/1/12/2020/agile-giss-1-12-2020.html)
 
-* Wang Q, Guo B, Ouyang Y, et al. Spatial Community-Informed Evolving Graphs for Demand Prediction⋆[C]. Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020). [Link](http://www.public.asu.edu/~skai2/files/ecml_spatial.pdf)
+* Wang Q, Guo B, Ouyang Y, et al. <b>Spatial Community-Informed Evolving Graphs for Demand Prediction[C]</b>. Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020). [Link](http://www.public.asu.edu/~skai2/files/ecml_spatial.pdf)
 
 * Song C, Lin Y, Guo S, et al. <b>Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf) [Author's Code](https://github.com/wanhuaiyu/STSGCN) [Code1](https://github.com/Davidham3/STSGCN) [Code2](https://github.com/mcdragon/STSGCN)
 
