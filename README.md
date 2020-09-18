@@ -47,7 +47,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Lu Z, Lv W, Cao Y, et al. <b>LSTM Variants Meet Graph Neural Networks for Road Speed Prediction[J]</b>. Neurocomputing, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0925231220303775)
 
-* Zhang J, Chen F, Guo Y. <b>Multi-Graph Convolutional Network for Short-Term Passenger Flow Forecasting in Urban Rail Transit[J]</b>. IET Intelligent Transport Systems, 2020. [Link](https://digital-library.theiet.org/content/journals/10.1049/iet-its.2019.0873) [arxiv_link](https://arxiv.org/abs/2001.07512)
+* Zhang J, Chen F, Guo Y. <b>Multi-Graph Convolutional Network for Short-Term Passenger Flow Forecasting in Urban Rail Transit[J]</b>. IET Intelligent Transport Systems, 2020. [Link](https://ieeexplore.ieee.org/document/9199407) [Code](https://github.com/JinleiZhangBJTU/Conv-GCN)
 
 * Guo K, Hu Y, Qian Z, et al. <b>Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/8959420/)
 
