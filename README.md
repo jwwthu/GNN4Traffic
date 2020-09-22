@@ -167,6 +167,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Mallick T, Balaprakash P, Rask E, et al. <b>Transfer Learning with Graph Neural Networks for Short-Term Highway Traffic Forecasting[J]</b>. arXiv preprint arXiv:2004.08038, 2020. [Link](https://arxiv.org/abs/2004.08038) [Code](https://github.com/tanwimallick/TL-DCRNN)
 
+* Zhang Y, Lu M, Li H. <b>Urban Traffic Flow Forecast Based on FastGCRNN[J]</b>. arXiv preprint arXiv:2009.08087, 2020. [Link](https://arxiv.org/abs/2009.08087)
+
 # 2019
 
 ## Journal
