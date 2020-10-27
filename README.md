@@ -83,6 +83,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Jin G, Cui Y, Zeng L, et al. <b>Urban ride-hailing demand prediction with multiple spatio-temporal information fusion network[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 117: 102665. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X20305805)
 
+* Zhang Y, Lu M, Li H. <b>Urban Traffic Flow Forecast Based on FastGCRNN[J]</b>. Journal of Advanced Transportation, 2020, 2020. [Link](https://www.hindawi.com/journals/jat/2020/8859538/)
+
 * Zhou F, Yang Q, Zhong T, et al. <b>Variational Graph Neural Networks for Road Traffic Prediction in Intelligent Transportation Systems[J]</b>. IEEE Transactions on Industrial Informatics, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9140389/)
 
 ## Conference
@@ -166,8 +168,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Xu M, Dai W, Liu C, et al. <b>Spatial-Temporal Transformer Networks for Traffic Flow Forecasting[J]</b>. arXiv preprint arXiv:2001.02908, 2020. [Link](https://arxiv.org/abs/2001.02908)
 
 * Mallick T, Balaprakash P, Rask E, et al. <b>Transfer Learning with Graph Neural Networks for Short-Term Highway Traffic Forecasting[J]</b>. arXiv preprint arXiv:2004.08038, 2020. [Link](https://arxiv.org/abs/2004.08038) [Code](https://github.com/tanwimallick/TL-DCRNN)
-
-* Zhang Y, Lu M, Li H. <b>Urban Traffic Flow Forecast Based on FastGCRNN[J]</b>. arXiv preprint arXiv:2009.08087, 2020. [Link](https://arxiv.org/abs/2009.08087)
 
 # 2019
 
