@@ -11,6 +11,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Zhang Y, Cheng T, Ren Y, et al. <b>A novel residual graph convolution deep learning model for short-term network-based traffic forecasting[J]</b>. International Journal of Geographical Information Science, 2020, 34(5): 969-995. [Link](https://www.tandfonline.com/doi/abs/10.1080/13658816.2019.1697879)
 
+* Zhu H, Xie Y, He W, et al. <b>A Novel Traffic Flow Forecasting Method Based on RNN-GCN and BRB[J]</b>. Journal of Advanced Transportation, 2020, 2020. [Link](https://www.hindawi.com/journals/jat/2020/7586154/)
+
 * Azzedine Boukerche, Jiahao Wang, <b>A Performance Modeling and Analysis of a Novel Vehicular Traffic Flow Prediction System Using a Hybrid Machine Learning-Based Model</b>, Ad Hoc Networks, 2020. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1570870520301803)
 
 * Guo K, Hu Y, Qian Z S, et al. <b>An Optimized Temporal-Spatial Gated Graph Convolution Network for Traffic Forecasting[J]</b>. IEEE Intelligent Transportation Systems Magazine, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9055022/)
@@ -94,6 +96,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 ## Conference
 * Bai L, Yao L, Li C, et al. <b>Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting[C]</b>//Advances in Neural Information Processing Systems (NeurIPS), 2020. [Link](https://arxiv.org/abs/2007.02842) [Code](https://github.com/LeiBAI/AGCRN)
 
+* Zhang H, Liu J, Tang Y, et al. <b>Attention based Graph Covolution Networks for Intelligent Traffic Flow Analysis[C]</b>//2020 IEEE 16th International Conference on Automation Science and Engineering (CASE). IEEE, 2020: 558-563. [Link](https://ieeexplore.ieee.org/abstract/document/9216966/)
+
 * Wu Z, Pan S, Long G, et al. <b>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks[C]</b>.//Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [Link](https://dl.acm.org/doi/10.1145/3394486.3403118) [Code](https://github.com/nnzhan/MTGNN)
 
 * Xiaomin Fang, Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, and Haifeng Wang. 2020. <b>ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps.</b> In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20). Association for Computing Machinery, New York, NY, USA, 2697–2705. [Link](https://dl.acm.org/doi/10.1145/3394486.3403320)
@@ -158,6 +162,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 ## Preprint
 * Zhu J, Song Y, Zhao L, et al. <b>A3T-GCN: Attention Temporal Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2006.11583v1, 2020. [Link](https://arxiv.org/abs/2006.11583v1) [Code](https://github.com/lehaifeng/T-GCN/tree/master/A3T)
+
+* Fu J, Zhou W, Chen Z. <b>Bayesian Spatio-Temporal Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2010.07498, 2020. [Link](https://arxiv.org/abs/2010.07498)
 
 * Sun Y, Wang Y, Fu K, et al. <b>Constructing Geographic and Long-term Temporal Graph for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2004.10958, 2020. [Link](https://arxiv.org/abs/2004.10958)
 
