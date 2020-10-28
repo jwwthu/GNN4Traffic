@@ -102,7 +102,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Xiaomin Fang, Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, and Haifeng Wang. 2020. <b>ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps.</b> In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20). Association for Computing Machinery, New York, NY, USA, 2697–2705. [Link](https://dl.acm.org/doi/10.1145/3394486.3403320)
 
-* Xie Q, Guo T, Chen Y, et al. <b>Deep Graph Convolutional Networks for Incident-Driven Traffic Speed Prediction[C]</b>//Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). 2020. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411873)
+* Xie Q, Guo T, Chen Y, et al. <b>Deep Graph Convolutional Networks for Incident-Driven Traffic Speed Prediction[C]</b>//Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). 2020. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411873) Note: previously known as: <b>" How do urban incidents affect traffic speed?" A Deep Graph Convolutional Network for Incident-driven Traffic Speed Prediction[J]</b>. [Link_arxiv](https://arxiv.org/abs/1912.01242)
 
 * He S, Shin K G. <b>Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration[C]</b>//Proceedings of The Web Conference 2020. 2020: 133-143. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380101)
 
@@ -148,7 +148,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Zhang Q, Chang J, Meng G, et al. <b>Spatio-Temporal Graph Structure Learning for Traffic Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf)
 
-* Park C, Lee C, Bahng H, et al. <b>ST-GRAT: A Novel Spatio-temporal Graph Attention Networks for Accurately Forecasting Dynamically Changing Road Speed[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM). 2020: 1215-1224. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411940) Note: previous known as <b>ST-GRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting[C]</b> [Link_arxiv](https://arxiv.org/abs/1911.13181)
+* Park C, Lee C, Bahng H, et al. <b>ST-GRAT: A Novel Spatio-temporal Graph Attention Networks for Accurately Forecasting Dynamically Changing Road Speed[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM). 2020: 1215-1224. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411940) Note: previously known as <b>ST-GRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting[C]</b> [Link_arxiv](https://arxiv.org/abs/1911.13181)
 
 * Ruiqiang Liu, Shuai Zhao, Bo Cheng, et al. <b>ST-MFM: A Spatiotemporal Multi-Modal Fusion Model for Urban Anomalies Prediction[C]</b>//Proceedings of the Twenty-fourth European Conference on Artificial Intelligence. 2020. [Link](http://ebooks.iospress.nl/volumearticle/55105) [Code](https://github.com/fsgdrq/STMFM) (Still empty on 2020/9/18)
 
@@ -281,8 +281,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Lee K, Rhee W. <b>Graph Convolutional Modules for Traffic Forecasting[J]</b>. arXiv preprint arXiv:1905.12256, 2019. [Link](https://arxiv.org/abs/1905.12256)
 
 * Lu M, Zhang K, Liu H, et al. <b>Graph Hierarchical Convolutional Recurrent Neural Network (GHCRNN) for Vehicle Condition Prediction[J]</b>. arXiv preprint arXiv:1903.06261, 2019. [Link](https://arxiv.org/abs/1903.06261)
-
-* Xie Q, Guo T, Chen Y, et al. <b>" How do urban incidents affect traffic speed?" A Deep Graph Convolutional Network for Incident-driven Traffic Speed Prediction[J]</b>. arXiv preprint arXiv:1912.01242, 2019. [Link](https://arxiv.org/abs/1912.01242)
 
 * Shin Y Y, Yoon Y. <b>Incorporating dynamicity of transportation network with multi-weight traffic graph convolution for traffic forecasting[J]</b>. arXiv preprint arXiv:1909.07105, 2019. [Link](https://arxiv.org/abs/1909.07105)
 
