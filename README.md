@@ -25,6 +25,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Xiao G, Wang R, Zhang C, et al. <b>Demand prediction for a public bike sharing program based on spatio-temporal graph convolutional networks[J]</b>. Multimedia Tools and Applications, 2020: 1-19. [Link](https://link.springer.com/article/10.1007/s11042-020-08803-y)
 
+* Guo K, Hu Y, Qian Z, et al. <b>Dynamic Graph Convolution Network for Traffic Forecasting Based on Latent Network of Laplace Matrix Estimation[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9190068/) [Code](https://github.com/guokan987/DGCN)
+
 * Xiong X, Ozbay K, Jin L, et al. <b>Dynamic Origin–Destination Matrix Prediction with Line Graph Neural Networks and Kalman Filter[J]</b>. Transportation Research Record, 2020: 0361198120919399. [Link](https://journals.sagepub.com/doi/abs/10.1177/0361198120919399) [Code](https://github.com/alzmxx/OD_Prediction)
 
 * Wang H W, Peng Z R, Wang D, et al. <b>Evaluation and prediction of transportation resilience under extreme weather events: A diffusion graph convolutional approach[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 115: 102619. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19305868) [Code](https://github.com/Charles117/resilience_shenzhen)
@@ -154,11 +156,15 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Li A, Axhausen K W. <b>Short-term Traffic Demand Prediction using Graph Convolutional Neural Networks[C]</b>. AGILE: GIScience Series, 2020, 1: 1-14. [Link](https://agile-giss.copernicus.org/articles/1/12/2020/agile-giss-1-12-2020.html)
 
+* Huang Y, Zhang S, Wen J, et al. <b>Short-Term Traffic Flow Prediction Based on Graph Convolutional Network Embedded LSTM[C]</b>//International Conference on Transportation and Development (ICTD) 2020. Reston, VA: American Society of Civil Engineers, 2020: 159-168. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483152.014)
+
 * Wang Q, Guo B, Ouyang Y, et al. <b>Spatial Community-Informed Evolving Graphs for Demand Prediction[C]</b>. Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020). [Link](http://www.public.asu.edu/~skai2/files/ecml_spatial.pdf)
 
 * Song C, Lin Y, Guo S, et al. <b>Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf) [Author's Code](https://github.com/wanhuaiyu/STSGCN) [Code1](https://github.com/Davidham3/STSGCN) [Code2](https://github.com/mcdragon/STSGCN)
 
 * Zhang Q, Chang J, Meng G, et al. <b>Spatio-Temporal Graph Structure Learning for Traffic Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf)
+
+* Ou J, Sun J, Zhu Y, et al. <b>STP-TrellisNets: Spatial-Temporal Parallel TrellisNets for Metro Station Passenger Flow Prediction[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM). 2020: 1185-1194. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411874)
 
 * Park C, Lee C, Bahng H, et al. <b>ST-GRAT: A Novel Spatio-temporal Graph Attention Networks for Accurately Forecasting Dynamically Changing Road Speed[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM). 2020: 1215-1224. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411940) Note: previously known as <b>ST-GRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting[C]</b> [Link_arxiv](https://arxiv.org/abs/1911.13181)
 
@@ -167,6 +173,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Li Z, Sergin N D, Yan H, et al. <b>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://arxiv.org/abs/1912.05693)
 
 * Suining He and Kang G. Shin. 2020. <b>Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems</b>. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 88–98. [Link](https://dl.acm.org/doi/10.1145/3366423.3380097)
+
+* Agafonov A. <b>Traffic Flow Prediction Using Graph Convolution Neural Networks[C]</b>//2020 10th International Conference on Information Science and Technology (ICIST). IEEE, 2020: 91-95. [Link](https://ieeexplore.ieee.org/abstract/document/9201971)
 
 * Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, and Jian Yu. 2020. <b>Traffic Flow Prediction via Spatial Temporal Graph Neural Network</b>. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 1082–1092. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380186)
 
