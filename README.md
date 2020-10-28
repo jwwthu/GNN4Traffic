@@ -110,6 +110,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Li Y, Moura J M F. <b>Forecaster: A Graph Transformer for Forecasting Spatial and Time-Dependent Data[C]</b>//Proceedings of the Twenty-fourth European Conference on Artificial Intelligence. 2020. [Link](https://arxiv.org/abs/1909.04019)
 
+* Sánchez C S, Wieder A, Sottovia P, et al. <b>GANNSTER: Graph-Augmented Neural Network Spatio-Temporal Reasoner for Traffic Forecasting[C]</b>//International Workshop on Advanced Analysis and Learning on Temporal Data. 2020. [Link](https://project.inria.fr/aaltd20/files/2020/08/AALTD_20_paper_Sanchez.pdf) [Code (empty till 2020/10/28)](https://github.com/csalort/GANNSTER)
+
 * Chen L, Han K, Yin Q, et al. <b>GDCRN: Global Diffusion Convolutional Residual Network for Traffic Flow Prediction[C]</b>//International Conference on Knowledge Science, Engineering and Management. Springer, Cham, 2020: 438-449. [Link](https://link.springer.com/chapter/10.1007/978-3-030-55393-7_39)
 
 * Zheng C, Fan X, Wang C, et al. <b>Gman: A graph multi-attention network for traffic prediction[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhengZ.2220.pdf) [Code](https://github.com/zhengchuanpan/GMAN)
@@ -159,6 +161,10 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Huang Y, Zhang S, Wen J, et al. <b>Short-Term Traffic Flow Prediction Based on Graph Convolutional Network Embedded LSTM[C]</b>//International Conference on Transportation and Development (ICTD) 2020. Reston, VA: American Society of Civil Engineers, 2020: 159-168. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483152.014)
 
 * Wang Q, Guo B, Ouyang Y, et al. <b>Spatial Community-Informed Evolving Graphs for Demand Prediction[C]</b>. Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020). [Link](http://www.public.asu.edu/~skai2/files/ecml_spatial.pdf)
+
+* Lu B, Gan X, Jin H, et al. <b>Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM). 2020: 1025-1034. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411894) [Code](https://github.com/RobinLu1209/STAG-GCN)
+
+* Zhang X, Huang C, Xu Y, et al. <b>Spatial-Temporal Convolutional Graph Attention Networks for Citywide Traffic Flow Forecasting[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM). 2020: 1853-1862. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411941) [Code](https://github.com/shurexiyue/ST-CGA)
 
 * Song C, Lin Y, Guo S, et al. <b>Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf) [Author's Code](https://github.com/wanhuaiyu/STSGCN) [Code1](https://github.com/Davidham3/STSGCN) [Code2](https://github.com/mcdragon/STSGCN)
 
