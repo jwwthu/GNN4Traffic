@@ -79,8 +79,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Xu Z, Kang Y, Cao Y, et al. <b>Spatiotemporal Graph Convolution Multifusion Network for Urban Vehicle Emission Prediction[J]</b>. IEEE Transactions on Neural Networks and Learning Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9151256/)
 
-* Zhao J, Qu H, Zhao J, et al. <b>Spatiotemporal graph convolutional recurrent networks for traffic matrix prediction[J]</b>. Transactions on Emerging Telecommunications Technologies, e4056. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.4056)
-
 * Kong X, Xing W, Wei X, et al. <b>STGAT: Spatial-Temporal Graph Attention Networks for Traffic Flow Forecasting[J].</b> IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/document/9146162) [Code (still empty on Aug 3, 2020)] (https://github.com/xyk0058/STGAT)
 
 * Lv M, Hong Z, Chen L, et al. <b>Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9098104/)
