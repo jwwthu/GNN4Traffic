@@ -63,7 +63,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Guo K, Hu Y, Qian Z, et al. <b>Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/8959420/)
 
-* Liu L, Chen J, Wu H, et al. <b>Physical-Virtual Collaboration Modeling for Intra-and Inter-Station Metro Ridership Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://arxiv.org/abs/2001.04889) [Code with data](https://github.com/ivechan/PVCGN)
+* Liu L, Chen J, Wu H, et al. <b>Physical-Virtual Collaboration Modeling for Intra-and Inter-Station Metro Ridership Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://arxiv.org/abs/2001.04889) [Code with data](https://github.com/ivechan/PVCGN)
 
 * Sun J, Zhang J, Li Q, et al. <b>Predicting citywide crowd flows in irregular regions using multi-view graph convolutional networks[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2020. [Link](https://ieeexplore.ieee.org/document/9139357)
 
