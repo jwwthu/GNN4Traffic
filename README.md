@@ -110,11 +110,11 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * He S, Shin K G. <b>Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration[C]</b>//Proceedings of The Web Conference 2020. 2020: 133-143. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380101)
 
-* Tang C, Sun J, Sun Y. <b>Dynamic Spatial-Temporal Graph Attention Graph Convolutional Network for Short-Term Traffic Flow Forecasting[C]<b>//2020 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2020: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9181234/)
+* Tang C, Sun J, Sun Y. <b>Dynamic Spatial-Temporal Graph Attention Graph Convolutional Network for Short-Term Traffic Flow Forecasting[C]</b>//2020 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2020: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9181234/)
 
 * Li Y, Moura J M F. <b>Forecaster: A Graph Transformer for Forecasting Spatial and Time-Dependent Data[C]</b>//Proceedings of the Twenty-fourth European Conference on Artificial Intelligence. 2020. [Link](https://arxiv.org/abs/1909.04019)
 
-* Sánchez C S, Wieder A, Sottovia P, et al. <b>GANNSTER: Graph-Augmented Neural Network Spatio-Temporal Reasoner for Traffic Forecasting[C]</b>//International Workshop on Advanced Analysis and Learning on Temporal Data. 2020. [Link](https://project.inria.fr/aaltd20/files/2020/08/AALTD_20_paper_Sanchez.pdf) [Code (empty till 2020/10/28)](https://github.com/csalort/GANNSTER)
+* Sánchez C S, Wieder A, Sottovia P, et al. <b>GANNSTER: Graph-Augmented Neural Network Spatio-Temporal Reasoner for Traffic Forecasting[C]</b>//International Workshop on Advanced Analysis and Learning on Temporal Data. 2020. [Link](https://project.inria.fr/aaltd20/files/2020/08/AALTD_20_paper_Sanchez.pdf) [Code (empty till 2020/11/17)](https://github.com/csalort/GANNSTER)
 
 * Chen L, Han K, Yin Q, et al. <b>GDCRN: Global Diffusion Convolutional Residual Network for Traffic Flow Prediction[C]</b>//International Conference on Knowledge Science, Engineering and Management. Springer, Cham, 2020: 438-449. [Link](https://link.springer.com/chapter/10.1007/978-3-030-55393-7_39)
 
