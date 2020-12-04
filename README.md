@@ -39,6 +39,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Xiong X, Ozbay K, Jin L, et al. <b>Dynamic Origin–Destination Matrix Prediction with Line Graph Neural Networks and Kalman Filter[J]</b>. Transportation Research Record, 2020: 0361198120919399. [Link](https://journals.sagepub.com/doi/abs/10.1177/0361198120919399) [Code](https://github.com/alzmxx/OD_Prediction)
 
+* Chen K, Chen F, Lai B, et al. <b>Dynamic Spatio-Temporal Graph-Based CNNs for Traffic Flow Prediction[J]</b>. IEEE Access, 2020, 8: 185136-185145. [Link](https://ieeexplore.ieee.org/document/9207934)
+
 * Wang H W, Peng Z R, Wang D, et al. <b>Evaluation and prediction of transportation resilience under extreme weather events: A diffusion graph convolutional approach[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 115: 102619. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19305868) [Code](https://github.com/Charles117/resilience_shenzhen)
 
 * Zhou Q, Gu J J, Ling C, et al. <b>Exploiting Multiple Correlations Among Urban Regions for Crowd Flow Prediction[J]</b>. Journal of Computer Science and Technology, 2020, 35: 338-352. [Link](https://link.springer.com/article/10.1007%2Fs11390-020-9970-y)
@@ -387,8 +389,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Yu B, Yin H, Zhu Z. <b>Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting[C]</b>//Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI. 2018. [Link](https://www.ijcai.org/Proceedings/2018/0505) [Code1](https://github.com/VeritasYin/STGCN_IJCAI-18) [Code2](https://github.com/Davidham3/STGCN) [Code3](https://github.com/PKUAI26/STGCN-IJCAI-18)
 
 ## Preprint
-* Wang M, Lai B, Jin Z, et al. <b>Dynamic spatio-temporal graph-based cnns for traffic prediction[J]</b>. arXiv preprint arXiv:1812.02019, 2018. [Link](https://arxiv.org/abs/1812.02019)
-
 * Wang X, Chen C, Min Y, et al. <b>Efficient metropolitan traffic prediction based on graph recurrent neural network[J]</b>. arXiv preprint arXiv:1811.00740, 2018. [Link](https://arxiv.org/abs/1811.00740) [Code](https://github.com/xxArbiter/grnn)
 
 * Hu J, Guo C, Yang B, et al. <b>Recurrent Multi-Graph Neural Networks for Travel Cost Prediction[J]</b>. arXiv preprint arXiv:1811.05157, 2018. [Link](https://arxiv.org/abs/1811.05157)
