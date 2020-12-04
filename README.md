@@ -170,9 +170,9 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Wang F, Xu J, Liu C, et al. <b>MTGCN: A Multitask Deep Learning Model for Traffic Flow Prediction[C]</b>//International Conference on Database Systems for Advanced Applications (DASFAA). Springer, Cham, 2020: 435-451. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59410-7_30)
 
-* Shi H, Yao Q, Guo Q, et al. <b>Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network[C]</b>. ICDE 2020. [Link (not official)](http://www.cse.ust.hk/~qyaoaa/papers/ICDE-2020-MPGCN-long.pdf)
+* Shi H, Yao Q, Guo Q, et al. <b>Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network[C]</b>//2020 IEEE 36th International Conference on Data Engineering (ICDE). IEEE, 2020: 1818-1821. [Link](https://ieeexplore.ieee.org/abstract/document/9101359)
 
-* Jilin Hu, Bin Yang, Chenjuan Guo, Christian S. Jensen, and Hui Xiong. <b>Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks</b>. ICDE 2020. [Link](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b417/290300b417.pdf) [Code](https://github.com/hujilin1229/od-pred)
+* Hu J, Yang B, Guo C, et al. <b>Stochastic origin-destination matrix forecasting using dual-stage graph convolutional, recurrent neural networks[C]</b>//2020 IEEE 36th International Conference on Data Engineering (ICDE). IEEE, 2020: 1417-1428. [Link](https://ieeexplore.ieee.org/abstract/document/9101647) [Code](https://github.com/hujilin1229/od-pred)
 
 * Yang F, Chen L, Zhou F, et al. <b>Relational State-Space Model for Stochastic Multi-Object Systems[C]</b>//International Conference on Learning Representations. 2020. [Link](https://openreview.net/forum?id=B1lGU64tDr) [Code](https://github.com/fanyang01/relational-ssm)
 
