@@ -1,6 +1,10 @@
 # GNN4Traffic
 This is the repository for the collection of Graph Neural Network for Traffic Forecasting.
 
+# 2021
+## Journal
+* Ke J, Qin X, Yang H, et al. <b>Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network[J]</b>. Transportation Research Part C: Emerging Technologies, 2021, 122: 102858. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X20307580) [Code](https://github.com/kejintao/ST-ED-RMGC)
+
 # 2020
 ## Journal
 * Tang C, Sun J, Sun Y, et al. <b>A General Traffic Flow Prediction Approach Based on Spatial-Temporal Graph Attention[J]</b>. IEEE Access, 2020, 8: 153731-153741. [Link](https://ieeexplore.ieee.org/abstract/document/9173702/) [Code](https://github.com/sam101340/GAGCN-BC-20200720)
@@ -357,8 +361,6 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 * Shleifer S, McCreery C, Chitters V. <b>Incrementally Improving Graph WaveNet Performance on Traffic Prediction[J]</b>. arXiv preprint arXiv:1912.07390, 2019. [Link](https://arxiv.org/abs/1912.07390) [Code](https://github.com/sshleifer/Graph-WaveNet)
 
 * Geng X, Wu X, Zhang L, et al. <b>Multi-modal graph interaction for multi-graph convolution network in urban spatiotemporal forecasting[J]</b>. arXiv preprint arXiv:1905.11395, 2019. [Link](https://arxiv.org/abs/1905.11395)
-
-* Ke J, Qin X, Yang H, et al. <b>Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network[J]</b>. arXiv preprint arXiv:1910.09103, 2019. [Link](https://arxiv.org/abs/1910.09103)
 
 * Zhou X, Shen Y, Huang L. <b>Revisiting Flow Information for Traffic Prediction[J]</b>. arXiv preprint arXiv:1906.00560, 2019. [Link](https://arxiv.org/abs/1906.00560)
 
