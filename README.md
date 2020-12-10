@@ -87,7 +87,7 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Sun J, Zhang J, Li Q, et al. <b>Predicting citywide crowd flows in irregular regions using multi-view graph convolutional networks[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2020. [Link](https://ieeexplore.ieee.org/document/9139357)
 
-* Mohanty S, Pozdnukhov A, Cassidy M. <b>Region-wide congestion prediction and control using deep learning[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 116: 102624. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19313488) [Code](https://github.com/sudatta0993/Dynamic-Congestion-Prediction)
+* Mohanty S, Pozdnukhov A, Cassidy M. <b>Region-wide congestion prediction and control using deep learning[J]</b>. Transportation Research Part C: Emerging Technologies, 2020, 116: 102624. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X19313488)
 
 * Zhou F, Yang Q, Zhang K, et al. <b>Reinforced Spatio-Temporal Attentive Graph Neural Networks for Traffic Forecasting[J]</b>. IEEE Internet of Things Journal, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9003261/)
 
