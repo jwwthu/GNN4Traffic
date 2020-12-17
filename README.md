@@ -343,6 +343,8 @@ This is the repository for the collection of Graph Neural Network for Traffic Fo
 
 * Ren Y, Xie K. <b>Transfer Knowledge Between Sub-regions for Traffic Prediction Using Deep Learning Method[C]</b>//International Conference on Intelligent Data Engineering and Automated Learning. Springer, Cham, 2019: 208-219. [Link](https://link.springer.com/chapter/10.1007/978-3-030-33607-3_23)
 
+* Pan Z, Liang Y, Wang W, et al. <b>Urban traffic prediction from spatio-temporal data using deep meta learning[C]</b>//Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2019: 1720-1730. [Link](https://dl.acm.org/doi/abs/10.1145/3292500.3330884) [Code](https://github.com/panzheyi/ST-MetaNet)
+
 ## Preprint
 * Yu B, Li M, Zhang J, et al. <b>3d graph convolutional networks with temporal graphs: A spatial information free framework for traffic forecasting[J]</b>. arXiv preprint arXiv:1903.00919, 2019. [Link](https://arxiv.org/abs/1903.00919)
 
