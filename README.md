@@ -1,6 +1,20 @@
 # GNN4Traffic
 This is the repository for the collection of Graph Neural Network for Traffic Forecasting.
 
+Some simple paper statistics results are as follows.
+
+Paper year count:
+
+![](https://github.com/jwwthu/GNN4Traffic/blob/master/stats/count.png)
+
+Top conferences with paper counts:
+
+![](https://github.com/jwwthu/GNN4Traffic/blob/master/stats/top-conferences.png)
+
+Top journals with paper counts:
+
+![](https://github.com/jwwthu/GNN4Traffic/blob/master/stats/top-journals.png)
+
 # 2021
 ## Journal
 * Ke J, Qin X, Yang H, et al. <b>Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network[J]</b>. Transportation Research Part C: Emerging Technologies, 2021, 122: 102858. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X20307580) [Code](https://github.com/kejintao/ST-ED-RMGC)
