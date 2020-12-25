@@ -34,6 +34,7 @@ Top journals with paper counts:
 
 ## Conference
 * Ye J, Sun L, Du B, et al. <b>Coupled Layer-wise Graph Convolution for Transportation Demand Prediction[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://arxiv.org/abs/2012.08080)
+* Mengzhang L, Zhanxing Z. <b>Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://arxiv.org/abs/2012.09641) [Code](https://github.com/MengzhangLI/STFGNN)
 
 # 2020
 ## Journal
@@ -118,6 +119,8 @@ Top journals with paper counts:
 * Zhang J, Chen F, Guo Y. <b>Multi-Graph Convolutional Network for Short-Term Passenger Flow Forecasting in Urban Rail Transit[J]</b>. IET Intelligent Transport Systems, 2020. [Link](https://ieeexplore.ieee.org/document/9199407) [Code](https://github.com/JinleiZhangBJTU/Conv-GCN)
 
 * Yin X, Wu G, Wei J, et al. <b>Multi-Stage Attention Spatial-Temporal Graph Networks for Traffic Prediction[J]</b>. Neurocomputing, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0925231220318312)
+
+* Gong Y, Li Z, Zhang J, et al. <b>Online Spatio-temporal Crowd Flow Distribution Prediction for Complex Metro System[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9063494/)
 
 * Guo K, Hu Y, Qian Z, et al. <b>Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/8959420/)
 
@@ -306,6 +309,8 @@ Top journals with paper counts:
 * Xu M, Dai W, Liu C, et al. <b>Spatial-Temporal Transformer Networks for Traffic Flow Forecasting[J]</b>. arXiv preprint arXiv:2001.02908, 2020. [Link](https://arxiv.org/abs/2001.02908)
 
 * Mallick T, Balaprakash P, Rask E, et al. <b>Transfer Learning with Graph Neural Networks for Short-Term Highway Traffic Forecasting[J]</b>. arXiv preprint arXiv:2004.08038, 2020. [Link](https://arxiv.org/abs/2004.08038) [Code](https://github.com/tanwimallick/TL-DCRNN)
+
+* Maas T, Bloem P. <b>Uncertainty Intervals for Graph-based Spatio-Temporal Traffic Prediction[J]</b>. arXiv preprint arXiv:2012.05207, 2020. [Link](https://arxiv.org/abs/2012.05207)
 
 # 2019
 
