@@ -15,6 +15,19 @@ Top journals with paper counts:
 
 ![](https://github.com/jwwthu/GNN4Traffic/blob/master/stats/top-journals.png)
 
+# Relevant Repositories
+* Deep Learning Time Series Forecasting [Link](https://github.com/Alro10/deep-learning-time-series)
+
+* A collection of research on spatio-temporal data mining [Link](https://github.com/xiepeng21/research_spatio-temporal-data-mining)
+
+* Some TrafficFlowForecasting Solutions [Link](https://github.com/xiaoxiong74/TrafficFlowForecasting)
+
+* Urban-computing-papers [Link](https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers)
+
+* Spatio-Temporal-papers [Link](https://github.com/datawhalechina/spatio-temporal-papers)
+
+* Awesome-Mobility-Machine-Learning-Contents [Link](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents/blob/master/README.md)
+
 # 2021
 ## Journal
 * Ke J, Qin X, Yang H, et al. <b>Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network[J]</b>. Transportation Research Part C: Emerging Technologies, 2021, 122: 102858. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X20307580) [Code](https://github.com/kejintao/ST-ED-RMGC)
