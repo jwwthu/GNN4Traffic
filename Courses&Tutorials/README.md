@@ -18,7 +18,7 @@ This is the folder for relevant resources, e.g., course, tutorial and blog.
 * 图神经网络相关算法详述及实现 [Github_link](https://github.com/wangyouze/GNN-algorithms)
 
 * Deep Graph Learning: Foundations, Advances and Applications (Tutorial @ KDD 2020) [Link](https://ai.tencent.com/ailab/ml/KDD-Deep-Graph-Learning.html)
-+ 微信公众号：腾讯高校合作 [犀牛鸟硬核 | 一文了解图深度学习的进展与应用](https://mp.weixin.qq.com/s?__biz=MjM5NzIwODcyMQ==&mid=2663355142&idx=2&sn=354fec2cd3b5db4b3a9791cfe8a512bb&chksm=bd9644f88ae1cdee65367ce58b73aa9110e007620c3c9746b6f8c282c643ea9762ac26c2d1a4)
+  + 微信公众号：腾讯高校合作 [犀牛鸟硬核 | 一文了解图深度学习的进展与应用](https://mp.weixin.qq.com/s?__biz=MjM5NzIwODcyMQ==&mid=2663355142&idx=2&sn=354fec2cd3b5db4b3a9791cfe8a512bb&chksm=bd9644f88ae1cdee65367ce58b73aa9110e007620c3c9746b6f8c282c643ea9762ac26c2d1a4)
 
 * Graph Representation Learning and Applications (Tutorial @ ECML/PKDD '20) [Link](https://www.aminer.cn/grla_ecmlpkdd2020)
 
@@ -27,10 +27,10 @@ This is the folder for relevant resources, e.g., course, tutorial and blog.
 * Graph Mining & Learning (@NeurIPS 2020) [Link](https://gm-neurips-2020.github.io/)
 
 * 微信公众号：相约机器人
-+ 图深度学习入门教程 [Link](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUyMjg4NjU5OQ==&action=getalbum&album_id=1318941421248004098)
+  + 图深度学习入门教程 [Link](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUyMjg4NjU5OQ==&action=getalbum&album_id=1318941421248004098)
 
 * 微信公众号：Datawhale
-+ GNN专栏-秦州 [Link](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNjM2MzQyNg==&action=getalbum&album_id=1600877474559639556)
+  + GNN专栏-秦州 [Link](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNjM2MzQyNg==&action=getalbum&album_id=1600877474559639556)
 
 # Blog
 * Traffic prediction with advanced Graph Neural Networks (by DeepMind with Google Maps) [Link](https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks)
