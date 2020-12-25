@@ -1,4 +1,4 @@
-This is the folder for relevant resources, e.g., course, tutorial and blog.
+This is the folder for relevant resources, e.g., course, tutorial, thesis, and blog.
 
 # Course
 
@@ -31,6 +31,11 @@ This is the folder for relevant resources, e.g., course, tutorial and blog.
 
 * 微信公众号：Datawhale
   + GNN专栏-秦州 [Link](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNjM2MzQyNg==&action=getalbum&album_id=1600877474559639556)
+
+# Thesis
+* Zhang Y. Graph deep learning models for network-based spatio-temporal data forecasting: from dense to sparse[D]. UCL (University College London), 2020. [Link](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.816000)
+
+* Tang X. Modeling Spatiotemporality for Multivariate Time Series in Urban Applications[J]. 2020. [Link](https://etda.libraries.psu.edu/catalog/17900xut10)
 
 # Blog
 * Traffic prediction with advanced Graph Neural Networks (by DeepMind with Google Maps) [Link](https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks)
