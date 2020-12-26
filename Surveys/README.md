@@ -27,6 +27,8 @@ This is the folder for the relevant surveys.
 
 * Tedjopurnomo D A, Bao Z, Zheng B, et al. <b>A survey on modern deep neural network for traffic prediction: Trends, methods and challenges[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9112608/)
 
+* Varghese V, Chikaraishi M, Urata J. <b>Deep Learning in Transport Studies: A Meta-analysis on the Prediction Accuracy[J]</b>. Journal of Big Data Analytics in Transportation, 2020: 1-22. [Link](https://link.springer.com/article/10.1007/s42421-020-00030-z)
+
 # 2019
 * Pavlyuk D. <b>Feature selection and extraction in spatiotemporal traffic forecasting: a systematic literature review[J]</b>. European Transport Research Review, 2019, 11(1): 6. [Link](https://link.springer.com/article/10.1186/s12544-019-0345-9)
 
