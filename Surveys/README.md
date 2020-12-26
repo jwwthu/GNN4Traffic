@@ -21,9 +21,7 @@ This is the folder for the relevant surveys.
 
 * Haghighat A K, Ravichandra-Mouli V, Chakraborty P, et al. <b>Applications of Deep Learning in Intelligent Transportation Systems[J]</b>. Journal of Big Data Analytics in Transportation, 2020, 2(2): 115-145. [Link](https://link.springer.com/article/10.1007/s42421-020-00020-1)
 
-* Boukerche A, Tao Y, Sun P. <b>Artificial intelligence-based vehicular traffic flow prediction methods for supporting intelligent transportation systems[J]</b>. Computer Networks, 2020, 182: 107484. [Link](https://www.sciencedirect.com/science/article/pii/S1389128620311567  )
-
-* Mena-Oreja J, Gozalvez J. <b>A Comprehensive Evaluation of Deep Learning-Based Techniques for Traffic Prediction[J]</b>. IEEE Access, 2020, 8: 91188-91212. [Link](https://ieeexplore.ieee.org/abstract/document/9092975/)
+* Boukerche A, Tao Y, Sun P. <b>Artificial intelligence-based vehicular traffic flow prediction methods for supporting intelligent transportation systems[J]</b>. Computer Networks, 2020, 182: 107484. [Link](https://www.sciencedirect.com/science/article/pii/S1389128620311567)
 
 * Tedjopurnomo D A, Bao Z, Zheng B, et al. <b>A survey on modern deep neural network for traffic prediction: Trends, methods and challenges[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9112608/)
 
