@@ -35,6 +35,8 @@ Top journals with paper counts:
 ## Conference
 * Ye J, Sun L, Du B, et al. <b>Coupled Layer-wise Graph Convolution for Transportation Demand Prediction[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://arxiv.org/abs/2012.08080)
 
+* Oreshkin B N, Amini A, Coyle L, et al. <b>FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://arxiv.org/abs/2007.15531v1) [Code](https://github.com/boreshkinai/fc-gaga)
+
 * Mengzhang L, Zhanxing Z. <b>Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://arxiv.org/abs/2012.09641) [Code](https://github.com/MengzhangLI/STFGNN)
 
 * Li M, Tong P, Li M, et al. <b>Traffic Flow Prediction with Vehicle Trajectories[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://wands.sg/publications/full_list/papers/AAAI_21_1.pdf) [Code (empty till 2020/12/31)](https://github.com/mingqian000/TrGNN)
@@ -300,8 +302,6 @@ Top journals with paper counts:
 * Jia C, Wu B, Zhang X P. <b>Dynamic Spatiotemporal Graph Neural Network with Tensor Network[J]</b>. arXiv preprint arXiv:2003.08729, 2020. [Link](https://arxiv.org/abs/2003.08729)
 
 * Wang L, Chai D, Liu X, et al. <b>Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework[J]</b>. arXiv preprint arXiv:2009.09379, 2020. [Link](https://arxiv.org/abs/2009.09379)
-
-* Oreshkin B N, Amini A, Coyle L, et al. <b>FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting[J]</b>. arXiv preprint arXiv:2007.15531, 2020. [Link](https://arxiv.org/abs/2007.15531v1)
 
 * Xie Y, Xiong Y, Zhu Y. <b>ISTD-GCN: Iterative Spatial-Temporal Diffusion Graph Convolutional Network for Traffic Speed Forecasting[J]</b>. arXiv preprint arXiv:2008.03970, 2020. [Link](https://arxiv.org/abs/2008.03970v1)
 
