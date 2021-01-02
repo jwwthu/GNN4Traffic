@@ -226,8 +226,6 @@ Top journals with paper counts:
 
 * Wu M, Zhu C, Chen L. <b>Multi-Task Spatial-Temporal Graph Attention Network for Taxi Demand Prediction[C]</b>//Proceedings of the 2020 5th International Conference on Mathematics and Artificial Intelligence. 2020: 224-228. [Link](https://dl.acm.org/doi/abs/10.1145/3395260.3395266)
 
-* Yang C, Zhou Z, Wen H, et al. <b>MSTNN: A Graph Learning Based Method for the Origin-Destination Traffic Prediction[C]</b>//ICC 2020-2020 IEEE International Conference on Communications (ICC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9149277/)
-
 * Wang F, Xu J, Liu C, et al. <b>MTGCN: A Multitask Deep Learning Model for Traffic Flow Prediction[C]</b>//International Conference on Database Systems for Advanced Applications (DASFAA). Springer, Cham, 2020: 435-451. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59410-7_30)
 
 * Shi H, Yao Q, Guo Q, et al. <b>Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network[C]</b>//2020 IEEE 36th International Conference on Data Engineering (ICDE). IEEE, 2020: 1818-1821. [Link](https://ieeexplore.ieee.org/abstract/document/9101359)
