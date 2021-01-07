@@ -184,6 +184,8 @@ Top journals with paper counts:
 
 * Bai L, Yao L, Li C, et al. <b>Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting[C]</b>//Advances in Neural Information Processing Systems (NeurIPS), 2020. [Link](https://arxiv.org/abs/2007.02842) [Code](https://github.com/LeiBAI/AGCRN)
 
+* Zhao H, Yang H, Wang Y, et al. <b>Attention Based Graph Bi-LSTM Networks for Traffic Forecasting[C]</b>//2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9294470/)
+
 * Zhang H, Liu J, Tang Y, et al. <b>Attention based Graph Covolution Networks for Intelligent Traffic Flow Analysis[C]</b>//2020 IEEE 16th International Conference on Automation Science and Engineering (CASE). IEEE, 2020: 558-563. [Link](https://ieeexplore.ieee.org/abstract/document/9216966/)
 
 * Wu Z, Pan S, Long G, et al. <b>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks[C]</b>.//Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [Link](https://dl.acm.org/doi/10.1145/3394486.3403118) [Code](https://github.com/nnzhan/MTGNN)
@@ -194,6 +196,8 @@ Top journals with paper counts:
 
 * He S, Shin K G. <b>Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration[C]</b>//Proceedings of The Web Conference 2020. 2020: 133-143. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380101)
 
+* Guopeng L I, Knoop V L, van Lint H. <b>Dynamic Graph Filters Networks: A Gray-box Model for Multistep Traffic Forecasting[C]</b>//2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9294627/) [Code](https://github.com/RomainLITUD/DGCN_traffic_forecasting)
+
 * Tang C, Sun J, Sun Y. <b>Dynamic Spatial-Temporal Graph Attention Graph Convolutional Network for Short-Term Traffic Flow Forecasting[C]</b>//2020 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2020: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9181234/)
 
 * Shao K, Wang K, Chen L, et al. <b>Estimation of Urban Travel Time with Sparse Traffic Surveillance Data[C]</b>//Proceedings of the 2020 4th High Performance Computing and Cluster Technologies Conference & 2020 3rd International Conference on Big Data and Artificial Intelligence. 2020: 218-223. [Link](https://dl.acm.org/doi/abs/10.1145/3409501.3409539)
@@ -202,9 +206,13 @@ Top journals with paper counts:
 
 * Sánchez C S, Wieder A, Sottovia P, et al. <b>GANNSTER: Graph-Augmented Neural Network Spatio-Temporal Reasoner for Traffic Forecasting[C]</b>//International Workshop on Advanced Analysis and Learning on Temporal Data. 2020. [Link](https://project.inria.fr/aaltd20/files/2020/08/AALTD_20_paper_Sanchez.pdf) [Code (empty till 2020/11/17)](https://github.com/csalort/GANNSTER)
 
+* He Y, Zhao Y, Wang H, et al. <b>GC-LSTM: A Deep Spatiotemporal Model for Passenger Flow Forecasting of High-Speed Rail Network[C]</b>//2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9294700/)
+
 * Chen L, Han K, Yin Q, et al. <b>GDCRN: Global Diffusion Convolutional Residual Network for Traffic Flow Prediction[C]</b>//International Conference on Knowledge Science, Engineering and Management. Springer, Cham, 2020: 438-449. [Link](https://link.springer.com/chapter/10.1007/978-3-030-55393-7_39)
 
 * Zheng C, Fan X, Wang C, et al. <b>Gman: A graph multi-attention network for traffic prediction[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhengZ.2220.pdf) [Code](https://github.com/zhengchuanpan/GMAN)
+
+* Song Q, Ming R B, Hu J, et al. <b>Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction[C]</b>//2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9294580/) [Code (Still empty till 2020/1/7)](https://github.com/simmonssong/GAC-Net)
 
 * Chen F, Chen Z, Biswas S, et al. <b>Graph Convolutional Networks with Kalman Filtering for Traffic Prediction[C]</b>//Proceedings of the 28th International Conference on Advances in Geographic Information Systems. 2020: 135-138. [Link](https://dl.acm.org/doi/abs/10.1145/3397536.3422257) [Code](https://github.com/Fanglanc/DKFN)
 
@@ -233,6 +241,8 @@ Top journals with paper counts:
 * Shi H, Yao Q, Guo Q, et al. <b>Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network[C]</b>//2020 IEEE 36th International Conference on Data Engineering (ICDE). IEEE, 2020: 1818-1821. [Link](https://ieeexplore.ieee.org/abstract/document/9101359)
 
 * Hu J, Yang B, Guo C, et al. <b>Stochastic origin-destination matrix forecasting using dual-stage graph convolutional, recurrent neural networks[C]</b>//2020 IEEE 36th International Conference on Data Engineering (ICDE). IEEE, 2020: 1417-1428. [Link](https://ieeexplore.ieee.org/abstract/document/9101647) [Code](https://github.com/hujilin1229/od-pred)
+
+* Heglund J S W, Taleongpong P, Hu S, et al. <b>Railway Delay Prediction with Spatial-Temporal Graph Convolutional Networks[C]</b>//2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9294742/)
 
 * Yang F, Chen L, Zhou F, et al. <b>Relational State-Space Model for Stochastic Multi-Object Systems[C]</b>//International Conference on Learning Representations. 2020. [Link](https://openreview.net/forum?id=B1lGU64tDr) [Code](https://github.com/fanyang01/relational-ssm)
 
