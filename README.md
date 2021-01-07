@@ -216,6 +216,8 @@ Top journals with paper counts:
 
 * Chen F, Chen Z, Biswas S, et al. <b>Graph Convolutional Networks with Kalman Filtering for Traffic Prediction[C]</b>//Proceedings of the 28th International Conference on Advances in Geographic Information Systems. 2020: 135-138. [Link](https://dl.acm.org/doi/abs/10.1145/3397536.3422257) [Code](https://github.com/Fanglanc/DKFN)
 
+* Chen J, Liao S, Hou J, et al. <b>GST-GCN: A Geographic-Semantic-Temporal Graph Convolutional Network for Context-aware Traffic Flow Prediction on Graph Sequences[C]</b>//2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2020: 1604-1609. [Link](https://ieeexplore.ieee.org/abstract/document/9282828/)
+
 * Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Kung Fu, Zheng Wang, Xiaohu Qie, and Jieping Ye. 2020. <b>HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.</b> In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20). Association for Computing Machinery, New York, NY, USA, 2444–2454. [Link](https://dl.acm.org/doi/10.1145/3394486.3403294) [Code](https://github.com/didi/heteta)
 
 * Dai R, Xu S, Gu Q, et al. <b>Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data[C]</b>.//Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [Link](https://dl.acm.org/doi/10.1145/3394486.3403358)
@@ -286,6 +288,8 @@ Top journals with paper counts:
 
 * Suining He and Kang G. Shin. 2020. <b>Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems</b>. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 88–98. [Link](https://dl.acm.org/doi/10.1145/3366423.3380097)
 
+* Xu X, Zheng H, Feng X, et al. <b>Traffic Flow Forecasting with Spatial-Temporal Graph Convolutional Networks in Edge-Computing Systems[C]</b>//2020 International Conference on Wireless Communications and Signal Processing (WCSP). IEEE, 2020: 251-256. [Link](https://ieeexplore.ieee.org/abstract/document/9299778/)
+
 * Agafonov A. <b>Traffic Flow Prediction Using Graph Convolution Neural Networks[C]</b>//2020 10th International Conference on Information Science and Technology (ICIST). IEEE, 2020: 91-95. [Link](https://ieeexplore.ieee.org/abstract/document/9201971)
 
 * Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, and Jian Yu. 2020. <b>Traffic Flow Prediction via Spatial Temporal Graph Neural Network</b>. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 1082–1092. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380186)
@@ -293,6 +297,8 @@ Top journals with paper counts:
 * Ramadan A, Elbery A, Zorba N, et al. <b>Traffic Forecasting using Temporal Line Graph Convolutional Network: Case Study</b>[C]//ICC 2020-2020 IEEE International Conference on Communications (ICC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9149233/)
 
 * Chen X, Zhang Y, Du L, et al. <b>TSSRGCN: Temporal Spectral Spatial Retrieval Graph Convolutional Network for Traffic Flow Forecasting[C]</b>//2020 IEEE International Conference on Data Mining (ICDM). IEEE, 2020. [Link](https://arxiv.org/abs/2011.14638)
+
+* Kim S S, Chung M, Kim Y K. <b>Urban Traffic Prediction using Congestion Diffusion Model[C]</b>//2020 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia). IEEE, 2020: 1-4. [Link](https://ieeexplore.ieee.org/abstract/document/9276823/)
 
 ## Preprint
 * Chen H, Rossi R A, Mahadik K, et al. <b>A Context Integrated Relational Spatio-Temporal Model for Demand and Supply Forecasting[J]</b>. arXiv preprint arXiv:2009.12469, 2020. [Link](https://arxiv.org/abs/2009.12469)
