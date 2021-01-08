@@ -30,6 +30,8 @@ Top journals with paper counts:
 
 # 2021
 ## Journal
+* Tang J, Liang J, Liu F, et al. <b>Multi-community passenger demand prediction at region level based on spatio-temporal graph convolutional network[J]</b>. Transportation Research Part C: Emerging Technologies, 2021, 124: 102951. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X20308482)
+
 * Ke J, Qin X, Yang H, et al. <b>Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network[J]</b>. Transportation Research Part C: Emerging Technologies, 2021, 122: 102858. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X20307580) [Code](https://github.com/kejintao/ST-ED-RMGC)
 
 ## Conference
