@@ -312,6 +312,8 @@ Top journals with paper counts:
 ## Preprint
 * Chen H, Rossi R A, Mahadik K, et al. <b>A Context Integrated Relational Spatio-Temporal Model for Demand and Supply Forecasting[J]</b>. arXiv preprint arXiv:2009.12469, 2020. [Link](https://arxiv.org/abs/2009.12469)
 
+* Chan V, Gan Q, Bayen A. <b>A Graph Convolutional Network with Signal Phasing Information for Arterial Traffic Prediction[J]</b>. arXiv preprint arXiv:2012.13479, 2020. [Link](https://arxiv.org/abs/2012.13479) [Code](https://github.com/victorchan314/arterial_traffic_flow_predictor)
+
 * Zhu J, Song Y, Zhao L, et al. <b>A3T-GCN: Attention Temporal Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2006.11583v1, 2020. [Link](https://arxiv.org/abs/2006.11583v1) [Code](https://github.com/lehaifeng/T-GCN/tree/master/A3T)
 
 * Zhu J, Tao C, Deng H, et al. <b>AST-GCN: Attribute-Augmented Spatiotemporal Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2011.11004, 2020. [Link](https://arxiv.org/abs/2011.11004)
