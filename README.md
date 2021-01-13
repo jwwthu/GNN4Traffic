@@ -201,6 +201,8 @@ Top journals with paper counts:
 
 * Xiaomin Fang, Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, and Haifeng Wang. 2020. <b>ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps.</b> In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20). Association for Computing Machinery, New York, NY, USA, 2697–2705. [Link](https://dl.acm.org/doi/10.1145/3394486.3403320)
 
+* Sun Y, Wang Y, Fu K, et al. <b>Constructing Geographic and Long-term Temporal Graph for Traffic Forecasting[C]</b>. International Conference on Pattern Recognition. Springer, 2020. [Link](https://arxiv.org/abs/2004.10958)
+
 * Xie Q, Guo T, Chen Y, et al. <b>Deep Graph Convolutional Networks for Incident-Driven Traffic Speed Prediction[C]</b>//Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). 2020. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411873) Note: previously known as: <b>" How do urban incidents affect traffic speed?" A Deep Graph Convolutional Network for Incident-driven Traffic Speed Prediction[J]</b>. [Link_arxiv](https://arxiv.org/abs/1912.01242)
 
 * He S, Shin K G. <b>Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration[C]</b>//Proceedings of The Web Conference 2020. 2020: 133-143. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380101)
@@ -305,6 +307,8 @@ Top journals with paper counts:
 
 * Ramadan A, Elbery A, Zorba N, et al. <b>Traffic Forecasting using Temporal Line Graph Convolutional Network: Case Study</b>[C]//ICC 2020-2020 IEEE International Conference on Communications (ICC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9149233/)
 
+* Mallick T, Balaprakash P, Rask E, et al. <b>Transfer Learning with Graph Neural Networks for Short-Term Highway Traffic Forecasting[C]</b>. International Conference on Pattern Recognition. Springer, 2020. [Link](https://arxiv.org/abs/2004.08038) [Code](https://github.com/tanwimallick/TL-DCRNN)
+
 * Chen X, Zhang Y, Du L, et al. <b>TSSRGCN: Temporal Spectral Spatial Retrieval Graph Convolutional Network for Traffic Flow Forecasting[C]</b>//2020 IEEE International Conference on Data Mining (ICDM). IEEE, 2020. [Link](https://arxiv.org/abs/2011.14638)
 
 * Kim S S, Chung M, Kim Y K. <b>Urban Traffic Prediction using Congestion Diffusion Model[C]</b>//2020 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia). IEEE, 2020: 1-4. [Link](https://ieeexplore.ieee.org/abstract/document/9276823/)
@@ -321,8 +325,6 @@ Top journals with paper counts:
 * Wang C, Zhang K, Wang H, et al. <b>Auto-STGCN: Autonomous Spatial-Temporal Graph Convolutional Network Search Based on Reinforcement Learning and Existing Research Results[J]</b>. arXiv preprint arXiv:2010.07474, 2020. [Link](https://arxiv.org/abs/2010.07474) [Code](https://github.com/zkx741481546/Auto-STGCN)
 
 * Fu J, Zhou W, Chen Z. <b>Bayesian Spatio-Temporal Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2010.07498, 2020. [Link](https://arxiv.org/abs/2010.07498)
-
-* Sun Y, Wang Y, Fu K, et al. <b>Constructing Geographic and Long-term Temporal Graph for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2004.10958, 2020. [Link](https://arxiv.org/abs/2004.10958)
 
 * Jin G, Xi Z, Sha H, et al. <b>Deep Multi-View Spatiotemporal Virtual Graph Neural Network for Significant Citywide Ride-hailing Demand Prediction[J]</b>. arXiv preprint arXiv:2007.15189, 2020. [Link](https://arxiv.org/abs/2007.15189v2)
 
@@ -341,8 +343,6 @@ Top journals with paper counts:
 * Pian W, Wu Y. <b>Spatial-Temporal Dynamic Graph Attention Networks for Ride-hailing Demand Prediction[J]</b>. arXiv preprint arXiv:2006.05905, 2020. [Link](https://arxiv.org/abs/2006.05905)
 
 * Xu M, Dai W, Liu C, et al. <b>Spatial-Temporal Transformer Networks for Traffic Flow Forecasting[J]</b>. arXiv preprint arXiv:2001.02908, 2020. [Link](https://arxiv.org/abs/2001.02908)
-
-* Mallick T, Balaprakash P, Rask E, et al. <b>Transfer Learning with Graph Neural Networks for Short-Term Highway Traffic Forecasting[J]</b>. arXiv preprint arXiv:2004.08038, 2020. [Link](https://arxiv.org/abs/2004.08038) [Code](https://github.com/tanwimallick/TL-DCRNN)
 
 * Maas T, Bloem P. <b>Uncertainty Intervals for Graph-based Spatio-Temporal Traffic Prediction[J]</b>. arXiv preprint arXiv:2012.05207, 2020. [Link](https://arxiv.org/abs/2012.05207)
 
