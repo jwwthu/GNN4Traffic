@@ -116,7 +116,7 @@ Top journals with paper counts:
 
 * Li C, Bai L, Liu W, et al. <b>Graph Neural Network for Robust Public Transit Demand Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9310711)
 
-* Mallick T, Balaprakash P, Rask E, et al. <b>Graph-Partitioning-Based Diffusion Convolution Recurrent Neural Network for Large-Scale Traffic Forecasting[J]</b>. Transportation Research Record, 2020: 0361198120930010. [Link](https://journals.sagepub.com/doi/10.1177/0361198120930010)
+* Mallick T, Balaprakash P, Rask E, et al. <b>Graph-Partitioning-Based Diffusion Convolution Recurrent Neural Network for Large-Scale Traffic Forecasting[J]</b>. Transportation Research Record, 2020: 0361198120930010. [Link](https://journals.sagepub.com/doi/10.1177/0361198120930010) [Code](https://github.com/tanwimallick/graph_partition_based_DCRNN)
 
 * Liu J, Ong G P, Chen X. <b>GraphSAGE-Based Traffic Speed Forecasting for Segment Network With Sparse Data[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9214844/)
 
