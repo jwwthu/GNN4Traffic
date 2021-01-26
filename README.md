@@ -342,6 +342,8 @@ Top journals with paper counts:
 
 * Jia C, Wu B, Zhang X P. <b>Dynamic Spatiotemporal Graph Neural Network with Tensor Network[J]</b>. arXiv preprint arXiv:2003.08729, 2020. [Link](https://arxiv.org/abs/2003.08729)
 
+* Hermsen F, Bloem P, Jansen F, et al. <b>End-to-End Learning from Complex Multigraphs with Latent Graph Convolutional Networks[J]</b>. arXiv preprint arXiv:1908.05365, 2019. [Link](https://arxiv.org/abs/1908.05365v2) [Code](https://github.com/florishermsen/L-GCN)
+
 * Wang L, Chai D, Liu X, et al. <b>Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework[J]</b>. arXiv preprint arXiv:2009.09379, 2020. [Link](https://arxiv.org/abs/2009.09379)
 
 * Xie Y, Xiong Y, Zhu Y. <b>ISTD-GCN: Iterative Spatial-Temporal Diffusion Graph Convolutional Network for Traffic Speed Forecasting[J]</b>. arXiv preprint arXiv:2008.03970, 2020. [Link](https://arxiv.org/abs/2008.03970v1)
