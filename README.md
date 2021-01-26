@@ -40,6 +40,8 @@ Top journals with paper counts:
 
 * Jiang M, Chen W, Li X. <b>S-GCN-GRU-NN: A novel hybrid model by combining a Spatiotemporal Graph Convolutional Network and a Gated Recurrent Units Neural Network for short-term traffic speed forecasting[J]</b>. Journal of Data, Information and Management, 1-20. [Link](https://link.springer.com/article/10.1007/s42488-020-00037-9)
 
+* Li X, Wang H, Sun P, et al. <b>Spatiotemporal Features—Extracted Travel Time Prediction Leveraging Deep-Learning-Enabled Graph Convolutional Neural Network Model[J]</b>. Sustainability 2021, 13, 1253. [Link](https://www.mdpi.com/2071-1050/13/3/1253)
+
 ## Conference
 * Ye J, Sun L, Du B, et al. <b>Coupled Layer-wise Graph Convolution for Transportation Demand Prediction[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://arxiv.org/abs/2012.08080) [Code](https://github.com/Essaim/CGCDemandPrediction)
 
