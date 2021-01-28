@@ -1,6 +1,11 @@
 # GNN4Traffic
 This is the repository for the collection of Graph Neural Network for Traffic Forecasting.
 
+If you find this repository helpful, you may consider cite our relevant work:
+* Jiang W, Luo J. <b>Graph Neural Network for Traffic Forecasting: A Survey[J]</b>. arXiv preprint arXiv:2101.11174, 2021. [Link](https://arxiv.org/abs/2101.11174)
+
+For a wider collection of deep learning for traffic forecasting, you may check: [DL4Traffic](https://github.com/jwwthu/DL4Traffic)
+
 Some simple paper statistics results are as follows.
 
 Paper year count:
