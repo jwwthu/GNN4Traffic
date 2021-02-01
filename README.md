@@ -210,6 +210,8 @@ Top journals with paper counts:
 
 * Bai L, Yao L, Li C, et al. <b>Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting[C]</b>//Advances in Neural Information Processing Systems (NeurIPS), 2020. [Link](https://arxiv.org/abs/2007.02842) [Code](https://github.com/LeiBAI/AGCRN)
 
+* Lu Y, Li C. <b>AGSTN: Learning Attention-adjusted Graph Spatio-Temporal Networks for Short-term Urban Sensor Value Forecasting[C]</b>//2020 IEEE International Conference on Data Mining (ICDM). IEEE, 2020. [Link](https://arxiv.org/abs/2101.12465) [Code](https://github.com/l852888/AGSTN)
+
 * Zhao H, Yang H, Wang Y, et al. <b>Attention Based Graph Bi-LSTM Networks for Traffic Forecasting[C]</b>//2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9294470/)
 
 * Zhang H, Liu J, Tang Y, et al. <b>Attention based Graph Covolution Networks for Intelligent Traffic Flow Analysis[C]</b>//2020 IEEE 16th International Conference on Automation Science and Engineering (CASE). IEEE, 2020: 558-563. [Link](https://ieeexplore.ieee.org/abstract/document/9216966/)
