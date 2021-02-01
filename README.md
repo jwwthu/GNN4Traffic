@@ -262,7 +262,7 @@ Top journals with paper counts:
 
 * Ye J, Zhao J, Ye K, et al. <b>Multi-STGCnet: A Graph Convolution Based Spatial-Temporal Framework for Subway Passenger Flow Forecasting[C]</b>//2020 International Joint Conference on Neural Networks (IJCNN). IEEE, 2020: 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/9207049/) [Code](https://github.com/start2020/Multi-STGCnet)
 
-* Wang S, Miao H, Chen H, et al. <b>Multi-task Adversarial Spatial-Temporal Networks for Crowd Flow Prediction[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management. 2020: 1555-1564. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3412054)
+* Wang S, Miao H, Chen H, et al. <b>Multi-task Adversarial Spatial-Temporal Networks for Crowd Flow Prediction[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM). 2020: 1555-1564. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3412054)
 
 * Wu M, Zhu C, Chen L. <b>Multi-Task Spatial-Temporal Graph Attention Network for Taxi Demand Prediction[C]</b>//Proceedings of the 2020 5th International Conference on Mathematics and Artificial Intelligence. 2020: 224-228. [Link](https://dl.acm.org/doi/abs/10.1145/3395260.3395266)
 
