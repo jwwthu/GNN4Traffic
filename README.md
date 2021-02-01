@@ -173,8 +173,6 @@ Top journals with paper counts:
 
 * Peng H, Wang H, Du B, et al. <b>Spatial temporal incidence dynamic graph neural networks for traffic flow forecasting[J]</b>. Information Sciences, 2020, 521: 277-290. [Link](https://www.sciencedirect.com/science/article/pii/S0020025520300451) [Code](https://github.com/RingBDStack/GCNN-In-Traffic)
 
-* Zhang X, Zhang Z, Jin X. <b>Spatial-Temporal Graph Attention Model on Traffic Forecasting[C]</b>//2020 13th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). IEEE, 2020: 999-1003. [Link](https://ieeexplore.ieee.org/abstract/document/9263680)
-
 * Pan Z, Zhang W, Liang Y, et al. <b>Spatio-Temporal Meta Learning for Urban Traffic Prediction[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9096591/)
 
 * Zhao B, Gao X, Liu J, et al. <b>Spatiotemporal Data Fusion in Graph Convolutional Networks for Traffic Prediction[J]</b>. IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/document/9076005)
@@ -297,6 +295,8 @@ Top journals with paper counts:
 * Lu B, Gan X, Jin H, et al. <b>Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM). 2020: 1025-1034. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411894) [Code](https://github.com/RobinLu1209/STAG-GCN)
 
 * Zhang X, Huang C, Xu Y, et al. <b>Spatial-Temporal Convolutional Graph Attention Networks for Citywide Traffic Flow Forecasting[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM). 2020: 1853-1862. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411941) [Code](https://github.com/shurexiyue/ST-CGA)
+
+* Zhang X, Zhang Z, Jin X. <b>Spatial-Temporal Graph Attention Model on Traffic Forecasting[C]</b>//2020 13th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). IEEE, 2020: 999-1003. [Link](https://ieeexplore.ieee.org/abstract/document/9263680)
 
 * Wei C, Sheng J. <b>Spatial-temporal Graph Attention Networks for Traffic Flow Forecasting[C]</b>//IOP Conference Series: Earth and Environmental Science. IOP Publishing, 2020, 587(1): 012065. [Link](https://iopscience.iop.org/article/10.1088/1755-1315/587/1/012065/meta)
 
