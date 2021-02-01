@@ -181,7 +181,7 @@ Top journals with paper counts:
 
 * Xu Z, Kang Y, Cao Y, et al. <b>Spatiotemporal Graph Convolution Multifusion Network for Urban Vehicle Emission Prediction[J]</b>. IEEE Transactions on Neural Networks and Learning Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9151256/)
 
-* Kong X, Xing W, Wei X, et al. <b>STGAT: Spatial-Temporal Graph Attention Networks for Traffic Flow Forecasting[J].</b> IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/document/9146162) [Code (still empty on Aug 3, 2020)] (https://github.com/xyk0058/STGAT)
+* Kong X, Xing W, Wei X, et al. <b>STGAT: Spatial-Temporal Graph Attention Networks for Traffic Flow Forecasting[J].</b> IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/document/9146162) [Code (still empty on Aug 3, 2020)](https://github.com/xyk0058/STGAT)
 
 * Lv M, Hong Z, Chen L, et al. <b>Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9098104/)
 
