@@ -33,6 +33,8 @@ Top journals with paper counts:
 
 * Awesome-Mobility-Machine-Learning-Contents [Link](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents/blob/master/README.md)
 
+* Traffic Prediction [Link](https://github.com/aprbw/traffic_prediction)
+
 # 2021
 ## Journal
 * Jin C, Ruan T, Wu D, et al. <b>HetGAT: a heterogeneous graph attention network for freeway traffic speed prediction[J]</b>. Journal of Ambient Intelligence and Humanized Computing, 2021. [Link](https://link.springer.com/article/10.1007/s12652-020-02807-0)
