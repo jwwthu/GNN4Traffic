@@ -37,6 +37,8 @@ Top journals with paper counts:
 
 # 2021
 ## Journal
+* Zhu J, Tao C, Deng H, et al. <b>AST-GCN: Attribute-Augmented Spatiotemporal Graph Convolutional Network for Traffic Forecasting[J]</b>. IEEE Access. [Link](https://ieeexplore.ieee.org/document/9363197) [Code](https://github.com/lehaifeng/T-GCN/tree/master/AST-GCN)
+
 * Zhang C, Zhang S, James J Q, et al. <b>FASTGNN: A Topological Information Protected Federated Learning Approach For Traffic Speed Forecasting[J]</b>. IEEE Transactions on Industrial Informatics, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9340313)
 
 * Fang M, Tang L, Yang X, et al. <b>FTPG: A Fine-Grained Traffic Prediction Method With Graph Attention Network Using Big Trace Data[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9329073)
@@ -352,8 +354,6 @@ Top journals with paper counts:
 * Chan V, Gan Q, Bayen A. <b>A Graph Convolutional Network with Signal Phasing Information for Arterial Traffic Prediction[J]</b>. arXiv preprint arXiv:2012.13479, 2020. [Link](https://arxiv.org/abs/2012.13479) [Code](https://github.com/victorchan314/arterial_traffic_flow_predictor)
 
 * Zhu J, Song Y, Zhao L, et al. <b>A3T-GCN: Attention Temporal Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2006.11583v1, 2020. [Link](https://arxiv.org/abs/2006.11583v1) [Code](https://github.com/lehaifeng/T-GCN/tree/master/A3T)
-
-* Zhu J, Tao C, Deng H, et al. <b>AST-GCN: Attribute-Augmented Spatiotemporal Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2011.11004, 2020. [Link](https://arxiv.org/abs/2011.11004)
 
 * Wang C, Zhang K, Wang H, et al. <b>Auto-STGCN: Autonomous Spatial-Temporal Graph Convolutional Network Search Based on Reinforcement Learning and Existing Research Results[J]</b>. arXiv preprint arXiv:2010.07474, 2020. [Link](https://arxiv.org/abs/2010.07474) [Code](https://github.com/zkx741481546/Auto-STGCN)
 
