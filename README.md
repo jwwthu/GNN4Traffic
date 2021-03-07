@@ -49,6 +49,8 @@ Top journals with paper counts:
 
 * Guo S, Lin Y, Wan H, et al. <b>Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9346058)
 
+* Zou X, Zhang S, Zhang C, et al. <b>Long-term Origin-Destination Demand Prediction with Graph Deep Learning[J]</b>. IEEE Transactions on Big Data, 2021. [Link](https://ieeexplore.ieee.org/document/9369004)
+
 * Sun B, Zhao D, Shi X, et al. <b>Modeling Global Spatial–Temporal Graph Attention Network for Traffic Prediction[J]</b>. IEEE Access, 2021. [Link](https://ieeexplore.ieee.org/document/9316302)
 
 * Tang J, Liang J, Liu F, et al. <b>Multi-community passenger demand prediction at region level based on spatio-temporal graph convolutional network[J]</b>. Transportation Research Part C: Emerging Technologies, 2021, 124: 102951. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X20308482)
