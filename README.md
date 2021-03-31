@@ -85,6 +85,8 @@ Top journals with paper counts:
 
 * Wang Y, Yin H, Chen T, et al. <b>Passenger Mobility Prediction via Representation Learning for Dynamic Directed and Weighted Graph[J]</b>. arXiv preprint arXiv:2101.00752, 2021. [Link](https://arxiv.org/abs/2101.00752)
 
+* Xu X, Zhang T, Xu C, et al. <b>Spatial-Temporal Tensor Graph Convolutional Network for Traffic Prediction[J]</b>. arXiv preprint arXiv:2103.06126, 2021. [Link](https://arxiv.org/abs/2103.06126)
+
 # 2020
 ## Journal
 * Tang C, Sun J, Sun Y, et al. <b>A General Traffic Flow Prediction Approach Based on Spatial-Temporal Graph Attention[J]</b>. IEEE Access, 2020, 8: 153731-153741. [Link](https://ieeexplore.ieee.org/abstract/document/9173702/) [Code](https://github.com/sam101340/GAGCN-BC-20200720)
