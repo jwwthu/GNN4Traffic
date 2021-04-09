@@ -103,7 +103,7 @@ Top journals with paper counts:
 
 * Chen J, Li K, Li K, et al. <b>Dynamic Planning of Bicycle Stations in Dockless Public Bicycle-sharing System Using Gated Graph Neural Network[J]</b>. arXiv preprint arXiv:2101.07425, 2021. [Link](https://arxiv.org/abs/2101.07425)
 
-* Lu Y, Ding H, Ji S, et al. <b>Dual attentive graph neural network for metro passenger flow prediction[J]<b>. Researchgate preprint. [Link](https://www.researchgate.net/publication/350372196_Dual_attentive_graph_neural_network_for_metro_passenger_flow_prediction)
+* Lu Y, Ding H, Ji S, et al. <b>Dual attentive graph neural network for metro passenger flow prediction[J]</b>. Researchgate preprint. [Link](https://www.researchgate.net/publication/350372196_Dual_attentive_graph_neural_network_for_metro_passenger_flow_prediction)
 
 * Wang Y, Yin H, Chen T, et al. <b>Passenger Mobility Prediction via Representation Learning for Dynamic Directed and Weighted Graph[J]</b>. arXiv preprint arXiv:2101.00752, 2021. [Link](https://arxiv.org/abs/2101.00752)
 
