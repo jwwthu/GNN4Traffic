@@ -76,11 +76,15 @@ Top journals with paper counts:
 
 * Mengzhang L, Zhanxing Z. <b>Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://arxiv.org/abs/2012.09641) [Code](https://github.com/MengzhangLI/STFGNN)
 
+* Roy A, Roy K K, Ali A A, et al. <b>SST-GNN: Simplified Spatio-temporal Traffic forecasting model using Graph Neural Network[C]</b>. Accepted for publication in 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021). [Link](https://arxiv.org/abs/2104.00055)
+
 * Zhang X, Huang C, Xu Y, Xia L, et al. <b>Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](http://urban-computing.com/pdf/AAAI2021TrafficFlow.pdf) [Code](https://github.com/jillbetty001/ST-GDN)
 
 * Li M, Tong P, Li M, et al. <b>Traffic Flow Prediction with Vehicle Trajectories[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://wands.sg/publications/full_list/papers/AAAI_21_1.pdf) [Code (empty till 2020/12/31)](https://github.com/mingqian000/TrGNN)
 
 ## Preprint
+* Fu J, Zhou W, Chen Z. <b>Bayesian Graph Convolutional Network for Traffic Prediction[J]</b>. arXiv preprint arXiv:2104.00488, 2021. [Link](https://arxiv.org/abs/2104.00488)
+* 
 * Lin H, Gao Z, Wu L, et al. <b>Conditional Local Filters with Explainers for Spatio-Temporal Forecasting[J]</b>. arXiv preprint arXiv:2101.01000, 2021. [Link](https://arxiv.org/abs/2101.01000v1)
 
 * Chen J, Li K, Li K, et al. <b>Dynamic Planning of Bicycle Stations in Dockless Public Bicycle-sharing System Using Gated Graph Neural Network[J]</b>. arXiv preprint arXiv:2101.07425, 2021. [Link](https://arxiv.org/abs/2101.07425)
