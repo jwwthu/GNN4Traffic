@@ -280,7 +280,7 @@ Top journals with paper counts:
 
 * Chen L, Han K, Yin Q, et al. <b>GDCRN: Global Diffusion Convolutional Residual Network for Traffic Flow Prediction[C]</b>//International Conference on Knowledge Science, Engineering and Management. Springer, Cham, 2020: 438-449. [Link](https://link.springer.com/chapter/10.1007/978-3-030-55393-7_39)
 
-* Zheng C, Fan X, Wang C, et al. <b>Gman: A graph multi-attention network for traffic prediction[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhengZ.2220.pdf) [Code](https://github.com/zhengchuanpan/GMAN)
+* Zheng C, Fan X, Wang C, et al. <b>Gman: A graph multi-attention network for traffic prediction[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://ojs.aaai.org//index.php/AAAI/article/view/5477) [Code](https://github.com/zhengchuanpan/GMAN)
 
 * Song Q, Ming R B, Hu J, et al. <b>Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction[C]</b>//2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9294580/) [Code (Still empty till 2020/1/7)](https://github.com/simmonssong/GAC-Net)
 
