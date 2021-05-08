@@ -55,6 +55,8 @@ Top journals with paper counts:
 
 * Jin C, Ruan T, Wu D, et al. <b>HetGAT: a heterogeneous graph attention network for freeway traffic speed prediction[J]</b>. Journal of Ambient Intelligence and Humanized Computing, 2021. [Link](https://link.springer.com/article/10.1007/s12652-020-02807-0)
 
+* Ke J, Feng S, Zhu Z, et al. <b>Joint predictions of multi-modal ride-hailing demands: A deep multi-task multi-graph learning-based approach[J]</b>. Transportation Research Part C: Emerging Technologies, 2021, 127: 103063. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21000905)
+
 * Guo S, Lin Y, Wan H, et al. <b>Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9346058)
 
 * Zou X, Zhang S, Zhang C, et al. <b>Long-term Origin-Destination Demand Prediction with Graph Deep Learning[J]</b>. IEEE Transactions on Big Data, 2021. [Link](https://ieeexplore.ieee.org/document/9369004)
@@ -396,8 +398,6 @@ Top journals with paper counts:
 * Wang L, Chai D, Liu X, et al. <b>Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework[J]</b>. arXiv preprint arXiv:2009.09379, 2020. [Link](https://arxiv.org/abs/2009.09379)
 
 * Xie Y, Xiong Y, Zhu Y. <b>ISTD-GCN: Iterative Spatial-Temporal Diffusion Graph Convolutional Network for Traffic Speed Forecasting[J]</b>. arXiv preprint arXiv:2008.03970, 2020. [Link](https://arxiv.org/abs/2008.03970v1)
-
-* Ke J, Feng S, Zhu Z, et al. <b>Joint predictions of multi-modal ride-hailing demands: a deep multi-task multigraph learning-based approach[J]</b>. arXiv preprint arXiv:2011.05602, 2020. [Link](https://arxiv.org/abs/2011.05602)
 
 * Zhu J, Han X, Deng H, et al. <b>KST-GCN: A Knowledge-Driven Spatial-Temporal Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2011.14992, 2020. [Link](https://arxiv.org/abs/2011.14992)
 
