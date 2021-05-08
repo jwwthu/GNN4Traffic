@@ -266,6 +266,8 @@ Top journals with paper counts:
 
 * Sun Y, Wang Y, Fu K, et al. <b>Constructing Geographic and Long-term Temporal Graph for Traffic Forecasting[C]</b>. International Conference on Pattern Recognition. Springer, 2020. [Link](https://arxiv.org/abs/2004.10958)
 
+* Zhang X, Cao R, Zhang Z, et al. <b>Crowd Flow Forecasting with Multi-Graph Neural Networks[C]</b>//2020 International Joint Conference on Neural Networks (IJCNN). IEEE, 2020: 1-7. [Link](https://ieeexplore.ieee.org/document/9207457)
+
 * Xie Q, Guo T, Chen Y, et al. <b>Deep Graph Convolutional Networks for Incident-Driven Traffic Speed Prediction[C]</b>//Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM). 2020. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411873) Note: previously known as: <b>" How do urban incidents affect traffic speed?" A Deep Graph Convolutional Network for Incident-driven Traffic Speed Prediction[J]</b>. [Link_arxiv](https://arxiv.org/abs/1912.01242)
 
 * He S, Shin K G. <b>Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration[C]</b>//Proceedings of The Web Conference 2020. 2020: 133-143. [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380101)
