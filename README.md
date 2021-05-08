@@ -39,6 +39,8 @@ Top journals with paper counts:
 ## Journal
 * Chen P, Fu X, Wang X. <b>A Graph Convolutional Stacked Bidirectional Unidirectional-LSTM Neural Network for Metro Ridership Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9381554)
 
+* Feng S, Ke J, Yang H, et al. <b>A Multi-Task Matrix Factorized Graph Neural Network for Co-Prediction of Zone-Based and OD-Based Ride-Hailing Demand[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9376697/)
+
 * Zhu J, Tao C, Deng H, et al. <b>AST-GCN: Attribute-Augmented Spatiotemporal Graph Convolutional Network for Traffic Forecasting[J]</b>. IEEE Access. [Link](https://ieeexplore.ieee.org/document/9363197) [Code](https://github.com/lehaifeng/T-GCN/tree/master/AST-GCN)
 
 * Jiang H, Li L, Xian H, et al. <b>Crowd Flow Prediction for Social Internet-of-Things Systems Based on the Mobile Network Big Data[J]</b>. IEEE Transactions on Computational Social Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9378810/)
