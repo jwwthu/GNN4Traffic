@@ -302,6 +302,8 @@ Top journals with paper counts:
 
 * Tang C, Sun J, Sun Y. <b>Dynamic Spatial-Temporal Graph Attention Graph Convolutional Network for Short-Term Traffic Flow Forecasting[C]</b>//2020 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2020: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9181234/)
 
+* Ma J, Gu J, Zhou Q, et al. <b>Dynamic-Static-based Spatiotemporal Multi-Graph Neural Networks for Passenger Flow Prediction[C]</b>//2020 IEEE 26th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2020: 673-678. [Link](https://ieeexplore.ieee.org/abstract/document/9359215/)
+
 * Shao K, Wang K, Chen L, et al. <b>Estimation of Urban Travel Time with Sparse Traffic Surveillance Data[C]</b>//Proceedings of the 2020 4th High Performance Computing and Cluster Technologies Conference & 2020 3rd International Conference on Big Data and Artificial Intelligence. 2020: 218-223. [Link](https://dl.acm.org/doi/abs/10.1145/3409501.3409539)
 
 * Li Y, Moura J M F. <b>Forecaster: A Graph Transformer for Forecasting Spatial and Time-Dependent Data[C]</b>//Proceedings of the Twenty-fourth European Conference on Artificial Intelligence. 2020. [Link](https://arxiv.org/abs/1909.04019)
