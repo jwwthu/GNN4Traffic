@@ -99,11 +99,15 @@ Top journals with paper counts:
 * Zi W, Xiong W, Chen H, et al. <b>TAGCN: Station-level demand prediction for bike-sharing system via a temporal attention graph convolution network[J]</b>. Information Sciences, 2021, 561: 274-285. [Link](https://www.sciencedirect.com/science/article/pii/S0020025521001031)
 
 ## Conference
+* Lee H, Park C, Jin S, et al. <b>An Empirical Experiment on Deep Learning Models for Predicting Traffic Data[C]</b>. Accepted at 37th IEEE International Conference on Data Engineering (ICDE 2021), 2021. [Link](https://arxiv.org/abs/2105.05504)
+
 * Ye J, Sun L, Du B, et al. <b>Coupled Layer-wise Graph Convolution for Transportation Demand Prediction[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://arxiv.org/abs/2012.08080) [Code](https://github.com/Essaim/CGCDemandPrediction)
 
 * Shang C, Chen J, Bi J. <b>Discrete Graph Structure Learning for Forecasting Multiple Time Series[C]</b>. International Conference on Learning Representations (ICLR), 2021. [Link](https://openreview.net/forum?id=WEHSlH5mOk) [Code](https://github.com/chaoshangcs/GTS)
 
 * Oreshkin B N, Amini A, Coyle L, et al. <b>FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://arxiv.org/abs/2007.15531v1) [Code](https://github.com/boreshkinai/fc-gaga)
+
+* Dees B S, Xu Y L, Constantinides A G, et al. <b>Graph Theory for Metro Traffic Modelling[C]</b>. International Joint Conference on Neural Networks (IJCNN), 2021. [Link](https://arxiv.org/abs/2105.04991)
 
 * Guo K, Hu Y, Sun Y, et al. <b>Hierarchical Graph Convolution Networks for Traffic Forecasting[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://github.com/guokan987/HGCN/blob/main/paper/3399.GuoK.pdf) [Code](https://github.com/guokan987/HGCN)
 
@@ -118,6 +122,8 @@ Top journals with paper counts:
 * Zhang X, Huang C, Xu Y, Xia L, et al. <b>Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](http://urban-computing.com/pdf/AAAI2021TrafficFlow.pdf) [Code](https://github.com/jillbetty001/ST-GDN)
 
 * Li M, Tong P, Li M, et al. <b>Traffic Flow Prediction with Vehicle Trajectories[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://wands.sg/publications/full_list/papers/AAAI_21_1.pdf) [Code (empty till 2020/12/31)](https://github.com/mingqian000/TrGNN)
+
+* Yang Q, Zhong T, Zhou F. <b>Traffic Speed Forecasting Via Spatio-Temporal Attentive Graph Isomorphism Network[C]</b>//ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021: 7943-7947. [Link](https://ieeexplore.ieee.org/abstract/document/9414596/)
 
 * Roy A, Roy K K, Ali A A, et al. <b>Unified Spatio-Temporal Modeling for Traffic Forecasting using Graph Neural Network[C]</b>. 2021 International Joint Conference on Neural Networks (IJCNN). IEEE, 2021. [Link](https://arxiv.org/abs/2104.12518) [Code](https://github.com/AmitRoy7781/USTGCN)
 
@@ -392,6 +398,8 @@ Top journals with paper counts:
 * Tian K, Guo J, Ye K, et al. <b>ST-MGAT: Spatial-Temporal Multi-Head Graph Attention Networks for Traffic Forecasting[C]</b>//2020 IEEE 32nd International Conference on Tools with Artificial Intelligence (ICTAI). IEEE, 2020: 714-721. [Link](https://ieeexplore.ieee.org/abstract/document/9288309/) [Code](https://github.com/Kelang-Tian/ST-MGAT)
 
 * Li Z, Sergin N D, Yan H, et al. <b>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://arxiv.org/abs/1912.05693)
+
+* Chen L. <b>The Multi-Task Time-Series Graph Network for Traffic Congestion Prediction[C]</b>//2020 The 3rd International Conference on Machine Learning and Machine Intelligence. 2020: 19-23. [Link](https://dl.acm.org/doi/abs/10.1145/3426826.3426831)
 
 * Suining He and Kang G. Shin. 2020. <b>Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems</b>. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 88–98. [Link](https://dl.acm.org/doi/10.1145/3366423.3380097)
 
