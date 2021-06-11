@@ -7,6 +7,8 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 For a wider collection of deep learning for traffic forecasting, you may check: [DL4Traffic](https://github.com/jwwthu/DL4Traffic)
 
+**Advertisement**: If you are interested in maintaining this repository, feel free to drop me an email. Collaboration with Tsinghua University is always welcome, too.
+
 Some simple paper statistics results are as follows.
 
 Paper year count:
