@@ -133,6 +133,8 @@ Top journals with paper counts:
 * Xu C, Zhang A, Xu C, et al. <b>Traffic speed prediction: spatiotemporal convolution network based on long-term, short-term and spatial features[J]</b>. Applied Intelligence, 2021: 1-19. [Link](https://link.springer.com/article/10.1007/s10489-021-02461-9) [Data](https://ieee-dataport.org/documents/pems)
 
 ## Conference
+* Chen Z, Wu H, O'Connor N E, et al. <b>A Comparative Study of Using Spatial-Temporal Graph Convolutional Networks for Predicting Availability in Bike Sharing Schemes[C]</b>. 2021 IEEE 24rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2021. [Link](https://arxiv.org/abs/2104.10644)
+
 * Li B, Guo T, Wang Y, et al. <b>Adaptive Graph Co-Attention Networks for Traffic Forecasting[C]</b>//PAKDD (1). 2021: 263-276. [Link](https://link.springer.com/chapter/10.1007/978-3-030-75762-5_22)
 
 * Lee H, Park C, Jin S, et al. <b>An Empirical Experiment on Deep Learning Models for Predicting Traffic Data[C]</b>. Accepted at 37th IEEE International Conference on Data Engineering (ICDE 2021), 2021. [Link](https://arxiv.org/abs/2105.05504)
@@ -182,8 +184,6 @@ Top journals with paper counts:
 * Chen Y, Segovia-Dominguez I, Gel Y R. <b>Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting[C]</b>. Accepted at the International Conference on Machine Learning (ICML) 2021. [Link](https://arxiv.org/abs/2105.04100) [Code](https://github.com/Z-GCNETs/Z-GCNETs.git)
 
 ## Preprint
-* Chen Z, Wu H, O'Connor N E, et al. <b>A Comparative Study of Using Spatial-Temporal Graph Convolutional Networks for Predicting Availability in Bike Sharing Schemes[J]</b>. arXiv preprint arXiv:2104.10644, 2021. [Link](https://arxiv.org/abs/2104.10644)
-
 * Fu J, Zhou W, Chen Z. <b>Bayesian Graph Convolutional Network for Traffic Prediction[J]</b>. arXiv preprint arXiv:2104.00488, 2021. [Link](https://arxiv.org/abs/2104.00488)
 
 * Lin H, Gao Z, Wu L, et al. <b>Conditional Local Filters with Explainers for Spatio-Temporal Forecasting[J]</b>. arXiv preprint arXiv:2101.01000, 2021. [Link](https://arxiv.org/abs/2101.01000v1)
