@@ -80,6 +80,8 @@ Top journals with paper counts:
 
 * Bai L, Yao L, Wang X, et al. <b>Deep spatial-temporal sequence modeling for multi-step passenger demand prediction[J]</b>. Future Generation Computer Systems, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X21000832)
 
+* Lu Y, Ding H, Ji S, et al. <b>Dual attentive graph neural network for metro passenger flow prediction[J]</b>. Neural Computing and Applications, 2021: 1-15. [Link](https://link.springer.com/article/10.1007/s00521-021-05966-z)
+
 * Yang T, Tang X, Liu R. <b>Dual temporal gated multi-graph convolution network for taxi demand prediction[J]</b>. Neural Computing and Applications, 2021: 1-16. [Link](https://link.springer.com/article/10.1007/s00521-021-06092-6)
 
 * Peng H, Du B, Liu M, et al. <b>Dynamic graph convolutional network for long-term traffic flow prediction with reinforcement learning[J]</b>. Information Sciences, 2021, 578: 401-416. [Link](https://www.sciencedirect.com/science/article/pii/S0020025521006976)
@@ -246,8 +248,6 @@ Top journals with paper counts:
 * Li F, Feng J, Yan H, et al. <b>Dynamic Graph Convolutional Recurrent Network for Traffic Prediction: Benchmark and Solution[J]</b>. arXiv preprint arXiv:2104.14917, 2021. [Link](https://arxiv.org/abs/2104.14917) [Code](https://github.com/tsinghua-fib-lab/Traffic-Benchmark)
 
 * Chen J, Li K, Li K, et al. <b>Dynamic Planning of Bicycle Stations in Dockless Public Bicycle-sharing System Using Gated Graph Neural Network[J]</b>. arXiv preprint arXiv:2101.07425, 2021. [Link](https://arxiv.org/abs/2101.07425)
-
-* Lu Y, Ding H, Ji S, et al. <b>Dual attentive graph neural network for metro passenger flow prediction[J]</b>. Researchgate preprint. [Link](https://www.researchgate.net/publication/350372196_Dual_attentive_graph_neural_network_for_metro_passenger_flow_prediction)
 
 * Li Y, Wang D, Moura J M F. <b>GSA-Forecaster: Forecasting Graph-Based Time-Dependent Data with Graph Sequence Attention[J]</b>. arXiv preprint arXiv:2104.05914, 2021. [Link](https://arxiv.org/abs/2104.05914)
 
