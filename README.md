@@ -62,11 +62,17 @@ Top journals with paper counts:
 
 * Feng S, Ke J, Yang H, et al. <b>A Multi-Task Matrix Factorized Graph Neural Network for Co-Prediction of Zone-Based and OD-Based Ride-Hailing Demand[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9376697/)
 
+* Chen K, Deng M, Shi Y. <b>A Temporal Directed Graph Convolution Network for Traffic Forecasting Using Taxi Trajectory Data[J]</b>. ISPRS International Journal of Geo-Information, 2021, 10(9): 624. [Link](https://www.mdpi.com/1274862)
+
+* Chen Z, Xu J, Lin Y, et al. <b>A Traffic Flow Forecasting Method Regarding Traffic Network as an Digraph[J]</b>. International Journal of Pattern Recognition and Artificial Intelligence, 2021: 2159043. [Link](https://www.worldscientific.com/doi/abs/10.1142/S0218001421590436)
+
 * Kong X, Zhang J, Wei X, et al. <b>Adaptive spatial-temporal graph attention networks for traffic flow forecasting[J]</b>. Applied Intelligence, 2021: 1-17. [Link](https://link.springer.com/article/10.1007/s10489-021-02648-0)
 
 * Zhu J, Tao C, Deng H, et al. <b>AST-GCN: Attribute-Augmented Spatiotemporal Graph Convolutional Network for Traffic Forecasting[J]</b>. IEEE Access. [Link](https://ieeexplore.ieee.org/document/9363197) [Code](https://github.com/lehaifeng/T-GCN/tree/master/AST-GCN)
 
 * Buroni G, Lebichot B, Bontempi G. <b>AST-MTL: An Attention-based Multi-Task Learning Strategy for Traffic Forecasting[J]</b>. IEEE Access, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9439877/) [Code](https://github.com/giobbu/AST-MTL)
+
+* Ye J, Xue S. <b>Attention-based spatio-temporal graph convolutional network considering external factors for multistep traffic flow prediction[J]</b>. Digital Communications and Networks, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S2352864821000675)
 
 * Jiang H, Li L, Xian H, et al. <b>Crowd Flow Prediction for Social Internet-of-Things Systems Based on the Mobile Network Big Data[J]</b>. IEEE Transactions on Computational Social Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9378810/)
 
@@ -117,6 +123,8 @@ Top journals with paper counts:
 * Zhang Z, Li Y, Song H, et al. <b>Multiple dynamic graph based traffic speed prediction method[J]</b>. Neurocomputing, 2021, 461: 109-117. [Link](https://www.sciencedirect.com/science/article/pii/S0925231221010973)
 
 * Li G, Knoop V L, van Lint H. <b>Multistep traffic forecasting by dynamic graph convolution: Interpretations of real-time spatial correlations[J]</b>. Transportation Research Part C: Emerging Technologies, 2021, 128: 103185. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X21002011) [Code](https://github.com/RomainLITUD/DGCN_traffic_forecasting)
+
+* Wu X, Fang J, Liu Z, et al. <b>Multistep Traffic Speed Prediction from Spatial–Temporal Dependencies Using Graph Neural Networks[J]</b>. Journal of Transportation Engineering, Part A: Systems, 2021, 147(12): 04021082. [Link](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000600)
 
 * Fang S, Prinet V, Chang J, et al. <b>MS-Net: Multi-Source Spatio-Temporal Network for Traffic Flow Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9385959/)
 
@@ -181,6 +189,8 @@ Top journals with paper counts:
 
 * Dees B S, Xu Y L, Constantinides A G, et al. <b>Graph Theory for Metro Traffic Modelling[C]</b>. International Joint Conference on Neural Networks (IJCNN), 2021. [Link](https://arxiv.org/abs/2105.04991)
 
+* Zhong W, Suo Q, Jia X, et al. <b>Heterogeneous Spatio-Temporal Graph ConvolutionNetwork for Traffic Forecasting with Missing Values[C]</b>//2021 IEEE 41th International Conference on Distributed Computing Systems (ICDCS). IEEE. 2021. [Link](https://engineering.purdue.edu/~lusu/papers/ICDCS2021.pdf)
+
 * Guo K, Hu Y, Sun Y, et al. <b>Hierarchical Graph Convolution Networks for Traffic Forecasting[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://github.com/guokan987/HGCN/blob/main/paper/3399.GuoK.pdf) [Code](https://github.com/guokan987/HGCN)
 
 * He B, Li S, Zhang C, et al. <b>Holistic Prediction for Public Transport Crowd Flows: A Spatio Dynamic Graph Network Approach[C]</b>//Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, Cham, 2021: 321-336. [Link](https://link.springer.com/chapter/10.1007/978-3-030-86486-6_20)
@@ -202,6 +212,8 @@ Top journals with paper counts:
 * Hong G, Wang Z, Han T, et al. <b>Spatiotemporal Multi-Graph Convolutional Network for Taxi Demand Prediction[C]</b>//2021 11th International Conference on Information Science and Technology (ICIST). IEEE, 2021: 242-250. [Link](https://ieeexplore.ieee.org/abstract/document/9440573/)
 
 * Roy A, Roy K K, Ali A A, et al. <b>SST-GNN: Simplified Spatio-temporal Traffic forecasting model using Graph Neural Network[C]</b>. Accepted for publication in 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021). [Link](https://arxiv.org/abs/2104.00055)
+
+* Zhu M, Zhu X, Zhu C. <b>STGATP: A Spatio-Temporal Graph Attention Network for Long-Term Traffic Prediction[C]</b>//International Conference on Artificial Neural Networks. Springer, Cham, 2021: 255-266. [Link](https://link.springer.com/chapter/10.1007/978-3-030-86365-4_21)
 
 * Fu H, Wang Z, Yu Y, et al. <b>Traffic Flow Driven Spatio-Temporal Graph Convolutional Network for Ride-Hailing Demand Forecasting[C]</b>//PAKDD (1). 2021: 754-765. [Link](https://link.springer.com/chapter/10.1007/978-3-030-75762-5_59)
 
@@ -228,6 +240,8 @@ Top journals with paper counts:
 * Fu J, Zhou W, Chen Z. <b>Bayesian Graph Convolutional Network for Traffic Prediction[J]</b>. arXiv preprint arXiv:2104.00488, 2021. [Link](https://arxiv.org/abs/2104.00488)
 
 * Lin H, Gao Z, Wu L, et al. <b>Conditional Local Filters with Explainers for Spatio-Temporal Forecasting[J]</b>. arXiv preprint arXiv:2101.01000, 2021. [Link](https://arxiv.org/abs/2101.01000v1)
+
+* Hu J, Liang Y, Fan Z, et al. <b>Decoupling Long-and Short-Term Patterns in Spatiotemporal Inference[J]</b>. arXiv preprint arXiv:2109.09506, 2021. [Link](https://arxiv.org/abs/2109.09506)
 
 * Li F, Feng J, Yan H, et al. <b>Dynamic Graph Convolutional Recurrent Network for Traffic Prediction: Benchmark and Solution[J]</b>. arXiv preprint arXiv:2104.14917, 2021. [Link](https://arxiv.org/abs/2104.14917) [Code](https://github.com/tsinghua-fib-lab/Traffic-Benchmark)
 
