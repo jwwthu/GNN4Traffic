@@ -116,7 +116,7 @@ Top journals with paper counts:
 
 * Zhao D, Ju C, Zhu G, et al. <b>MePark: Using Meters as Sensors for Citywide On-Street Parking Availability Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9387634/)
 
-* Wang J, Zhang Y, Wei Y, et al. <b>Metro Passenger Flow Prediction via Dynamic Hypergraph Convolution Networks[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9410439/) [Code (still empty on 2021/5/8)](https://github.com/JCwww/DSTHGCN)
+* Wang J, Zhang Y, Wei Y, et al. <b>Metro Passenger Flow Prediction via Dynamic Hypergraph Convolution Networks[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9410439/) [Code (still empty on 2021/10/17)](https://github.com/JCwww/DSTHGCN)
 
 * Sun B, Zhao D, Shi X, et al. <b>Modeling Global Spatial–Temporal Graph Attention Network for Traffic Prediction[J]</b>. IEEE Access, 2021. [Link](https://ieeexplore.ieee.org/document/9316302)
 
@@ -387,7 +387,7 @@ Top journals with paper counts:
 
 * Xu Z, Kang Y, Cao Y, et al. <b>Spatiotemporal Graph Convolution Multifusion Network for Urban Vehicle Emission Prediction[J]</b>. IEEE Transactions on Neural Networks and Learning Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9151256/)
 
-* Kong X, Xing W, Wei X, et al. <b>STGAT: Spatial-Temporal Graph Attention Networks for Traffic Flow Forecasting[J].</b> IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/document/9146162) [Code (still empty on Aug 3, 2020)](https://github.com/xyk0058/STGAT)
+* Kong X, Xing W, Wei X, et al. <b>STGAT: Spatial-Temporal Graph Attention Networks for Traffic Flow Forecasting[J].</b> IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/document/9146162) [Code (still empty on 2021/10/17)](https://github.com/xyk0058/STGAT)
 
 * Lv M, Hong Z, Chen L, et al. <b>Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9098104/)
 
@@ -452,7 +452,7 @@ Top journals with paper counts:
 
 * Zheng C, Fan X, Wang C, et al. <b>Gman: A graph multi-attention network for traffic prediction[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://ojs.aaai.org//index.php/AAAI/article/view/5477) [Code](https://github.com/zhengchuanpan/GMAN)
 
-* Song Q, Ming R B, Hu J, et al. <b>Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction[C]</b>//2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9294580/) [Code (Still empty till 2020/1/7)](https://github.com/simmonssong/GAC-Net)
+* Song Q, Ming R B, Hu J, et al. <b>Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction[C]</b>//2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9294580/) [Code (Still empty till 2021/10/17)](https://github.com/simmonssong/GAC-Net)
 
 * Chen F, Chen Z, Biswas S, et al. <b>Graph Convolutional Networks with Kalman Filtering for Traffic Prediction[C]</b>//Proceedings of the 28th International Conference on Advances in Geographic Information Systems. 2020: 135-138. [Link](https://dl.acm.org/doi/abs/10.1145/3397536.3422257) [Code](https://github.com/Fanglanc/DKFN)
 
@@ -522,7 +522,7 @@ Top journals with paper counts:
 
 * Park C, Lee C, Bahng H, et al. <b>ST-GRAT: A Novel Spatio-temporal Graph Attention Networks for Accurately Forecasting Dynamically Changing Road Speed[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM). 2020: 1215-1224. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411940) Note: previously known as <b>ST-GRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting[C]</b> [Link_arxiv](https://arxiv.org/abs/1911.13181)
 
-* Ruiqiang Liu, Shuai Zhao, Bo Cheng, et al. <b>ST-MFM: A Spatiotemporal Multi-Modal Fusion Model for Urban Anomalies Prediction[C]</b>//Proceedings of the Twenty-fourth European Conference on Artificial Intelligence. 2020. [Link](http://ebooks.iospress.nl/volumearticle/55105) [Code](https://github.com/fsgdrq/STMFM) (Still empty on 2020/9/18)
+* Ruiqiang Liu, Shuai Zhao, Bo Cheng, et al. <b>ST-MFM: A Spatiotemporal Multi-Modal Fusion Model for Urban Anomalies Prediction[C]</b>//Proceedings of the Twenty-fourth European Conference on Artificial Intelligence. 2020. [Link](http://ebooks.iospress.nl/volumearticle/55105) [Code](https://github.com/fsgdrq/STMFM) (Still empty on 2021/10/17)
 
 * Tian K, Guo J, Ye K, et al. <b>ST-MGAT: Spatial-Temporal Multi-Head Graph Attention Networks for Traffic Forecasting[C]</b>//2020 IEEE 32nd International Conference on Tools with Artificial Intelligence (ICTAI). IEEE, 2020: 714-721. [Link](https://ieeexplore.ieee.org/abstract/document/9288309/) [Code](https://github.com/Kelang-Tian/ST-MGAT)
 
