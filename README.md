@@ -219,7 +219,7 @@ Top journals with paper counts:
 
 * Fu H, Wang Z, Yu Y, et al. <b>Traffic Flow Driven Spatio-Temporal Graph Convolutional Network for Ride-Hailing Demand Forecasting[C]</b>//PAKDD (1). 2021: 754-765. [Link](https://link.springer.com/chapter/10.1007/978-3-030-75762-5_59)
 
-* Zhang X, Huang C, Xu Y, Xia L, et al. <b>Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](http://urban-computing.com/pdf/AAAI2021TrafficFlow.pdf) [Code](https://github.com/jillbetty001/ST-GDN)
+* Zhang X, Huang C, Xu Y, Xia L, et al. <b>Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/17761) [Code](https://github.com/jillbetty001/ST-GDN)
 
 * Xiao W, Kuang L, An Y. <b>Traffic Flow Prediction Through the Fusion of Spatial-Temporal Data and Points of Interest[C]</b>//International Conference on Database and Expert Systems Applications. Springer, Cham, 2021: 314-327. [Link](https://link.springer.com/chapter/10.1007/978-3-030-86472-9_29) [Code](https://github.com/css518/HSTGNN)
 
