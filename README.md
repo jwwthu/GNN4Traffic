@@ -582,7 +582,7 @@ Top journals with paper counts:
 
 * Zhang Q, Chang J, Meng G, et al. <b>Spatio-Temporal Graph Structure Learning for Traffic Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf)
 
-* Cao D, Wang Y, Duan J, et al. <b>Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting[C]</b>. Advances in Neural Information Processing Systems, 2020, 33. [Link](https://proceedings.neurips.cc/paper/2020/hash/cdf6581cb7aca4b7e19ef136c6e601a5-Abstract.html)
+* Cao D, Wang Y, Duan J, et al. <b>Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting[C]</b>. Advances in Neural Information Processing Systems, 2020, 33. [Link](https://proceedings.neurips.cc/paper/2020/hash/cdf6581cb7aca4b7e19ef136c6e601a5-Abstract.html) [Code](https://github.com/microsoft/StemGNN)
 
 * Ou J, Sun J, Zhu Y, et al. <b>STP-TrellisNets: Spatial-Temporal Parallel TrellisNets for Metro Station Passenger Flow Prediction[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM). 2020: 1185-1194. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411874)
 
