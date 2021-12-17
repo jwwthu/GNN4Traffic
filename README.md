@@ -40,6 +40,8 @@ Top journals with paper counts:
 
 # 2022
 ## Journal
+* Lee K, Rhee W. <b>DDP-GCN: Multi-graph convolutional network for spatiotemporal traffic forecasting[J]</b>. Transportation Research Part C: Emerging Technologies, 2022, 134: 103466. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X21004538)
+
 * Jin G, Wang M, Zhang J, et al. <b>STGNN-TTE: Travel time estimation via spatial–temporal graph neural network[J]</b>. Future Generation Computer Systems, 2022, 126: 70-81. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X21002740)
 
 # 2021
@@ -735,8 +737,6 @@ Top journals with paper counts:
 * Yu B, Li M, Zhang J, et al. <b>3d graph convolutional networks with temporal graphs: A spatial information free framework for traffic forecasting[J]</b>. arXiv preprint arXiv:1903.00919, 2019. [Link](https://arxiv.org/abs/1903.00919)
 
 * Zhang N, Guan X, Cao J, et al. <b>A Hybrid Traffic Speed Forecasting Approach Integrating Wavelet Transform and Motif-based Graph Convolutional Recurrent Neural Network[J]</b>. arXiv preprint arXiv:1904.06656, 2019. [Link](https://arxiv.org/abs/1904.06656)
-
-* Lee K, Rhee W. <b>DDP-GCN: Multi-Graph Convolutional Network for Spatiotemporal Traffic Forecasting[J]</b>. arXiv preprint arXiv:1905.12256, 2019. [Link](https://arxiv.org/abs/1905.12256)
 
 * Lee D, Jung S, Cheon Y, et al. <b>Demand Forecasting from Spatiotemporal Data with Graph Networks and Temporal-Guided Embedding[J]</b>. arXiv preprint arXiv:1905.10709, 2019. [Link](https://arxiv.org/abs/1905.10709) [Code](https://github.com/LeeDoYup/TGNet-keras)
 
