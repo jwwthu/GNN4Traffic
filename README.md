@@ -40,7 +40,7 @@ Top journals with paper counts:
 
 # 2022
 ## Journal
-* Lee K, Rhee W. <b>DDP-GCN: Multi-graph convolutional network for spatiotemporal traffic forecasting[J]</b>. Transportation Research Part C: Emerging Technologies, 2022, 134: 103466. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X21004538)
+* Lee K, Rhee W. <b>DDP-GCN: Multi-graph convolutional network for spatiotemporal traffic forecasting[J]</b>. Transportation Research Part C: Emerging Technologies, 2022, 134: 103466. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X21004538) [Code](https://github.com/snu-adsl/DDP-GCN)
 
 * Jin G, Wang M, Zhang J, et al. <b>STGNN-TTE: Travel time estimation via spatial–temporal graph neural network[J]</b>. Future Generation Computer Systems, 2022, 126: 70-81. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X21002740)
 
