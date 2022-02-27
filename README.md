@@ -255,7 +255,7 @@ Top journals with paper counts:
 
 * Ye J, Sun L, Du B, et al. <b>Coupled Layer-wise Graph Convolution for Transportation Demand Prediction[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://arxiv.org/abs/2012.08080) [Code](https://github.com/Essaim/CGCDemandPrediction)
 
-* Liu M, Du B, Sun L. <b>Co-Prediction of Multimodal Transportation Demands With Self-learned Spatial Dependence[C]</b>//2021 IEEE International Conference on Big Data (Big Data). IEEE, 2021: 824-833. [Link](https://ieeexplore.ieee.org/abstract/document/9671682/) [Link](https://github.com/LMZZML/CoGNN/)
+* Liu M, Du B, Sun L. <b>Co-Prediction of Multimodal Transportation Demands With Self-learned Spatial Dependence[C]</b>//2021 IEEE International Conference on Big Data (Big Data). IEEE, 2021: 824-833. [Link](https://ieeexplore.ieee.org/abstract/document/9671682/) [Code](https://github.com/LMZZML/CoGNN/)
 
 * Meng C, Rambhatla S, Liu Y. <b>Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling[C]</b>. In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '21). Association for Computing Machinery. 2021. [Link](https://arxiv.org/abs/2106.05223)
 
