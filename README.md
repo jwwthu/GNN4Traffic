@@ -333,7 +333,7 @@ Top journals with paper counts:
 
 * Xiao W, Kuang L, An Y. <b>Traffic Flow Prediction Through the Fusion of Spatial-Temporal Data and Points of Interest[C]</b>//International Conference on Database and Expert Systems Applications. Springer, Cham, 2021: 314-327. [Link](https://link.springer.com/chapter/10.1007/978-3-030-86472-9_29) [Code](https://github.com/css518/HSTGNN)
 
-* Li M, Tong P, Li M, et al. <b>Traffic Flow Prediction with Vehicle Trajectories[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://wands.sg/publications/full_list/papers/AAAI_21_1.pdf) [Code](https://github.com/mingqian000/TrGNN)
+* Li M, Tong P, Li M, et al. <b>Traffic Flow Prediction with Vehicle Trajectories[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/16104) [Code](https://github.com/mingqian000/TrGNN)
 
 * Yao X, Zhang Z, Cui R, et al. <b>Traffic Prediction Based on Multi-graph Spatio-Temporal Convolutional Network[C]</b>//International Conference on Web Information Systems and Applications. Springer, Cham, 2021: 144-155. [Link](https://link.springer.com/chapter/10.1007/978-3-030-87571-8_13)
 
