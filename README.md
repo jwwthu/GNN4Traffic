@@ -639,7 +639,7 @@ Top journals with paper counts:
 
 * Qin T, Liu T, Wu H, et al. <b>RESGCN: RESidual Graph Convolutional Network based Free Dock Prediction in Bike Sharing System[C]</b>//2020 21st IEEE International Conference on Mobile Data Management (MDM). IEEE, 2020: 210-217. [Link](https://ieeexplore.ieee.org/abstract/document/9162310/)
 
-* Zhou Z, Wang Y, Xie X, et al. <b>RiskOracle: A Minute-level Citywide Traffic Accident Forecasting Framework[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouZ.1664.pdf) [Code](https://github.com/zzyy0929/AAAI2020-RiskOracle/)
+* Zhou Z, Wang Y, Xie X, et al. <b>RiskOracle: A Minute-level Citywide Traffic Accident Forecasting Framework[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://ojs.aaai.org//index.php/AAAI/article/view/5480) [Code](https://github.com/zzyy0929/AAAI2020-RiskOracle/)
 
 * Xie Y, Xiong Y, Zhu Y. <b>SAST-GNN: A Self-Attention Based Spatio-Temporal Graph Neural Network for Traffic Prediction[C]</b>//International Conference on Database Systems for Advanced Applications. Springer, Cham, 2020: 707-714. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59410-7_49)
 
@@ -651,7 +651,7 @@ Top journals with paper counts:
 
 * Huang Y, Zhang S, Wen J, et al. <b>Short-Term Traffic Flow Prediction Based on Graph Convolutional Network Embedded LSTM[C]</b>//International Conference on Transportation and Development (ICTD) 2020. Reston, VA: American Society of Civil Engineers, 2020: 159-168. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483152.014)
 
-* Wang Q, Guo B, Ouyang Y, et al. <b>Spatial Community-Informed Evolving Graphs for Demand Prediction[C]</b>. Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020). [Link](http://www.public.asu.edu/~skai2/files/ecml_spatial.pdf)
+* Wang Q, Guo B, Ouyang Y, et al. <b>Spatial Community-Informed Evolving Graphs for Demand Prediction[C]</b>. Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020). [Link](https://link.springer.com/chapter/10.1007/978-3-030-67670-4_27)
 
 * Lu B, Gan X, Jin H, et al. <b>Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting[C]</b>//Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM). 2020: 1025-1034. [Link](https://dl.acm.org/doi/abs/10.1145/3340531.3411894) [Code](https://github.com/RobinLu1209/STAG-GCN)
 
@@ -663,9 +663,9 @@ Top journals with paper counts:
 
 * Lau Y H, Wong R C W. <b>Spatio-Temporal Graph Convolutional Networks for Traffic Forecasting: Spatial Layers First or Temporal Layers First?[C]</b>//Proceedings of the 29th International Conference on Advances in Geographic Information Systems. 2021: 427-430. [Link](https://dl.acm.org/doi/abs/10.1145/3474717.3484207)
 
-* Song C, Lin Y, Guo S, et al. <b>Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf) [Author's Code](https://github.com/wanhuaiyu/STSGCN) [Code1](https://github.com/Davidham3/STSGCN) [Code2](https://github.com/mcdragon/STSGCN)
+* Song C, Lin Y, Guo S, et al. <b>Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://ojs.aaai.org//index.php/AAAI/article/view/5438) [Author's Code](https://github.com/wanhuaiyu/STSGCN) [Code1](https://github.com/Davidham3/STSGCN) [Code2](https://github.com/mcdragon/STSGCN)
 
-* Zhang Q, Chang J, Meng G, et al. <b>Spatio-Temporal Graph Structure Learning for Traffic Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf)
+* Zhang Q, Chang J, Meng G, et al. <b>Spatio-Temporal Graph Structure Learning for Traffic Forecasting[C]</b>.//Proceedings of the AAAI Conference on Artificial Intelligence. 2020. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/5470)
 
 * Cao D, Wang Y, Duan J, et al. <b>Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting[C]</b>. Advances in Neural Information Processing Systems, 2020, 33. [Link](https://proceedings.neurips.cc/paper/2020/hash/cdf6581cb7aca4b7e19ef136c6e601a5-Abstract.html) [Code](https://github.com/microsoft/StemGNN)
 
