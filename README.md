@@ -316,6 +316,8 @@ Top journals with paper counts:
 
 * Meng C, Rambhatla S, Liu Y. <b>Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling[C]</b>. In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '21). Association for Computing Machinery. 2021. [Link](https://arxiv.org/abs/2106.05223)
 
+* Li H, Zhang S, Li X, et al. <b>DetectorNet: Transformer-enhanced Spatial Temporal Graph Neural Network for Traffic Prediction[C]</b>//Proceedings of the 29th International Conference on Advances in Geographic Information Systems. 2021: 133-136. [Link](https://dl.acm.org/doi/abs/10.1145/3474717.3483920)
+
 * Shang C, Chen J, Bi J. <b>Discrete Graph Structure Learning for Forecasting Multiple Time Series[C]</b>. International Conference on Learning Representations (ICLR), 2021. [Link](https://openreview.net/forum?id=WEHSlH5mOk) [Code](https://github.com/chaoshangcs/GTS)
 
 * Zhao H, Yang H, Wang Y, et al. <b>Domain-Adversarial-based Temporal Graph Convolutional Network for Traffic Flow Prediction Problem[C]</b>//2021 IEEE International Intelligent Transportation Systems Conference (ITSC). IEEE, 2021: 1365-1370. [Link](https://ieeexplore.ieee.org/abstract/document/9564998/)
@@ -662,6 +664,8 @@ Top journals with paper counts:
 * Song Q, Ming R B, Hu J, et al. <b>Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction[C]</b>//2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9294580/) [Code (Still empty till 2022/03/01)](https://github.com/simmonssong/GAC-Net)
 
 * Chen F, Chen Z, Biswas S, et al. <b>Graph Convolutional Networks with Kalman Filtering for Traffic Prediction[C]</b>//Proceedings of the 28th International Conference on Advances in Geographic Information Systems. 2020: 135-138. [Link](https://dl.acm.org/doi/abs/10.1145/3397536.3422257) [Code](https://github.com/Fanglanc/DKFN)
+
+* Li H, Zhang S, Su L, et al. <b>GraphSANet: A Graph Neural Network and Self Attention Based Approach for Spatial Temporal Prediction in Sensor Network[C]</b>//2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020: 5756-5758. [Link](https://ieeexplore.ieee.org/abstract/document/9378450/)
 
 * Chen J, Liao S, Hou J, et al. <b>GST-GCN: A Geographic-Semantic-Temporal Graph Convolutional Network for Context-aware Traffic Flow Prediction on Graph Sequences[C]</b>//2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2020: 1604-1609. [Link](https://ieeexplore.ieee.org/abstract/document/9282828/)
 
