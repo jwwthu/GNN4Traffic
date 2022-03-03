@@ -43,6 +43,11 @@ Top journals with paper counts:
 
 * Traffic Prediction [Link](https://github.com/aprbw/traffic_prediction)
 
+# Relevant Data Repositories
+* Strategic Transport Planning Dataset [Link](https://github.com/nikita68/TransportPlanningDataset)
+> Description: A graph based strategic transport planning dataset, aimed at creating the next generation of deep graph neural networks for transfer learning. Based on simulation results of the Four Step Model in PTV Visum.
+> Relevant Thesis: [Development of a Deep Learning Surrogate for the Four-Step Transportation Model](https://mediatum.ub.tum.de/doc/1638691/dwz10x0l0w38xdklv9zkrprqs.pdf)
+
 # 2022
 ## Journal
 * Zhao J, Chen C, Liao C, et al. <b>2F-TP: Learning Flexible Spatiotemporal Dependency for Flexible Traffic Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9703274/)
