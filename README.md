@@ -171,8 +171,6 @@ Top journals with paper counts:
 
 * Yang H, Zhang X, Li Z, et al. <b>Region-Level Traffic Prediction Based on Temporal Multi-Spatial Dependence Graph Convolutional Network from GPS Data[J]</b>. Remote Sensing, 2022, 14(2): 303. [Link](https://www.mdpi.com/2072-4292/14/2/303) [Code](https://github.com/Joker-L0912/Tms-GCN-Py)
 
-* Zhao W, Zhang S, Zhou B, et al. <b>Residual Graph Convolutional Recurrent Networks For Multi-step Traffic Flow Forecasting[J]</b>. arXiv preprint arXiv:2205.01480, 2022. [Link](https://arxiv.org/abs/2205.01480) [Code](https://github.com/zhangshqii/RGCRN)
-
 * Abdelraouf A, Abdel-Aty M, Mahmoud N. <b>Sequence-to-Sequence Recurrent Graph Convolutional Networks for Traffic Estimation and Prediction Using Connected Probe Vehicle Data[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9763453/)
 
 * Ma X, Yin Y, Jin Y, et al. <b>Short-Term Prediction of Bike-Sharing Demand Using Multi-Source Data: A Spatial-Temporal Graph Attentional LSTM Approach[J]</b>. Applied Sciences, 2022, 12(3): 1161. [Link](https://www.mdpi.com/2076-3417/12/3/1161)
@@ -255,6 +253,8 @@ Top journals with paper counts:
 * Satorras V G, Rangapuram S S, Januschowski T. <b>Multivariate Time Series Forecasting with Latent Graph Inference[J]</b>. arXiv preprint arXiv:2203.03423, 2022. [Link](https://arxiv.org/abs/2203.03423)
 
 * Rodrigues F. <b>On the importance of stationarity, strong baselines and benchmarks in transport prediction problems[J]</b>. arXiv preprint arXiv:2203.02954, 2022. [Link](https://arxiv.org/abs/2203.02954)
+
+* Zhao W, Zhang S, Zhou B, et al. <b>Residual Graph Convolutional Recurrent Networks For Multi-step Traffic Flow Forecasting[J]</b>. arXiv preprint arXiv:2205.01480, 2022. [Link](https://arxiv.org/abs/2205.01480) [Code](https://github.com/zhangshqii/RGCRN)
 
 * Liu A, Zhang Y. <b>Spatial-Temporal Interactive Dynamic Graph Convolution Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2205.08689, 2022. [Link](https://arxiv.org/abs/2205.08689)
 
