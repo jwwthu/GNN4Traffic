@@ -12,7 +12,7 @@
 This is the repository for the collection of Graph Neural Network for Traffic Forecasting.
 
 If you find this repository helpful, you may consider cite our relevant work:
-* Jiang W, Luo J. <b>Graph Neural Network for Traffic Forecasting: A Survey[J]</b>. arXiv preprint arXiv:2101.11174, 2021. [Link](https://arxiv.org/abs/2101.11174v3)
+* Jiang W, Luo J. <b>Graph Neural Network for Traffic Forecasting: A Survey[J]</b>. Expert Systems with Applications, 2022. [Link](https://arxiv.org/abs/2101.11174v3)
 * Jiang W, Luo J. <b>Big Data for Traffic Estimation and Prediction: A Survey of Data and Tools[J]</b>. Applied System Innovation. 2022; 5(1):23. [Link](https://www.mdpi.com/2571-5577/5/1/23)
 
 For a wider collection of deep learning for traffic forecasting, you may check: [DL4Traffic](https://github.com/jwwthu/DL4Traffic)
