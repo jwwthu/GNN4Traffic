@@ -65,6 +65,8 @@ Top journals with paper counts:
 
 * Xu D, Lin Z, Zhou L, et al. <b>A GATs-GAN framework for road traffic states forecasting[J]</b>. Transportmetrica B: Transport Dynamics, 2022: 1-13. [Link](https://www.tandfonline.com/doi/abs/10.1080/21680566.2022.2030825)
 
+* Qi J, Zhao Z, Tanin E, et al. <b>A Graph and Attentive Multi-Path Convolutional Network for Traffic Prediction[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9786854) [Code](https://github.com/alvinzhaowei/GAMCN)
+
 * Shang P, Yu C, Liu X, et al. <b>A new ensemble deep graph reinforcement learning network for spatio-temporal traffic volume forecasting in a freeway network[J]</b>. Digital Signal Processing, 2022: 103419. [Link](https://www.sciencedirect.com/science/article/pii/S1051200422000367)
 
 * Liu F, Wang J, Tian J, et al. <b>A Universal Framework of Spatiotemporal Bias Block for Long-Term Traffic Forecasting[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9737430/)
@@ -83,9 +85,13 @@ Top journals with paper counts:
 
 * Ta X, Liu Z, Hu X, et al. <b>Adaptive Spatio-temporal Graph Neural Network for traffic forecasting[J]</b>. Knowledge-Based Systems, 2022: 108199. [Link](https://www.sciencedirect.com/science/article/pii/S0950705122000508) [Code](https://github.com/LiuZH-19/Ada-STNet)
 
+* Feng J, Yu L, Ma R. <b>AGCN-T: A Traffic Flow Prediction Model for Spatial-Temporal Network Dynamics[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/1217588/)
+
 * Zhao S, Li X. <b>An Attention Encoder-Decoder Dual Graph Convolutional Network with Time Series Correlation for Multi-Step Traffic Flow Prediction[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/7682274/)
 
 * Liao L, Hu Z, Zheng Y, et al. <b>An improved dynamic Chebyshev graph convolution network for traffic flow prediction with spatial-temporal attention[J]</b>. Applied Intelligence, 2022: 1-13. [Link](https://link.springer.com/article/10.1007/s10489-021-03022-w)
+
+* Wang Y, Jing C, Xu S, et al. <b>Attention Based Spatiotemporal Graph Attention Networks for Traffic Flow Forecasting[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522005679)
 
 * Zhao J, Liu Z, Sun Q, et al. <b>Attention-based Dynamic Spatial-Temporal Graph Convolutional Networks for Traffic Speed Forecasting[J]</b>. Expert Systems with Applications, 2022: 117511. [Link](https://www.sciencedirect.com/science/article/pii/S0957417422008387)
 
@@ -93,13 +99,19 @@ Top journals with paper counts:
 
 * Jiang W, Xiao Y, Liu Y, et al. <b>Bi-GRCN: A Spatio-Temporal Traffic Flow Prediction Model Based on Graph Neural Network[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/5221362/)
 
+* Yin G, Huang Z, Bao Y, et al. <b>ConvGCN-RF: A hybrid learning model for commuting flow prediction considering geographical semantics and neighborhood effects[J]</b>. GeoInformatica, 2022: 1-21. [Link](https://link.springer.com/article/10.1007/s10707-022-00467-0)
+
 * Zhao T, Huang Z, Tu W, et al. <b>Coupling graph deep learning and spatial-temporal influence of built environment for short-term bus travel demand prediction[J]</b>. Computers, Environment and Urban Systems, 2022, 94: 101776. [Link](https://www.sciencedirect.com/science/article/pii/S0198971522000205)
 
 * Li F, Feng J, Yan H, et al. <b>Crowd Flow Prediction for irregular Regions with Semantic Graph Attention Network[J]</b>. ACM Transactions on Intelligent Systems and Technology (TIST), 2022. [Link](https://dl.acm.org/doi/abs/10.1145/3501805)
 
 * Lee K, Rhee W. <b>DDP-GCN: Multi-graph convolutional network for spatiotemporal traffic forecasting[J]</b>. Transportation Research Part C: Emerging Technologies, 2022, 134: 103466. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X21004538) [Code](https://github.com/snu-adsl/DDP-GCN)
 
+* Jiang Y, Fan J, Liu Y, et al. <b>Deep Graph Gaussian Processes for Short-Term Traffic Flow Forecasting From Spatiotemporal Data[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9788513)
+
 * Zheng Q, Zhang Y. <b>DSTAGCN: Dynamic Spatial-Temporal Adjacent Graph Convolutional Network for Traffic Forecasting[J]</b>. IEEE Transactions on Big Data, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9729487/)
+
+* Hu J, Lin X, Wang C. <b>DSTGCN: Dynamic Spatial-Temporal Graph Convolutional Network for traffic prediction[J]</b>. IEEE Sensors Journal, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9777905/)
 
 * Han S Y, Zhao Q, Sun Q W, et al. <b>EnGS-DGR: Traffic Flow Forecasting with Indefinite Forecasting Interval by Ensemble GCN, Seq2Seq, and Dynamic Graph Reconfiguration[J]</b>. Applied Sciences, 2022, 12(6): 2890. [Link](https://www.mdpi.com/2076-3417/12/6/2890)
 
@@ -108,6 +120,8 @@ Top journals with paper counts:
 * Kong X, Wang K, Hou M, et al. <b>Exploring Human Mobility for Multi-Pattern Passenger Prediction: A Graph Learning Framework[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9709191/)
 
 * Zou F, Ren Q, Tian J, et al. <b>Expressway Speed Prediction Based on Electronic Toll Collection Data[J]</b>. Electronics, 2022, 11(10): 1613. [Link](https://www.mdpi.com/2079-9292/11/10/1613)
+
+* Duan Y, Chen N, Shen S, et al. <b>Fdsa-STG: Fully Dynamic Self-Attention Spatio-Temporal Graph Networks for Intelligent Traffic Flow Prediction[J]</b>. IEEE Transactions on Vehicular Technology, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9782553/)
 
 * Yuan X, Chen J, Yang J, et al. <b>FedSTN: Graph Representation Driven Federated Learning for Edge Computing Enabled Urban Traffic Flow Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9737410/)
 
@@ -133,6 +147,8 @@ Top journals with paper counts:
 
 * Liang Y, Huang G, Zhao Z. <b>Joint Demand Prediction for Multimodal Systems: A Multi-task Multi-relational Spatiotemporal Graph Neural Network Approach[J]</b>. Transportation Research Part C: Emerging Technologies, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X22001668)
 
+* Huang J, Luo K, Cao L, et al. <b>Learning Multiaspect Traffic Couplings by Multirelational Graph Attention Networks for Traffic Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9780244)
+
 * Xu M, Li X, Wang F, et al. <b>Learning to effectively model spatial-temporal heterogeneity for traffic flow forecasting[J]</b>. World Wide Web, 2022: 1-17. [Link](https://link.springer.com/article/10.1007/s11280-022-01045-y)
 
 * Lu B, Gan X, Jin H, et al. <b>Make More Connections: Urban Traffic Flow Forecasting with Spatiotemporal Adaptive Gated Graph Convolution Network[J]</b>. ACM Transactions on Intelligent Systems and Technology (TIST), 2022, 13(2): 1-25. [Link](https://dl.acm.org/doi/abs/10.1145/3488902)
@@ -142,6 +158,8 @@ Top journals with paper counts:
 * Cui Z, Zhang J, Noh G, et al. <b>MFDGCN: Multi-Stage Spatio-Temporal Fusion Diffusion Graph Convolutional Network for Traffic Prediction[J]</b>. Applied Sciences, 2022, 12(5): 2688. [Link](https://www.mdpi.com/2076-3417/12/5/2688)
 
 * Yin D, Jiang R, Deng J, et al. <b>MTMGNN: Multi-time multi-graph neural network for metro passenger flow prediction[J]</b>. GeoInformatica, 2022: 1-29. [Link](https://link.springer.com/article/10.1007/s10707-022-00466-1) [Code](https://github.com/lixus7/MTMGNN)
+
+* Li C, Zhang H, Wang Z, et al. <b>Multigraph Aggregation Spatiotemporal Graph Convolution Network for Ride-Hailing Pick-Up Region Prediction[J]</b>. Wireless Communications and Mobile Computing, 2022, 2022. [Link](https://www.hindawi.com/journals/wcmc/2022/9815133/)
 
 * Yang L, Jiang S, Zhang F. <b>Multitask Learning with Graph Neural Network for Travel Time Estimation[J]</b>. Computational Intelligence and Neuroscience, 2022, 2022. [Link](https://www.hindawi.com/journals/cin/2022/6622734/)
 
@@ -255,6 +273,8 @@ Top journals with paper counts:
 * Rodrigues F. <b>On the importance of stationarity, strong baselines and benchmarks in transport prediction problems[J]</b>. arXiv preprint arXiv:2203.02954, 2022. [Link](https://arxiv.org/abs/2203.02954)
 
 * Zhao W, Zhang S, Zhou B, et al. <b>Residual Graph Convolutional Recurrent Networks For Multi-step Traffic Flow Forecasting[J]</b>. arXiv preprint arXiv:2205.01480, 2022. [Link](https://arxiv.org/abs/2205.01480) [Code](https://github.com/zhangshqii/RGCRN)
+
+* Weikang C, Yawen L, Zhe X, et al. <b>Spatial-Temporal Adaptive Graph Convolution with Attention Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2206.03128, 2022. [Link](https://arxiv.org/abs/2206.03128)
 
 * Liu A, Zhang Y. <b>Spatial-Temporal Interactive Dynamic Graph Convolution Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2205.08689, 2022. [Link](https://arxiv.org/abs/2205.08689)
 
