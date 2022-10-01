@@ -1,14 +1,4 @@
 # GNN4Traffic
-**Advertisement**: We would like to cordially invite you to submit a paper to our special session on "Graph Neural Network for Traffic Forecasting" for the 25th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2022).
-* Special session code: 6495a
-* ITSC 2022 website: [https://www.ieee-itsc2022.org/](https://www.ieee-itsc2022.org/)
-* Paper submission website: [http://its.papercept.net/](http://its.papercept.net/)
-* Deadline for manuscript submissions: **15 March 2022**.
-
-**Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Graph Neural Network for Traffic Forecasting" for Algorithms (EI and ESCI-indexed, ISSN 1999-4893).
-* Special issue website: [https://www.mdpi.com/journal/algorithms/special_issues/Traffic_Forecasting](https://www.mdpi.com/journal/algorithms/special_issues/Traffic_Forecasting)
-* Deadline for manuscript submissions: **1 December 2022**.
-
 This is the repository for the collection of Graph Neural Network for Traffic Forecasting.
 
 If you find this repository helpful, you may consider cite our relevant work:
@@ -17,7 +7,17 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 For a wider collection of deep learning for traffic forecasting, you may check: [DL4Traffic](https://github.com/jwwthu/DL4Traffic)
 
-**Advertisement**: If you are interested in maintaining this repository, feel free to drop me an email. Collaboration with Tsinghua University is always welcome, too.
+**Advertisement**: We would like to cordially invite you to submit a paper to our special session on "Graph Neural Network for Traffic Forecasting" for the 25th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2022).
+* Special session code: 6495a
+* ITSC 2022 website: [https://www.ieee-itsc2022.org/](https://www.ieee-itsc2022.org/)
+* Paper submission website: [http://its.papercept.net/](http://its.papercept.net/)
+* Deadline for manuscript submissions: **15 March 2022**.
+
+**Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Neural Network for Traffic Forecasting" for Algorithms (EI and ESCI-indexed, ISSN 1999-4893).
+* Special issue website: [https://www.mdpi.com/journal/algorithms/special_issues/Traffic_Forecasting](https://www.mdpi.com/journal/algorithms/special_issues/Traffic_Forecasting)
+* Deadline for manuscript submissions: **1 December 2022**.
+
+**Advertisement**: If you are interested in maintaining this repository, feel free to drop me an email.
 
 Some simple paper statistics results are as follows.
 
