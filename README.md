@@ -257,8 +257,6 @@ Top journals with paper counts:
 
 * Xu Z, Hou L, Zhang Y, et al. <b>Passenger Flow Prediction of Scenic Spot Using a GCN–RNN Model[J]</b>. Sustainability, 2022, 14(6): 3295. [Link](https://www.mdpi.com/2071-1050/14/6/3295)
 
-* Shin Y, Yoon Y. <b>PGCN: Progressive Graph Convolutional Networks for Spatial-Temporal Traffic Forecasting[J]</b>. arXiv preprint arXiv:2202.08982, 2022. [Link](https://arxiv.org/abs/2202.08982) [Code](https://github.com/yuyolshin/PGCN)
-
 * Mi C, Cheng S, Lu F. <b>Predicting Taxi-Calling Demands Using Multi-Feature and Residual Attention Graph Convolutional Long Short-Term Memory Networks[J]</b>. ISPRS International Journal of Geo-Information, 2022, 11(3): 185. [Link](https://www.mdpi.com/1534674)
 
 * Feng Y, Xu Y, Hu Q, et al. <b>Predicting vacant parking space availability zone-wisely: a hybrid deep learning approach[J]</b>. Complex & Intelligent Systems, 2022: 1-17. [Link](https://link.springer.com/article/10.1007/s40747-022-00700-1)
@@ -401,6 +399,8 @@ Top journals with paper counts:
 * Zhuang D, Wang S, Koutsopoulos H, et al. <b>Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks[C]</b>//Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022: 4639-4647. [Link](https://dl.acm.org/doi/abs/10.1145/3534678.3539093)
 
 ## Preprint
+* Shin Y, Yoon Y. <b>PGCN: Progressive Graph Convolutional Networks for Spatial-Temporal Traffic Forecasting[J]</b>. arXiv preprint arXiv:2202.08982, 2022. [Link](https://arxiv.org/abs/2202.08982) [Code](https://github.com/yuyolshin/PGCN)
+
 * Pu Y. <b>Combined Dynamic Virtual Spatiotemporal Graph Mapping for Traffic Prediction[J]</b>. arXiv preprint arXiv:2210.00704, 2022. [Link](https://arxiv.org/abs/2210.00704) [Code](https://github.com/Dandelionym/CDVGM)
 
 * Zhao L, Chen M, Du Y, et al. <b>Spatial-Temporal Graph Convolutional Gated Recurrent Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2210.02737, 2022. [Link](https://arxiv.org/abs/2210.02737) [Code](https://github.com/ZLBryant/STGCGRN)
@@ -423,13 +423,13 @@ Top journals with paper counts:
 
 * Mallick T, Balaprakash P, Macfarlane J. <b>Deep-Ensemble-Based Uncertainty Quantification in Spatiotemporal Graph Neural Networks for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2204.01618, 2022. [Link](https://arxiv.org/abs/2204.01618)
 
-* Jiang J, Wu B, Chen L, et al. <b>Dynamic Adaptive and Adversarial Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2208.03063, 2022. [Link](https://github.com/juyongjiang/DAAGCN)
+* Jiang J, Wu B, Chen L, et al. <b>Dynamic Adaptive and Adversarial Graph Convolutional Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2208.03063, 2022. [Link](https://arxiv.org/abs/2208.03063v1) [Code](https://github.com/juyongjiang/DAAGCN)
 
 * Zhang R, Han L, Liu B, et al. <b>Dynamic Graph Learning Based on Hierarchical Memory for Origin-Destination Demand Prediction[J]</b>. arXiv preprint arXiv:2205.14593, 2022. [Link](https://arxiv.org/abs/2205.14593) [Code](https://github.com/Rising0321/HMOD)
 
 * Li M, Tang Y, Ma W. <b>Few-Shot Traffic Prediction with Graph Networks using Locale as Relational Inductive Biases[J]</b>. arXiv preprint arXiv:2203.03965, 2022. [Link](https://arxiv.org/abs/2203.03965) [Code](https://github.com/MingxiLii/LocaleGN)
 
-* Li H, Zhang J, Yang L, et al. <b>Graph-GAN: A spatial-temporal neural network for short-term passenger flow prediction in urban rail transit systems[J]</b>. arXiv preprint arXiv:2202.06727, 2022. [Link](https://arxiv.org/abs/2202.06727)
+* Li H, Zhang J, Yang L, et al. <b>STG-GAN: A spatiotemporal graph generative adversarial networks for short-term passenger flow prediction in urban rail transit systems[J]</b>. arXiv preprint arXiv:2202.06727, 2022. [Link](https://arxiv.org/abs/2202.06727)
 
 * Chen W, Wang Y, Du C, et al. <b>Learning Sparse and Continuous Graph Structures for Multivariate Time Series Forecasting[J]</b>. arXiv preprint arXiv:2201.09686, 2022. [Link](https://arxiv.org/abs/2201.09686) [Code](https://github.com/niuffs/LSCGF)
 
