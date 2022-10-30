@@ -55,6 +55,10 @@ Top journals with paper counts:
 
 # 2022
 ## Journal
+* Sun Y, Jiang X, Hu Y, et al. <b>Dual Dynamic Spatial-Temporal Graph Convolution Network for Traffic Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9912360/) [Code](https://github.com/j1o2h3n/DDSTGCN)
+
+* Ma Q, Sun W, Gao J, et al. <b>Spatio‐temporal adaptive graph convolutional networks for traffic flow forecasting[J]</b>. IET Intelligent Transport Systems, 2022. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12296) [Code](https://github.com/QiweiMa-LL/STAGCN)
+
 * Kong X, Wei X, Zhang J, et al. <b>JointGraph: joint pre-training framework for traffic forecasting with spatial-temporal gating diffusion graph attention network[J]</b>. Applied Intelligence, 2022: 1-18. [Link](https://link.springer.com/article/10.1007/s10489-022-04218-4)
 
 * Wang S, Lv Y, Peng Y, et al. <b>Metro Traffic Flow Prediction via Knowledge Graph and Spatiotemporal Graph Neural Network[J]</b>. Journal of Advanced Transportation, 2022. [Link](https://www.hindawi.com/journals/jat/2022/2348375/)
@@ -397,6 +401,10 @@ Top journals with paper counts:
 * Zhuang D, Wang S, Koutsopoulos H, et al. <b>Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks[C]</b>//Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022: 4639-4647. [Link](https://dl.acm.org/doi/abs/10.1145/3534678.3539093)
 
 ## Preprint
+* Pu Y. <b>Combined Dynamic Virtual Spatiotemporal Graph Mapping for Traffic Prediction[J]</b>. arXiv preprint arXiv:2210.00704, 2022. [Link](https://arxiv.org/abs/2210.00704) [Code](https://github.com/Dandelionym/CDVGM)
+
+* Zhao L, Chen M, Du Y, et al. <b>Spatial-Temporal Graph Convolutional Gated Recurrent Network for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2210.02737, 2022. [Link](https://arxiv.org/abs/2210.02737) [Code](https://github.com/ZLBryant/STGCGRN)
+
 * Luo R, Song Y, Huang L, et al. <b>STGIN: A Spatial Temporal Graph-Informer Network for Long Sequence Traffic Speed Forecasting[J]</b>. arXiv preprint arXiv:2210.01799, 2022. [Link](https://arxiv.org/abs/2210.01799)
 
 * Roudbari N S, Patterson Z, Eicker U, et al. <b>Simpler is better: Multilevel Abstraction with Graph Convolutional Recurrent Neural Network Cells for Traffic Prediction[J]</b>. arXiv preprint arXiv:2209.03858, 2022. [Link](https://arxiv.org/abs/2209.03858)
