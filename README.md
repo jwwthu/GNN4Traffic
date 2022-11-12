@@ -344,9 +344,9 @@ Top journals with paper counts:
 
 * Song J, Son J, Seo D, et al. <b>ST-GAT: A Spatio-Temporal Graph Attention Network for Accurate Traffic Speed Prediction[C]</b>//Proceedings of the 31st ACM International Conference on Information & Knowledge Management. 2022: 4500-4504. [Link](https://dl.acm.org/doi/abs/10.1145/3511808.3557705)
 
-* Kim D, Cho Y, Kim D, et al. <b>Residual Correction in Real-Time Traffic Forecasting[C]</b>. CIKM, 2022. [Link](https://arxiv.org/abs/2209.05406)
+* Kim D, Cho Y, Kim D, et al. <b>Residual Correction in Real-Time Traffic Forecasting[C]</b>. CIKM, 2022. [Link](https://dl.acm.org/doi/abs/10.1145/3511808.3557432)
 
-* Li G, Wang X, Njoo G S, et al. <b>A Data-Driven Spatial-Temporal Graph Neural Network for Docked Bike Prediction[C]</b>. IEEE International Conference on Data Engineering (ICDE), 2022. [Link](https://guanyaoli.github.io/files/STGNN-DJD-0110.pdf)
+* Li G, Wang X, Njoo G S, et al. <b>A Data-Driven Spatial-Temporal Graph Neural Network for Docked Bike Prediction[C]</b>. IEEE International Conference on Data Engineering (ICDE), 2022. [Link](https://ieeexplore.ieee.org/document/9835338/)
 
 * Shen Y, Li L, Xie Q, et al. <b>A Two-Tower Spatial-Temporal Graph Neural Network for Traffic Speed Prediction[C]</b>//Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Cham, 2022: 406-418. [Link](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_32)
 
@@ -354,15 +354,15 @@ Top journals with paper counts:
 
 * Xie Y, Xiong Y, Zhu Y, et al. <b>Concurrent Transformer for Spatial-Temporal Graph Modeling[C]</b>//International Conference on Database Systems for Advanced Applications. Springer, Cham, 2022: 314-321. [Link](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_26)
 
-* Shao Z, Zhang Z, Wei W, et al. <b>Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting[J]</b>. International Conference on Very Large Databases (VLDB), 2022. [Link](https://arxiv.org/abs/2206.09112v2) [Code](https://github.com/zezhishao/D2STGNN)
+* Shao Z, Zhang Z, Wei W, et al. <b>Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting[J]</b>. International Conference on Very Large Databases (VLDB), 2022. [Link](https://dl.acm.org/doi/abs/10.14778/3551793.3551827) [Code](https://github.com/zezhishao/D2STGNN)
 
 * Lan S, Ma Y, Huang W, et al. <b>DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting[C]</b>//International Conference on Machine Learning. PMLR, 2022: 11906-11917. [Link](https://proceedings.mlr.press/v162/lan22a.html) [Code](https://github.com/SYLan2019/DSTAGNN)
 
-* Wang Z, Jiang R, Xue H, et al. <b>Event-Aware Multimodal Mobility Nowcasting[C]</b>. AAAI, 2022. [Link](https://arxiv.org/abs/2112.08443) [Code](https://github.com/underdoc-wang/EAST-Net)
+* Wang Z, Jiang R, Xue H, et al. <b>Event-Aware Multimodal Mobility Nowcasting[C]</b>. AAAI, 2022. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20342) [Code](https://github.com/underdoc-wang/EAST-Net)
 
 * Rao X, Wang H, Zhang L, et al. <b>FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting[C]</b>//Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2022. [Link](https://www.ijcai.org/proceedings/2022/545) [Code](https://github.com/kevin-xuan/FOGS)
 
-* Choi J, Choi H, Hwang J, et al. <b>Graph Neural Controlled Differential Equations for Traffic Forecasting[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2022. [Link](https://arxiv.org/abs/2112.03558) [Code](https://github.com/jeongwhanchoi/STG-NCDE)
+* Choi J, Choi H, Hwang J, et al. <b>Graph Neural Controlled Differential Equations for Traffic Forecasting[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2022. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20587) [Code](https://github.com/jeongwhanchoi/STG-NCDE)
 
 * Zhang C, Zhang S, Yu S, et al. <b>Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning[C]</b>//2022 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2022: 2041-2046. [Link](https://ieeexplore.ieee.org/abstract/document/9771883/)
 
@@ -378,7 +378,7 @@ Top journals with paper counts:
 
 * Li R, Zhong T, Jiang X, et al. <b>Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning[C]</b>//Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022: 936-944. [Link](https://dl.acm.org/doi/abs/10.1145/3534678.3539422)
 
-* Shao Z, Zhang Z, Wang F, et al. <b>Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting[C]</b>. KDD, 2022. [Link](https://arxiv.org/abs/2206.09113) [Code](https://github.com/zezhishao/STEP)
+* Shao Z, Zhang Z, Wang F, et al. <b>Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting[C]</b>. KDD, 2022. [Link](https://dl.acm.org/doi/abs/10.1145/3534678.3539396) [Code](https://github.com/zezhishao/STEP)
 
 * He Q, Dong Z, Chen F, et al. <b>Pyramid: Enabling hierarchical neural networks with edge computing[C]</b>//Proceedings of the ACM Web Conference 2022. 2022: 1860-1870. [Link](https://dl.acm.org/doi/abs/10.1145/3485447.3511990)
 
