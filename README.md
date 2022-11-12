@@ -191,7 +191,7 @@ Top journals with paper counts:
 
 * Liu C, Xiao Z, Wang D, et al. <b>Foreseeing private car transfer between urban regions with multiple graph-based generative adversarial networks[J]</b>. World Wide Web, 2022: 1-20. [Link](https://link.springer.com/article/10.1007/s11280-021-00995-z)
 
-* Su J, Ren J, Yang J, et al. <b>Gdformer: A Graph Diffusing Attention Based Approach for Traffic Flow Prediction[J]</b>. Pattern Recognition Letters, 2022. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4019504) [Code (Still empty on 2022/03/01)](https://github.com/dublinsky/GDFormer)
+* Su J, Ren J, Yang J, et al. <b>Gdformer: A Graph Diffusing Attention Based Approach for Traffic Flow Prediction[J]</b>. Pattern Recognition Letters, 2022. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4019504) [Code](https://github.com/dublinsky/GDFormer)
 
 * Shi M, Tang Y, Zhu X, et al. <b>Genetic-GNN: Evolutionary architecture search for Graph Neural Networks[J]</b>. Knowledge-Based Systems, 2022, 247: 108752. [Link](https://www.sciencedirect.com/science/article/pii/S0950705122003525) [Code](https://github.com/codeshareabc/Genetic-GNN)
 
