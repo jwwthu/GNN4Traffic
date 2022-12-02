@@ -55,6 +55,16 @@ Top journals with paper counts:
 
 # 2022
 ## Journal
+* Li R, Zhang F, Li T, et al. <b>DMGAN: Dynamic Multi-Hop Graph Attention Network for Traffic Forecasting[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9944937/) [Code](https://github.com/EEHITer/2022-TKDE-DMGAN-Pytorch/tree/main)
+
+* Li M, Tang Y, Ma W. <b>Few-Sample Traffic Prediction With Graph Networks Using Locale as Relational Inductive Biases[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9945664/) [Code](https://github.com/MingxiLii/LocaleGN)
+
+* He Z, Zhao C, Huang Y. <b>Multivariate Time Series Deep Spatiotemporal Forecasting with Graph Neural Network[J]</b>. Applied Sciences, 2022, 12(11): 5731. [Link](https://www.mdpi.com/1663940) [Code](https://github.com/yiminghzc/MDST-GNN)
+
+* Zhao Y, Lin Y, Wen H, et al. <b>Spatial-Temporal Position-Aware Graph Convolution Networks for Traffic Flow Forecasting[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9945663/) [Code](https://github.com/yijizhao/STPGCN)
+
+* Tygesen M N, Pereira F C, Rodrigues F. <b>Unboxing the graph: Towards interpretable graph neural networks for transport prediction through neural relational inference[J]</b>. Transportation Research Part C: Emerging Technologies, 2023, 146: 103946. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X2200359X) [Code](https://github.com/MathiasNT/NRI_for_Transport)
+
 * Li H, Jin D, Li X J, et al. <b>A Dynamic Heterogeneous Graph Convolution Network For Traffic Flow Prediction[J]</b>. The Computer Journal, 2022. [Link](https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxac156/6832431)
 
 * Xu Y, Cai X, Wang E, et al. <b>Dynamic Traffic Correlations based Spatio-Temporal Graph Convolutional Network for Urban Traffic Prediction[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522013779)
@@ -370,6 +380,12 @@ Top journals with paper counts:
 * Wu Y, Zhang H, Li C, et al. <b>Urban ride-hailing demand prediction with multi-view information fusion deep learning framework[J]</b>. Applied Intelligence, 2022: 1-19. [Link](https://link.springer.com/article/10.1007/s10489-022-03966-7)
 
 ## Conference
+* Hermes L, Hammer B, Melnik A, et al. <b>A Graph-based U-Net Model for Predicting Traffic in unseen Cities[C]</b>. 2022 International Joint Conference on Neural Networks (IJCNN), 2022. [Link](https://ieeexplore.ieee.org/document/9892453) [Code](https://github.com/LucaHermes/graph-UNet-traffic-prediction)
+
+* Lee H, Jin S, Chu H, et al. <b>Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting[C]</b>. International Conference on Learning Representations (ICLR 2022). [Link](https://arxiv.org/abs/2110.10380) [Code](https://github.com/HyunWookL/PM-MemNet)
+
+* Liu X, Liang Y, Huang C, et al. <b>When do contrastive learning signals help spatio-temporal graph forecasting?[C]</b>//Proceedings of the 30th International Conference on Advances in Geographic Information Systems. 2022: 1-12. [Link](https://dl.acm.org/doi/abs/10.1145/3557915.3560939) [Code](https://github.com/liuxu77/STGCL)
+
 * Feng Y, Han F, Zhao S. <b>A Graph Convolutional Stacked Temporal Attention Neural Network for Traffic Flow Forecasting[C]</b>//2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022: 1-7. [Link](https://ieeexplore.ieee.org/abstract/document/9892031/)
 
 * Dong H, Zhu P, Gao J, et al. <b>A Short-term Traffic Flow Forecasting Model Based on Spatial-temporal Attention Neural Network[C]</b>//2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2022: 416-421. [Link](https://ieeexplore.ieee.org/abstract/document/9922386/)
@@ -461,6 +477,8 @@ Top journals with paper counts:
 * Zhuang D, Wang S, Koutsopoulos H, et al. <b>Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks[C]</b>//Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022: 4639-4647. [Link](https://dl.acm.org/doi/abs/10.1145/3534678.3539093)
 
 ## Preprint
+* Tang Y, He J, Zhao Z. <b>HGARN: Hierarchical Graph Attention Recurrent Network for Human Mobility Prediction[J]</b>. arXiv preprint arXiv:2210.07765, 2022. [Link](https://arxiv.org/abs/2210.07765) [Code](https://github.com/YihongT/HGARN)
+
 * Liang Y, Huang G, Zhao Z. <b>Bike Sharing Demand Prediction based on Knowledge Sharing across Modes: A Graph-based Deep Learning Approach[J]</b>. arXiv preprint arXiv:2203.10961, 2022. [Link](https://arxiv.org/abs/2203.10961)
 
 * Liang Y, Huang G, Zhao Z. <b>Cross-Mode Knowledge Adaptation for Bike Sharing Demand Prediction using Domain-Adversarial Graph Neural Networks[J]</b>. arXiv preprint arXiv:2211.08903, 2022. [Link](https://arxiv.org/abs/2211.08903)
