@@ -53,8 +53,26 @@ Top journals with paper counts:
 > Description: A graph based strategic transport planning dataset, aimed at creating the next generation of deep graph neural networks for transfer learning. Based on simulation results of the Four Step Model in PTV Visum.
 > Relevant Thesis: [Development of a Deep Learning Surrogate for the Four-Step Transportation Model](https://mediatum.ub.tum.de/doc/1638691/dwz10x0l0w38xdklv9zkrprqs.pdf)
 
+# 2023
+## Journal
+* Wang Z, Ding D, Liang X. <b>TYRE: A dynamic graph model for traffic prediction[J]</b>. Expert Systems with Applications, 2023, 215: 119311. [Link](https://www.sciencedirect.com/science/article/pii/S0957417422023296) [Code](https://github.com/wzhtxy/Traffic-dYnamic-gRaph-modEl)
+* Tygesen M N, Pereira F C, Rodrigues F. <b>Unboxing the graph: Towards interpretable graph neural networks for transport prediction through neural relational inference[J]</b>. Transportation Research Part C: Emerging Technologies, 2023, 146: 103946. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X2200359X) [Code](https://github.com/MathiasNT/NRI_for_Transport)
+
+## Conference
+* Jiang R, Wang Z, Yong J, et al. <b>Spatio-Temporal Meta-Graph Learning for Traffic Forecasting[C]</b>. AAAI 2023. [Link](https://arxiv.org/abs/2211.14701) [Code](https://github.com/deepkashiwa20/MegaCRN)
+* Ji J, Wang J, Huang C, et al. <b>Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction[C]</b>. AAAI 2023. [Link](https://arxiv.org/abs/2212.04475) [Code](https://github.com/Echo-Ji/ST-SSL)
+
 # 2022
 ## Journal
+* Zuo J, Zeitouni K, Taher Y, et al. <b>Graph convolutional networks for traffic forecasting with missing values[J]</b>. Data Mining and Knowledge Discovery, 2022: 1-35. [Link](https://link.springer.com/article/10.1007/s10618-022-00903-7) [Code](https://github.com/JingweiZuo/GCN-M)
+* Zheng F, Zhao J, Ye J, et al. <b>Metro OD Matrix Prediction based on Multi-view Passenger Flow Evolution Trend Modeling[J]</b>. IEEE Transactions on Big Data, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9991082/) [Code](https://github.com/zfrInSIAT/MVPF-code)
+* Qiu Z, Zhu T, Jin Y, et al. <b>A Graph Attention Fusion Network for Event-Driven Traffic Speed Prediction[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522014918)
+* Xue R, Zhao S, Han F. <b>An Embedding-Driven Multi-Hop Spatio-Temporal Attention Network for Traffic Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9960956/)
+* Wang C, Zhang K, Wang H, et al. <b>Auto-STGCN: Autonomous Spatial-Temporal Graph Convolutional Network Search[J]</b>. ACM Transactions on Knowledge Discovery from Data, 2022. [Link](https://dl.acm.org/doi/abs/10.1145/3571285)
+* Lin L, Li W, Zhu L. <b>Data-Driven Graph Filter-Based Graph Convolutional Neural Network Approach for Network-Level Multi-Step Traffic Prediction[J]</b>. Sustainability, 2022, 14(24): 16701. [Link](https://www.mdpi.com/2071-1050/14/24/16701)
+* Wang C, Tian R, Hu J, et al. <b>A Trend Graph Attention Network for Traffic Prediction[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522015432)
+* Guo C, Chen C H, Hwang F J, et al. <b>Fast Spatiotemporal Learning Framework for Traffic Flow Forecasting[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9966328/)
+* Zhu C, Yu C, Huo J. <b>Research on spatio-temporal network prediction model of parallel-series traffic flow based on Transformer and GCAT[J]</b>. Physica A: Statistical Mechanics and its Applications, 2022: 128414. [Link](https://www.sciencedirect.com/science/article/pii/S0378437122009724)
 * Li R, Zhang F, Li T, et al. <b>DMGAN: Dynamic Multi-Hop Graph Attention Network for Traffic Forecasting[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9944937/) [Code](https://github.com/EEHITer/2022-TKDE-DMGAN-Pytorch/tree/main)
 
 * Li M, Tang Y, Ma W. <b>Few-Sample Traffic Prediction With Graph Networks Using Locale as Relational Inductive Biases[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9945664/) [Code](https://github.com/MingxiLii/LocaleGN)
@@ -62,8 +80,6 @@ Top journals with paper counts:
 * He Z, Zhao C, Huang Y. <b>Multivariate Time Series Deep Spatiotemporal Forecasting with Graph Neural Network[J]</b>. Applied Sciences, 2022, 12(11): 5731. [Link](https://www.mdpi.com/1663940) [Code](https://github.com/yiminghzc/MDST-GNN)
 
 * Zhao Y, Lin Y, Wen H, et al. <b>Spatial-Temporal Position-Aware Graph Convolution Networks for Traffic Flow Forecasting[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9945663/) [Code](https://github.com/yijizhao/STPGCN)
-
-* Tygesen M N, Pereira F C, Rodrigues F. <b>Unboxing the graph: Towards interpretable graph neural networks for transport prediction through neural relational inference[J]</b>. Transportation Research Part C: Emerging Technologies, 2023, 146: 103946. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X2200359X) [Code](https://github.com/MathiasNT/NRI_for_Transport)
 
 * Li H, Jin D, Li X J, et al. <b>A Dynamic Heterogeneous Graph Convolution Network For Traffic Flow Prediction[J]</b>. The Computer Journal, 2022. [Link](https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxac156/6832431)
 
@@ -380,6 +396,7 @@ Top journals with paper counts:
 * Wu Y, Zhang H, Li C, et al. <b>Urban ride-hailing demand prediction with multi-view information fusion deep learning framework[J]</b>. Applied Intelligence, 2022: 1-19. [Link](https://link.springer.com/article/10.1007/s10489-022-03966-7)
 
 ## Conference
+* Li D, Kwak S, Geroliminis N. <b>TwoResNet: Two-level resolution neural network for traffic forecasting on freeway networks[C]</b>//2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2022: 3963-3969. [Link](https://ieeexplore.ieee.org/abstract/document/9922160/) [Code](https://github.com/semink/TwoResNet)
 * Hermes L, Hammer B, Melnik A, et al. <b>A Graph-based U-Net Model for Predicting Traffic in unseen Cities[C]</b>. 2022 International Joint Conference on Neural Networks (IJCNN), 2022. [Link](https://ieeexplore.ieee.org/document/9892453) [Code](https://github.com/LucaHermes/graph-UNet-traffic-prediction)
 
 * Lee H, Jin S, Chu H, et al. <b>Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting[C]</b>. International Conference on Learning Representations (ICLR 2022). [Link](https://arxiv.org/abs/2110.10380) [Code](https://github.com/HyunWookL/PM-MemNet)
@@ -477,6 +494,8 @@ Top journals with paper counts:
 * Zhuang D, Wang S, Koutsopoulos H, et al. <b>Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks[C]</b>//Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022: 4639-4647. [Link](https://dl.acm.org/doi/abs/10.1145/3534678.3539093)
 
 ## Preprint
+* Tang Y, He J, Zhao Z. <b>HGARN: Hierarchical Graph Attention Recurrent Network for Human Mobility Prediction[J]</b>. arXiv preprint arXiv:2210.07765, 2022. [Link](https://arxiv.org/abs/2210.07765) [Code](https://github.com/YihongT/HGARN)
+* Deng L, Wu C, Lian D, et al. <b>Transposed Variational Auto-encoder with Intrinsic Feature Learning for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2211.00641, 2022. [Link](https://arxiv.org/abs/2211.00641) [Code](https://github.com/Daftstone/Traffic4cast)
 * Tang Y, He J, Zhao Z. <b>HGARN: Hierarchical Graph Attention Recurrent Network for Human Mobility Prediction[J]</b>. arXiv preprint arXiv:2210.07765, 2022. [Link](https://arxiv.org/abs/2210.07765) [Code](https://github.com/YihongT/HGARN)
 
 * Liang Y, Huang G, Zhao Z. <b>Bike Sharing Demand Prediction based on Knowledge Sharing across Modes: A Graph-based Deep Learning Approach[J]</b>. arXiv preprint arXiv:2203.10961, 2022. [Link](https://arxiv.org/abs/2203.10961)
