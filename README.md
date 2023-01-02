@@ -42,8 +42,6 @@ Top journals with paper counts:
 
 * Urban-computing-papers [Link](https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers)
 
-* Spatio-Temporal-papers [Link](https://github.com/datawhalechina/spatio-temporal-papers)
-
 * Awesome-Mobility-Machine-Learning-Contents [Link](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents/blob/master/README.md)
 
 * Traffic Prediction [Link](https://github.com/aprbw/traffic_prediction)
