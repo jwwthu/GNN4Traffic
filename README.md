@@ -50,9 +50,13 @@ Top journals with paper counts:
 * Strategic Transport Planning Dataset [Link](https://github.com/nikita68/TransportPlanningDataset)
 > Description: A graph based strategic transport planning dataset, aimed at creating the next generation of deep graph neural networks for transfer learning. Based on simulation results of the Four Step Model in PTV Visum.
 > Relevant Thesis: [Development of a Deep Learning Surrogate for the Four-Step Transportation Model](https://mediatum.ub.tum.de/doc/1638691/dwz10x0l0w38xdklv9zkrprqs.pdf)
+* Zhang Y, Gong Q, Chen Y, et al. <b>A Human Mobility Dataset Collected via LBSLab[J]</b>. Data in Brief, 2023: 108898. [Link](https://www.sciencedirect.com/science/article/pii/S2352340923000161) [Data](https://doi.org/10.6084/m9.figshare.15000384.v3)
+* Jiang R, Cai Z, Wang Z, et al. <b>Yahoo! Bousai Crowd Data: A Large-Scale Crowd Density and Flow Dataset in Tokyo and Osaka[C]</b>//2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 6676-6677. [Link](https://ieeexplore.ieee.org/abstract/document/10020886/) [Data](https://github.com/deepkashiwa20/DeepCrowd)
 
 # 2023
 ## Journal
+* Han Y, Zhao S, Deng H, et al. <b>Principal graph embedding convolutional recurrent network for traffic flow prediction[J]</b>. Applied Intelligence, 2023: 1-15. [Link](https://link.springer.com/article/10.1007/s10489-022-04211-x) [Code](https://github.com/hanyang-sh/PGECRN)
+* He R, Xiao Y, Lu X, et al. <b>ST-3DGMR: Spatio-temporal 3D grouped multiscale ResNet network for region-based urban traffic flow prediction[J]</b>. Information Sciences, 2023, 624: 68-93. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522015614) [Code](https://github.com/346644054/ST-3DGMR)
 * Zhang J, Liu Y, Gui Y, et al. <b>An Improved Model Combining Outlook Attention and Graph Embedding for Traffic Forecasting[J]</b>. Symmetry, 2023, 15(2): 312. [Link](https://www.mdpi.com/2073-8994/15/2/312)
 * Li Z L, Yu J, Zhang G W, et al. <b>Dynamic spatio-temporal graph network with adaptive propagation mechanism for multivariate time series forecasting[J]</b>. Expert Systems with Applications, 2023, 216: 119374. [Link](https://www.sciencedirect.com/science/article/pii/S0957417422023922)
 * Huo G, Zhang Y, Wang B, et al. <b>Hierarchical Spatio–Temporal Graph Convolutional Networks and Transformer Network for Traffic Flow Forecasting[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10012451/)
@@ -412,6 +416,8 @@ Top journals with paper counts:
 * Wu Y, Zhang H, Li C, et al. <b>Urban ride-hailing demand prediction with multi-view information fusion deep learning framework[J]</b>. Applied Intelligence, 2022: 1-19. [Link](https://link.springer.com/article/10.1007/s10489-022-03966-7)
 
 ## Conference
+* Nguyen M P, Dao M S, Nguyen T B. <b>3D-STGPCN: 3D Spatio-Temporal Graph Point-wise Convolutional Network for Traffic Forecasting[C]</b>//2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 5998-6007. [Link](https://ieeexplore.ieee.org/abstract/document/10020288/) [Code](https://github.com/dophanh-26/3D-STGPCN)
+* He H, Ye K. <b>Graph Structure Neural Differential Equations on Spatio-temporal Prediction[C]</b>//2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 1830-1835. [Link](https://ieeexplore.ieee.org/abstract/document/10020863/) [Code](https://github.com/NCGDE/NDE-CODE)
 * Yao H X, Guo J, Yang J T, et al. <b>Dynamic Graph Attention Recurrent Network for Traffic Prediction[C]</b>//2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 1254-1259. [Link](https://ieeexplore.ieee.org/abstract/document/10020347/)
 * Yao H, Chen R, Xie Z, et al. <b>MRA-DGCN: Multi-Range Attention-Based Dynamic Graph Convolutional Network for Traffic Prediction[C]</b>//2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 1613-1621. [Link](https://ieeexplore.ieee.org/abstract/document/10020493/)
 * Cai M, Pang Y, Sekimoto Y. <b>Spatial Attention Based Grid Representation Learning For Predicting Origin–Destination Flow[C]</b>//2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 485-494. [Link](https://ieeexplore.ieee.org/abstract/document/10021023/)
