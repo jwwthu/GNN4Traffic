@@ -15,7 +15,7 @@ For a wider collection of deep learning for traffic forecasting, you may check: 
 
 **Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Neural Network for Traffic Forecasting" for Algorithms (EI and ESCI-indexed, ISSN 1999-4893).
 * Special issue website: [https://www.mdpi.com/journal/algorithms/special_issues/Traffic_Forecasting](https://www.mdpi.com/journal/algorithms/special_issues/Traffic_Forecasting)
-* Deadline for manuscript submissions: **1 December 2022**.
+* Deadline for manuscript submissions: **31 May 2023**.
 
 **Advertisement**: If you are interested in maintaining this repository, feel free to drop me an email.
 
