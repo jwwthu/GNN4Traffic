@@ -57,6 +57,7 @@ Top journals with paper counts:
 
 # 2023
 ## Journal
+* Ge L, Jia Y, Li Q, et al. <b>Dynamic multi-graph convolution recurrent neural network for traffic speed prediction[J]</b>. Journal of Intelligent & Fuzzy Systems (Preprint): 1-14, 2023. [Link](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs222857)
 * Luo R, Song Y, Huang L, et al. <b>AST-GIN: Attribute-Augmented Spatiotemporal Graph Informer Network for Electric Vehicle Charging Station Availability Forecasting[J]</b>. Sensors, 2023, 23(4): 1975. [Link](https://www.mdpi.com/2127854) [Data](https://data.dundeecity.gov.uk/dataset/ev-charging-data)
 * Li F, Feng J, Yan H, et al. <b>Dynamic graph convolutional recurrent network for traffic prediction: Benchmark and solution[J]</b>. ACM Transactions on Knowledge Discovery from Data (TKDD), 2023. [Link](https://dl.acm.org/doi/abs/10.1145/3532611) [Code](https://github.com/tsinghua-fib-lab/Traffic-Benchmark)
 * Tao S, Zhang H, Yang F, et al. <b>Multiple Information Spatial-Temporal Attention Based Graph Convolution Network for traffic prediction[J]</b>. Applied Soft Computing, 2023: 110052. [Link](https://www.sciencedirect.com/science/article/pii/S1568494623000704) [Code](https://codeocean.com/capsule/0428516/tree/v1)
