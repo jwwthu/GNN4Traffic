@@ -9,6 +9,12 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 For a wider collection of deep learning for traffic forecasting, you may check: [DL4Traffic](https://github.com/jwwthu/DL4Traffic)
 
+**Advertisement**: We would like to cordially invite you to submit a paper to our special session on "Deep Neural Networks for Traffic Forecasting" for the 26th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2023).
+* Special session code: efkwb
+* ITSC 2023 website: [https://2023.ieee-itsc.org/](https://2023.ieee-itsc.org/)
+* Paper submission website: [http://its.papercept.net/](http://its.papercept.net/)
+* Deadline for manuscript submissions: **15 May 2023**.
+
 **Advertisement**: We would like to cordially invite you to submit a paper to our special session on "Graph Neural Network for Traffic Forecasting" for the 25th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2022).
 * Special session code: 6495a
 * ITSC 2022 website: [https://www.ieee-itsc2022.org/](https://www.ieee-itsc2022.org/)
