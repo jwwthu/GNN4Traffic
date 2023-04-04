@@ -63,6 +63,8 @@ Top journals with paper counts:
 
 # 2023
 ## Journal
+* Trirat P, Yoon S, Lee J G. : <b>Multi-View Graph Convolutional Networks for Traffic Accident Risk Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10023949/) [Code](https://github.com/kaist-dmlab/MG-TAR)
+* Bao Y, Huang J, Shen Q, et al. <b>Spatial–Temporal Complex Graph Convolution Network for Traffic Flow Prediction[J]</b>. Engineering Applications of Artificial Intelligence, 2023, 121: 106044. [Link](https://www.sciencedirect.com/science/article/pii/S0952197623002282) [Code](https://github.com/Bounger2/ST-CGCN)
 * Zhang X, Wang C, Chen J, et al. <b>A deep neural network model with GCN and 3D convolutional network for short‐term metro passenger flow forecasting[J]</b>. IET Intelligent Transport Systems, 2023. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12352)
 * Li B, Yang Q, Chen J, et al. <b>A Dynamic Spatio-Temporal Deep Learning Model for Lane-Level Traffic Prediction[J]</b>. Journal of Advanced Transportation, 2023, 2023. [Link](https://www.hindawi.com/journals/jat/2023/3208535/)
 * Liu L, Wu M, Chen R C, et al. <b>A Hybrid Deep Learning Model for Multi-Station Classification and Passenger Flow Prediction[J]</b>. Applied Sciences, 2023, 13(5): 2899. [Link](https://www.mdpi.com/2076-3417/13/5/2899)
@@ -128,6 +130,7 @@ Top journals with paper counts:
 * Ji J, Wang J, Huang C, et al. <b>Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction[C]</b>. AAAI 2023. [Link](https://arxiv.org/abs/2212.04475) [Code](https://github.com/Echo-Ji/ST-SSL)
 
 ## Preprint
+* Choi J, Park N. <b>Graph Neural Rough Differential Equations for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2303.10909, 2023. [Link](https://arxiv.org/abs/2303.10909) [Code](https://github.com/jeongwhanchoi/STG-NCDE)
 * Liu H, Zhu C, Zhang D, et al. <b>Attention-based Spatial-Temporal Graph Convolutional Recurrent Networks for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2302.12973, 2023. [Link](https://arxiv.org/abs/2302.12973)
 * Chen K, Han J, Feng S, et al. <b>Cross-City Traffic Prediction via Semantic-Fused Hierarchical Graph Transfer Learning[J]</b>. arXiv preprint arXiv:2302.11774, 2023. [Link](https://arxiv.org/abs/2302.11774)
 * Luo X, Zhu C, Zhang D, et al. <b>Dynamic Graph Convolution Network with Spatio-Temporal Attention Fusion for Traffic Flow Prediction[J]</b>. arXiv preprint arXiv:2302.12598, 2023. [Link](https://arxiv.org/abs/2302.12598)
