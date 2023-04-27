@@ -63,6 +63,19 @@ Top journals with paper counts:
 
 # 2023
 ## Journal
+* Yu Q, Zhang Y, Guo J, et al. <b>A multiple spatio‐temporal features fusion approach for short‐term passenger flow forecasting in urban rail transit[J]</b>. IET Intelligent Transport Systems, 2023. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12365)
+* Liu T, Zhang J. <b>An adaptive traffic flow prediction model based on spatiotemporal graph neural network[J]</b>. The Journal of Supercomputing, 2023: 1-25. [Link](https://link.springer.com/article/10.1007/s11227-023-05261-9)
+* Chen L, Ren Q, Zeng J, et al. <b>CSFPre: Expressway key sections based on CEEMDAN-STSGCN-FCM during the holidays for traffic flow prediction[J]</b>. Plos one, 2023, 18(4): e0283898. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283898)
+* Li H, Jin D, Li X, et al. <b>DMGF-Net: An Efficient Dynamic Multi-Graph Fusion Network for Traffic Prediction[J]</b>. ACM Transactions on Knowledge Discovery from Data, 2023. [Link](https://dl.acm.org/doi/abs/10.1145/3586164)
+* Zhang H, Kan S, Zhang X J, et al. <b>Dynamic Spatial–Temporal Convolutional Networks for Traffic Flow Forecasting[J]</b>. Transportation Research Record, 2023: 03611981231159407. [Link](https://journals.sagepub.com/doi/abs/10.1177/03611981231159407)
+* Brimos P, Karamanou A, Kalampokis E, et al. <b>Graph Neural Networks and Open-Government Data to Forecast Traffic Flow[J]</b>. Information, 2023, 14(4): 228. [Link](https://www.mdpi.com/2078-2489/14/4/228)
+* Wang B, Zhang Y, Shi J, et al. <b>Knowledge Expansion and Consolidation for Continual Traffic Prediction With Expanding Graphs[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10101714/)
+* Oluwasanmi A, Aftab M U, Qin Z, et al. <b>Multi-Head Spatiotemporal Attention Graph Convolutional Network for Traffic Prediction[J]</b>. Sensors, 2023, 23(8): 3836. [Link](https://www.mdpi.com/1424-8220/23/8/3836)
+* Liu Y, Wang C, Xu S, et al. <b>Multi-weighted graph 3D convolution network for traffic prediction[J]</b>. Neural Computing and Applications, 2023: 1-17. [Link](https://link.springer.com/article/10.1007/s00521-023-08519-8)
+* Chen J, Wang W, Yu K, et al. <b>Node Connection Strength Matrix-Based Graph Convolution Network for Traffic Flow Prediction[J]</b>. IEEE Transactions on Vehicular Technology, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10093942/)
+* Zhai X, Shen Y. <b>Short-Term Bus Passenger Flow Prediction Based on Graph Diffusion Convolutional Recurrent Neural Network[J]</b>. Applied Sciences, 2023, 13(8): 4910. [Link](https://www.mdpi.com/2076-3417/13/8/4910)
+* Fafoutellis P, Vlahogianni E I. <b>Traffic Demand Prediction Using a Social Multiplex Networks Representation on a Multimodal and Multisource Dataset[J]</b>. International Journal of Transportation Science and Technology, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2046043023000357)
+* Ren Q, Li Y, Liu Y. <b>Transformer-enhanced periodic temporal convolution network for long short-term traffic flow forecasting[J]</b>. Expert Systems with Applications, 2023: 120203. [Link](https://www.sciencedirect.com/science/article/pii/S0957417423007054)
 * Trirat P, Yoon S, Lee J G. : <b>Multi-View Graph Convolutional Networks for Traffic Accident Risk Prediction[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10023949/) [Code](https://github.com/kaist-dmlab/MG-TAR)
 * Bao Y, Huang J, Shen Q, et al. <b>Spatial–Temporal Complex Graph Convolution Network for Traffic Flow Prediction[J]</b>. Engineering Applications of Artificial Intelligence, 2023, 121: 106044. [Link](https://www.sciencedirect.com/science/article/pii/S0952197623002282) [Code](https://github.com/Bounger2/ST-CGCN)
 * Zhang X, Wang C, Chen J, et al. <b>A deep neural network model with GCN and 3D convolutional network for short‐term metro passenger flow forecasting[J]</b>. IET Intelligent Transport Systems, 2023. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12352)
@@ -126,6 +139,8 @@ Top journals with paper counts:
 * Tygesen M N, Pereira F C, Rodrigues F. <b>Unboxing the graph: Towards interpretable graph neural networks for transport prediction through neural relational inference[J]</b>. Transportation Research Part C: Emerging Technologies, 2023, 146: 103946. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X2200359X) [Code](https://github.com/MathiasNT/NRI_for_Transport)
 
 ## Conference
+* Wang B, Zhang Y, Wang P, et al. <b>A Knowledge-Driven Memory System for Traffic Flow Prediction[C]</b>//Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part IV. Cham: Springer Nature Switzerland, 2023: 192-207. [Link](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_15)
+* Liang H, Liu A, Qu J, et al. <b>Region-Aware Graph Convolutional Network for Traffic Flow Forecasting[C]</b>//Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part IV. Cham: Springer Nature Switzerland, 2023: 431-446. [Link](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_32)
 * Jiang R, Wang Z, Yong J, et al. <b>Spatio-Temporal Meta-Graph Learning for Traffic Forecasting[C]</b>. AAAI 2023. [Link](https://arxiv.org/abs/2211.14701) [Code](https://github.com/deepkashiwa20/MegaCRN)
 * Ji J, Wang J, Huang C, et al. <b>Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction[C]</b>. AAAI 2023. [Link](https://arxiv.org/abs/2212.04475) [Code](https://github.com/Echo-Ji/ST-SSL)
 
