@@ -51,6 +51,13 @@ Top journals with paper counts:
 
 # 2023
 ## Journal
+* Qi X, Yao J, Wang P, et al. <b>Combining weather factors to predict traffic flow: A spatial‐temporal fusion graph convolutional network‐based deep learning approach[J]</b>. IET Intelligent Transport Systems, 2023. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12401)
+* Tian R, Wang C, Hu J, et al. <b>MFSTGN: a multi-scale spatial-temporal fusion graph network for traffic prediction[J]</b>. Applied Intelligence, 2023: 1-20. [Link](https://link.springer.com/article/10.1007/s10489-023-04703-4)
+* Zhao W, Zhang S, Zhou B, et al. <b>Multi-spatio-temporal Fusion Graph Recurrent Network for Traffic Forecasting[J]</b>. Engineering Applications of Artificial Intelligence, 2023, 124: 106615. [Link](https://www.sciencedirect.com/science/article/pii/S0952197623007996)
+* Zhou J, Qin X, Ding Y, et al. <b>Spatial–Temporal Dynamic Graph Differential Equation Network for Traffic Flow Forecasting[J]</b>. Mathematics, 2023, 11(13): 2867. [Link](https://www.mdpi.com/2227-7390/11/13/2867)
+* Wang C, Wang L, Wei S, et al. <b>STN-GCN: Spatial and Temporal Normalization Graph Convolutional Neural Networks for Traffic Flow Forecasting[J]</b>. Electronics, 2023, 12(14): 3158. [Link](https://www.mdpi.com/2079-9292/12/14/3158)
+* Cheng X, He Y, Zhang P, et al. <b>Traffic flow prediction based on information aggregation and comprehensive temporal-spatial synchronous graph neural network[J]</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10068539/)
+* Zhao Z, Shen G, Zhou J, et al. <b>Spatial-temporal hypergraph convolutional network for traffic forecasting[J]</b>. PeerJ Computer Science, 2023, 9: e1450. [Link](https://peerj.com/articles/cs-1450/) [Code](http://dx.doi.org/10.7717/peerj-cs.1450#supplemental-information)
 * Liang G, Kintak U, Ning X, et al. <b>Semantics-aware dynamic graph convolutional network for traffic flow forecasting[J]</b>. IEEE Transactions on Vehicular Technology, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10032116/) [Code](https://github.com/gorgen2020/SDGCN)
 * Wen Y, Li Z, Wang X, et al. <b>Traffic demand prediction based on spatial-temporal guided multi graph Sandwich-Transformer[J]</b>. Information Sciences, 2023: 119269. [Link](https://www.sciencedirect.com/science/article/pii/S002002552300854X) [Code](https://github.com/YanJieWen/STGMT-Tensorflow-implementation)
 * Hu S, Ye Y, Hu Q, et al. <b>A Federated Learning-Based Framework for Ride-sourcing Traffic Demand Prediction[J]</b>. IEEE Transactions on Vehicular Technology, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10155190/)
@@ -170,6 +177,7 @@ Top journals with paper counts:
 * Tygesen M N, Pereira F C, Rodrigues F. <b>Unboxing the graph: Towards interpretable graph neural networks for transport prediction through neural relational inference[J]</b>. Transportation Research Part C: Emerging Technologies, 2023, 146: 103946. [Link](https://www.sciencedirect.com/science/article/pii/S0968090X2200359X) [Code](https://github.com/MathiasNT/NRI_for_Transport)
 
 ## Conference
+* Fang Y, Qin Y, Luo H, et al. <b>When Spatio-Temporal Meet Wavelets: Disentangled Traffic Forecasting via Efficient Spectral Graph Attention Networks[C]</b>//2023 IEEE 39th International Conference on Data Engineering (ICDE). IEEE, 2023: 517-529. [Link](https://ieeexplore.ieee.org/abstract/document/10184591/) [Code](https://github.com/LMissher/STWave)
 * Zhang Q, Huang C, Xia L, et al. <b>Automated Spatio-Temporal Graph Contrastive Learning[C]</b>//Proceedings of the ACM Web Conference 2023. 2023: 295-305. [Link](https://dl.acm.org/doi/abs/10.1145/3543507.3583304) [Code](https://github.com/HKUDS/AutoST)
 * Li Z, Ren Q, Chen L, et al. <b>Dual-Stage Graph Convolution Network With Graph Learning For Traffic Prediction[C]</b>//ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/10095151/)
 * Wang B, Zhang Y, Wang P, et al. <b>A Knowledge-Driven Memory System for Traffic Flow Prediction[C]</b>//Database Systems for Advanced Applications: 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part IV. Cham: Springer Nature Switzerland, 2023: 192-207. [Link](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_15)
@@ -178,6 +186,8 @@ Top journals with paper counts:
 * Ji J, Wang J, Huang C, et al. <b>Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction[C]</b>. AAAI 2023. [Link](https://arxiv.org/abs/2212.04475) [Code](https://github.com/Echo-Ji/ST-SSL)
 
 ## Preprint
+* Li Z, Li W, Hwang K. <b>Adaptive Graph Convolution Networks for Traffic Flow Forecasting[J]</b>. arXiv preprint arXiv:2307.05517, 2023. [Link](https://arxiv.org/abs/2307.05517) [Code](https://github.com/zhengdaoli/AGC-net)
+* Luo X, Zhu C, Zhang D, et al. <b>STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction[J]</b>. arXiv preprint arXiv:2307.00495, 2023. [Link](https://arxiv.org/abs/2307.00495) [Code](https://github.com/trainingl/STG4Traffic)
 * Gupta M, Kodamana H, Ranu S. <b>FRIGATE: Frugal Spatio-temporal Forecasting on Road Networks[J]</b>. arXiv preprint arXiv:2306.08277, 2023. [Link](https://arxiv.org/abs/2306.08277) [Code](https://github.com/idea-iitd/Frigate)
 * Liu X, Xia Y, Liang Y, et al. <b>LargeST: A Benchmark Dataset for Large-Scale Traffic Forecasting[J]</b>. arXiv preprint arXiv:2306.08259, 2023. [Link](https://arxiv.org/abs/2306.08259) [Code and Data](https://github.com/liuxu77/LargeST)
 * Caicedo J D, González M C, Walker J L. <b>Public Transit Demand Prediction During Highly Dynamic Conditions: A Meta-Analysis of State-of-the-Art Models and Open-Source Benchmarking Infrastructure[J]</b>. arXiv preprint arXiv:2306.06194, 2023. [Link](https://arxiv.org/abs/2306.06194) [Code](https://github.com/jdcaicedo251/transit_demand_prediction) [Data](https://datosabiertos-transmilenio.hub.arcgis.com/)
