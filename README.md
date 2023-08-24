@@ -42,6 +42,8 @@ Top journals with paper counts:
 
 * Traffic Prediction [Link](https://github.com/aprbw/traffic_prediction)
 
+* Paper & Code & Dataset Collection of Spatial-Temporal Data Mining. [Link](https://github.com/NickHan-cs/Spatio-Temporal-Data-Mining-Survey)
+
 # Relevant Data Repositories
 * Strategic Transport Planning Dataset [Link](https://github.com/nikita68/TransportPlanningDataset)
 > Description: A graph based strategic transport planning dataset, aimed at creating the next generation of deep graph neural networks for transfer learning. Based on simulation results of the Four Step Model in PTV Visum.
