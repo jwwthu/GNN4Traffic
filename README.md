@@ -13,6 +13,10 @@ For a wider collection of deep learning for traffic forecasting, you may check: 
 * Special issue website: [https://www.sciencedirect.com/journal/information-fusion/about/call-for-papers#graph-neural-network-for-traffic-forecasting](https://www.sciencedirect.com/journal/information-fusion/about/call-for-papers#graph-neural-network-for-traffic-forecasting)
 * Deadline for manuscript submissions: **1 December 2023**.
 
+**Advertisement**: We would like to cordially invite you to submit a paper to our Topical Collection on "Deep Neural Networks for Traffic Forecasting" for **Neural Computing and Applications (SCI-indexed, Impact Factor: 6.0)**.
+* Topical Collection website: [https://www.springer.com/journal/521/updates/26215426](https://www.springer.com/journal/521/updates/26215426)
+* Deadline for manuscript submissions: **1 April 2024**.
+
 **Advertisement**: If you are interested in maintaining this repository, feel free to drop me an email.
 
 Some simple paper statistics results are as follows.
