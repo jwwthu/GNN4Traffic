@@ -1100,8 +1100,6 @@ Top journals with paper counts:
 
 * Jin G, Yan H, Li F, et al. <b>Spatial-Temporal Dual Graph Neural Networks for Travel Time Estimation[J]</b>. arXiv preprint arXiv:2105.13591, 2021. [Link](https://arxiv.org/abs/2105.13591)
 
-* Zheng C, Fan X, Pan S, et al. <b>Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting[J]</b>. arXiv preprint arXiv:2111.13684, 2021. [Link](https://arxiv.org/abs/2111.13684)
-
 * Xu X, Zhang T, Xu C, et al. <b>Spatial-Temporal Tensor Graph Convolutional Network for Traffic Prediction[J]</b>. arXiv preprint arXiv:2103.06126, 2021. [Link](https://arxiv.org/abs/2103.06126)
 
 * Huang C. <b>STR-GODEs: Spatial-Temporal-Ridership Graph ODEs for Metro Ridership Prediction[J]</b>. arXiv preprint arXiv:2107.04980, 2021. [Link](https://arxiv.org/abs/2107.04980)
