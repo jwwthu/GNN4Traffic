@@ -55,6 +55,13 @@ Top journals with paper counts:
 * Zhang Y, Gong Q, Chen Y, et al. <b>A Human Mobility Dataset Collected via LBSLab[J]</b>. Data in Brief, 2023: 108898. [Link](https://www.sciencedirect.com/science/article/pii/S2352340923000161) [Data](https://doi.org/10.6084/m9.figshare.15000384.v3)
 * Jiang R, Cai Z, Wang Z, et al. <b>Yahoo! Bousai Crowd Data: A Large-Scale Crowd Density and Flow Dataset in Tokyo and Osaka[C]</b>//2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 6676-6677. [Link](https://ieeexplore.ieee.org/abstract/document/10020886/) [Data](https://github.com/deepkashiwa20/DeepCrowd)
 
+# 2024
+## Journal
+* Ju W, Zhao Y, et al. <b>COOL: A conjoint perspective on spatio-temporal graph neural network for traffic forecasting[J]</b>. Information Fusion, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S1566253524001192)
+
+## Preprint
+* Li H, Zhao Y, et al. <b>A Survey on Graph Neural Networks in Intelligent Transportation Systems[J]</b>. arXiv preprint arXiv:2401.00713, 2024. [Link](https://arxiv.org/abs/2401.00713)
+
 # 2023
 ## Journal
 * Qi X, Yao J, Wang P, et al. <b>Combining weather factors to predict traffic flow: A spatial‐temporal fusion graph convolutional network‐based deep learning approach[J]</b>. IET Intelligent Transport Systems, 2023. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12401)
