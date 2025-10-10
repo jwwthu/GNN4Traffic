@@ -55,6 +55,20 @@ Top journals with paper counts:
 * Zhang Y, Gong Q, Chen Y, et al. <b>A Human Mobility Dataset Collected via LBSLab[J]</b>. Data in Brief, 2023: 108898. [Link](https://www.sciencedirect.com/science/article/pii/S2352340923000161) [Data](https://doi.org/10.6084/m9.figshare.15000384.v3)
 * Jiang R, Cai Z, Wang Z, et al. <b>Yahoo! Bousai Crowd Data: A Large-Scale Crowd Density and Flow Dataset in Tokyo and Osaka[C]</b>//2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 6676-6677. [Link](https://ieeexplore.ieee.org/abstract/document/10020886/) [Data](https://github.com/deepkashiwa20/DeepCrowd)
 
+# 2025
+## Journal
+* Haifeng Sang, Wangxing Chen, et al. <b>Review of pedestrian trajectory prediction based on graph neural networks[J]</b>.Information Sciences, 2025. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007894)
+* Astuti L, Chiu C, et al. <b>Social-aware trajectory prediction using goal-directed attention networks with egocentric vision[J]</b>. PeerJ Computer Science, 2025.[Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12192891/)
+* Gao Y, Yang K, et al. <b>A vehicle trajectory prediction model that integrates spatial interaction and multiscale temporal features[J]</b>. Scientific Reports, 2025.[Link](https://www.nature.com/articles/s41598-025-93071-9)
+* Wang R, Lin W, et al. <b>Interaction-aware vehicle trajectory prediction using spatial-temporal dynamic graph neural network[J]</b>. Knowledge-Based Systems, 2025.
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S0950705125012286)
+* Li J, Xu K, et al. <b>Dynamic Interaction-Aware Trajectory Prediction with Bidirectional Graph Attention Network[J]</b>. Computers, Materials & Continua, 2025.[Link](https://www.techscience.com/cmc/v85n2/63821/pdf)
+* Yang S, et al. <b>Pedestrian trajectory prediction model based on self-attention mechanism and spatiotemporal graph[J]</b>. Results in Control and Optimization, 2025. [Link](https://www.sciencedirect.com/science/article/pii/S2667305325000596)
+
+## Preprint
+* Li R, Qiao T, et al. <b>Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction</b>. arXiv preprint arXiv:2502.02504, 2025.[Link](https://arxiv.org/abs/2502.02504)
+* Daniel Grimm, Ahmed Abouelazm, et al. <b>Goal-based Trajectory Prediction for improved Cross-Dataset Generalization</b>. arXiv preprint arXiv:2507.18196, 2025.[Link](https://arxiv.org/pdf/2507.18196)
+
 # 2024
 ## Journal
 * Ju W, Zhao Y, et al. <b>COOL: A conjoint perspective on spatio-temporal graph neural network for traffic forecasting[J]</b>. Information Fusion, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S1566253524001192)
@@ -1574,3 +1588,4 @@ Top journals with paper counts:
 * Wang X, Chen C, Min Y, et al. <b>Efficient metropolitan traffic prediction based on graph recurrent neural network[J]</b>. arXiv preprint arXiv:1811.00740, 2018. [Link](https://arxiv.org/abs/1811.00740) [Code](https://github.com/xxArbiter/grnn)
 
 * Hu J, Guo C, Yang B, et al. <b>Recurrent Multi-Graph Neural Networks for Travel Cost Prediction[J]</b>. arXiv preprint arXiv:1811.05157, 2018. [Link](https://arxiv.org/abs/1811.05157)
+
